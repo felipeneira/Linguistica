@@ -1,0 +1,57 @@
+﻿Correlativo;Nombre Lengua;Región Lengua;País;Coordenadas Geográficas;GlottoCode;IsoCode
+1;Mapudungun;Andes;Chile;-38.74 / -71.28;mapu1245;arn
+2;Ancash Quechua;Andes;Varios;3.90 / -51.80;huay1240;qwh
+3;Cajamarca Quechua;Andes;Perú;-7.09 / -78.32;caja1238;qvc
+4;Ecuadorian Quechua;Andes;Ecuador;-6.56 / -43.00;ecua1249;
+5;Ayacucho Quechua;Andes;Perú;-13.85 / -74.32;ayac1239;quy
+7;Aymara;Andes;Perú;-17.14 / -70.34;sout2996;ayc
+8;Jaqaru;Andes;Perú;-12.74 / -75.81;jaqa1244;jqr
+9;Chipaya;Andes;Bolivia;-18.74 / -67.90;chip1262;cap
+10;Uchumataqu;Andes;Bolivia;-16.73 / -68.97;uruu1244;ure
+11;Cholon;Andes;Perú;-9.23 / -75.96;chol1284;cht
+12;Mochica;Andes;Perú;-8.02 / -79.00;moch1259;omc
+13;Kunza;Andes;Chile;-23.00 / -69.00;kunz1244;kuz
+14;Millcayac;Andes;Argentina;3.11 / -66.24;mill1237;
+15;Allentiac;Andes;Argentina;-6.68 / -73.24;alle1238;
+16;Selknam;Patagonia;Chile;-54.00 / -68.50;onaa1245;ona
+17;Yahgan;Patagonia;Chile;/;yama1264;yag
+21;Pilaga;Chaco;Argentina;-25.01 / -60.15;pila1245;plg
+23;Wichi;Chaco;Argentina;-23.16 / -62.18;wich1261;
+25;Ayoreo;Chaco;Paraguay;-19.22 / -60.22;ayor1240;ayo
+26;Tapiete;Chaco;Paraguay;-21.42 / -62.68;tapi1253;tpj
+27;Kawesqar;Patagonia;Chile;-53.44 / -71.04;kawe1237;
+28;Tehuelche;Patagonia;Argentina;-47.58 / -68.32;tehu1242;teh
+29;Secoya;Amazonia;Perú y Ecuador;-0.46 / -75.55;seco1241;sey
+30;Urarina;Amazonia;Perú;-4.44 / -75.42;urar1246;ura
+35;Yanesha;Amazonia;Perú;-10.55 / -75.31;yane1238;ame
+36;Tariana;Amazonia;Brasil;0.44 / -68.90;tari1256;tae
+37;Tucano;Amazonia;Brasil;0.58 / -69.58;tuca1252;tuo
+39;Yauyos Quechua;Andes;Perú;-13.11 / -75.77;yauy1235;qux
+41;Puquina;Andes;Peru, Bolivia, Chile;-15.90 / -69.96;puqu1242;puq
+42;Lule;Chaco;Argentina;-25.22 / -61.89;lule1238;ule
+43;Vilela;Chaco;Argentina;-27.41 / -58.97;vile1241;vil
+44;Santiago del Estero Quechua;Andes;Argentina;-27.82 / -63.25;sant1432;qus
+45;Pacaraos Quechua;Andes;Perú;-11.14 / -76.73;paca1245;qvp
+46;kokama;Amazonia;Peru;/;coca1259;cod
+47;Gaviao;Amazonia;Brazil;-10.72 / -61.68;gavi1246;gvo
+48;Tiriyo;Amazonia;Brazil, Surinam;2.54 / -55.76;tiri1260;
+49;kalapalo;Amazonia;Brazil;-12.30 / -53.23;kuik1246;kui
+50;Karaja;Amazonia;Brazil;-11.19 / -50.35;kara1500;kpj
+51;Apinaye;Amazonia;Brazil;-6.11 / -47.63;apin1244;apn
+52;Kashibo-Kakataibo;Amazonia;Peru;/;cash1251;cbr
+53;Matses;Amazonia;Brazil;-5.74 / -72.63;mats1244;mcf
+54;Shiwilu;Amazonia;Peru;3.11 / -66.24;jebe1250;
+55;Cavineña;Amazonia;Bolivia;-13.35 / -66.63;cavi1250;cav
+56;Sanuma;Amazonia;Venezuela;/;sanu1240;xsu
+57;Hup;Amazonia;Colombia, Brazil;0.59 / -69.84;hupd1244;jup
+58;kulina;Amazonia;Peru, Brazil;/;culi1244;cul
+59;Bora;Amazonia;;/;bora1263;boa
+61;Trumai;Amazonia;Brazil;-11.81 / -53.57;trum1247;tpy
+63;Yurakare;Amazonia;Bolivia;/;yura1255;yuz
+64;Movima;Amazonia;Bolivia;-13.81 / -65.63;movi1243;mzp
+65;Puinave;Amazonia;Colombia;3.93 / -67.69;puin1248;pui
+71;Sabane;Amazonia;Brasil;-12.99 / -60.34;saba1268;sae
+72;aguaruna;Amazonia;Perú;/;agua1253;agr
+74;Kwaza;Amazonia;Brazil;/;kwaz1243;xwa
+75;Kakua;Amazonia;Brazil, Colombia;/;cacu1241;cbv
+76;Moseten;Amazonia;Bolivia;/;mose1249;cas

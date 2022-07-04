@@ -1,0 +1,330 @@
+Name;GLOTTOCODE;ISOCODE
+Avar (Batlukh dialect);batl1238;ava
+Avar (Hid dialect);hidd1238;ava
+Avar (Andalal dialect);anda1281;ava
+Avar (Antsukh dialect);ancu1238;ava
+Avar (Zakataly dialect);zaka1239;ava
+Avar (Karakh dialect);kara1473;ava
+Andi;andi1255;ani
+Akhvakh (Northern dialect);akhv1239;akv
+Akhvakh (Southern dialect);akhv1239;akv
+Bagvalal;bagv1239;kva
+Botlikh;botl1242;bph
+Godoberi;ghod1238;gdo
+Karata;kara1474;kpt
+Karata (Tokitin dialect);toki1238;kpt
+Khwarshi (Khwarshi dialect);xvar1237;khv
+Hinuq;hinu1240;gin
+Tindi;tind1238;tin
+Chamalal;cham1309;cji
+Hunzib;hunz1247;huz
+Khwarshi (Inkhokvari dialect);inxo1238;khv
+Tsez (Sagada dialect);saga1261;ddo
+Lak;lakk1252;lbe
+Dargwa;darg1241;dar
+Dargwa (Itsari dialect);icar1234;dar
+Dargwa (Kubachi dialect);kuba1248;dar
+Dargwa (Khajdak dialect);kajt1238;dar
+Aghul;aghu1253;agx
+Archi (variety 1);arch1244;aqc
+Budukh;budu1248;bdk
+Lezgian;lezg1247;lez
+Lezgi (Mikrakh dialect);lezg1247;lez
+Rutul;rutu1240;rut
+Tabasaran (Northern dialect Khanag subdialect);taba1259;tab
+Tabasaran (Southern dialect);sout2752;tab
+Khinalug;khin1240;kjj
+Tsakhur;tsak1249;tkr
+Azerbaijani;nort2697;azj
+Kumyk;kumy1244;kum
+Nogai;noga1249;nog
+Judeo-Tat;jude1256;jdt
+Chechen;chec1245;che
+Udi;udii1243;udi
+Avar (Kusur dialect);avar1256;ava
+Avar;avar1256;ava
+Erzya Mordvin;erzy1239;myv
+Estonian;esto1258;est
+Finnish;finn1318;fin
+Hungarian;hung1274;hun
+Khanty;khan1273;kca
+Komi;komi1268;kpv
+Northern Saami;nort2671;sme
+Mansi;mans1258;mns
+Mari;east2328;mhr
+Nenets;nene1249;yrk
+Selkup;selk1253;sel
+Udmurt;udmu1245;udm
+Bezhta;bezh1248;kap
+Tsez (Mokok dialect);dido1241;ddo
+Dargwa (Muiri dialect);darg1241;dar
+Lezgian (Quba dialect);quba1246;lez
+Azerbaijani (Terekeme dialect);nort2697;azj
+Ancient Greek;anci1242;grc
+Modern Greek;mode1248;ell
+Latin;lati1261;lat
+Italian;ital1282;ita
+French;stan1290;fra
+Panare;enap1235;pbh
+Macushi;macu1259;mbc
+De'kwana;maqu1238;mch
+Wai Wai;waiw1244;waw
+Spanish;stan1288;spa
+Catalan;stan1289;cat
+Portuguese;port1283;por
+Romanian;roma1327;ron
+Old Irish;oldi1245;sga
+Irish;iris1253;gle
+Welsh;wels1247;cym
+Breton;bret1244;bre
+Gothic;goth1244;got
+Old Norse;oldn1244;non
+Danish;dani1285;dan
+Swedish;swed1254;swe
+Old English;olde1238;ang
+Middle English;midd1317;enm
+English;stan1293;eng
+Dutch;dutc1256;nld
+Old High German;oldh1241;goh
+Middle High German;midd1343;gmh
+German;stan1295;deu
+Yiddish;east2295;ydd
+Lithuanian;lith1251;lit
+Latvian;latv1249;lav
+Old Prussian;prus1238;prg
+Old Church Slavonic;chur1257;chu
+Bulgarian;bulg1262;bul
+Serbo-Croatian;sout1528;
+Czech;czec1258;ces
+Polish;poli1260;pol
+Russian;russ1263;rus
+Albanian (Tosk variety);tosk1239;als
+Armenian (Eastern variety);nucl1235;hye
+Armenian (Western variety);homs1234;hye
+Hittite;hitt1242;hit
+Tocharian A;tokh1242;xto
+Tocharian B;tokh1243;txb
+Sanskrit;sans1269;san
+Romani;vlax1238;rmy
+Avestan;aves1237;ave
+Persian;west2369;pes
+Ancient Aramaic;olda1245;oar
+Elamite;elam1244;elx
+Negerhollands;nege1244;dcr
+Jamaican Creole (Limonese Creole dialect);jama1262;jam
+Basque;basq1248;eus
+Hausa;haus1257;hau
+Polci;polc1243;plj
+Nahuatl (Sierra de Zacapoaxtla variety);high1278;azz
+Chatino (Zacatepec variety);zaca1242;ctz
+Karok;karo1304;kyh
+Seri;seri1257;sei
+Zuni;zuni1245;zun
+Northern Haida;nort2938;hdn
+Tlingit;tlin1245;tli
+Tsimshian;nucl1649;tsi
+Nuu-chah-nulth;nuuc1236;nuk
+Bella Coola;bell1243;blc
+Upper Chehalis;uppe1439;cjh
+Proto Austronesian;aust1307;
+Proto Polynesian;poly1242;
+Hawaiian;hawa1245;haw
+Maori;maor1246;mri
+Marquesan;sout2866;mqm
+Rapa Nui;rapa1244;rap
+Rotuman;rotu1241;rtm
+Tongan;tong1325;ton
+Tuamotuan;tuam1242;pmt
+Barí;bari1297;mot
+Muisca;chib1270;chb
+Páez;paez1247;pbb
+Cayapa;chac1249;cbi
+Colorado;colo1256;cof
+Embera;nort2972;emp
+Epena;epen1239;sja
+Puinave;puin1248;pui
+Yuwana;yuwa1244;yau
+Yaruro;pume1238;yae
+Ninam (Shirishana variety);nina1238;shb
+Yanomámi;yano1262;wca
+Cofán;cofa1242;con
+Waorani;waor1240;auc
+Siona;sion1247;snn
+Tuyuca;tuyu1244;tue
+Aguaruna;agua1253;agr
+Yagua;yagu1244;yad
+Baure;baur1253;brg
+Goajiro;wayu1243;guc
+Ignaciano;igna1246;ign
+Mashco Piro;mash1270;cuj
+Trinitario;trin1274;trn
+Wapishana;wapi1253;wap
+Waurá;waur1244;wau
+Yavitero;yavi1244;yvt
+Aymara;cent2142;ayr
+Chipaya;chip1262;cap
+Mosetén;mose1249;cas
+Araona;arao1248;aro
+Cavineña;cavi1250;cav
+Ese Ejja;esee1248;ese
+Ese Ejja (Huarayo);esee1248;ese
+Tacana;taca1256;tna
+Cashibo;cash1251;cbr
+Catuquina;pano1254;knt
+Chácobo;chac1251;cao
+Pacahuara;paca1246;pcp
+Shipibo-Conibo;ship1254;shp
+Yaminahua;yami1256;yaa
+Cayuvava;cayu1262;cyb
+Itonama;iton1250;ito
+Movima;movi1243;mzp
+Pacaas Novos;wari1268;pav
+Mundurukú;mund1330;myu
+Aché;ache1246;guq
+Chiriguano;east2555;gui
+Guaraní;para1311;gug
+Sirionó;siri1273;srq
+Wayampi;waya1270;oym
+Canela;cane1242;ram
+Kaingáng;kain1272;kgp
+Karajá;kara1500;kpj
+Trumai;trum1247;tpy
+Ayoreo;ayor1240;ayo
+Sanapaná (Angaité dialect);anga1316;sap
+Sanapaná (Enlhet dialect);sana1298;sap
+Lengua;leng1262;leg
+Mocoví;moco1246;moc
+Pilagá;pila1245;plg
+Chorote;iyoj1235;crt
+Maca;maca1260;mca
+Wichí;wich1264;mzh
+Nivaclé;niva1238;cag
+Kunza;kunz1244;kuz
+Mapudungun;mapu1245;arn
+Tehuelche;tehu1242;teh
+Selknam;onaa1245;ona
+Gününa Küne;puel1244;pue
+Qawasqar;qawa1238;alc
+Toba;toba1269;tob
+Yagán;yama1264;yag
+Andi (Muni dialect);muni1255;ani
+Chechen (Akkin dialect);chec1245;che
+Uncunwee;ghul1238;ghl
+Ossetic;iron1242;oss
+Avar (Araderikh dialect);avar1256;ava
+Avar (Khunzakh dialect);kunz1243;ava
+Avar (East Gergebil dialect);avar1256;ava
+Avar (Ansalta dialect);avar1256;ava
+Avar (Salatav dialect);sala1265;ava
+Khwarshi (Kwantlada dialect);khva1239;khv
+Central Thai;thai1261;tha
+Southern Tai (Songkhla variety);sout2746;sou
+Thai (Korat variety);sout2746;sou
+Khamuang (Chiang Mai variety);nort2740;nod
+Dehong;tain1252;tdd
+Jinsha Dai;nort1545;huj
+Tai Lü;luuu1242;khb
+Tai Khün;khun1259;kkh
+Shan;shan1277;shn
+Shan (Northern Shan dialect);shan1277;shn
+Nung-Fengshan;guib1244;zgn
+Nung-Lazhai;guib1244;zgn
+Nung-Ninbei;nung1283;nut
+Zhuang-Longzhou;zuoj1238;zzj
+Sui;suii1243;swi
+Maonan;maon1241;mmd
+Mulam;mula1253;mlm
+Chadong;chad1240;cdy
+Southern Kam;sout2741;kmc
+Lakkia;lakk1238;lbc
+Hlai (Baoting variety);hlai1239;lic
+Langja Buyang;emab1235;yzg
+Ecun Buyang;lang1316;yln
+Sanchong Kelao;gree1278;giq
+Qau Kelao;qaua1234;gqu
+Aghul (Koshan dialect);kosh1245;agx
+Botlikh (Miarso dialect);botl1242;bph
+Chamalal (Gigatli dialect);giga1238;cji
+Dargwa (Chirag dialect);chir1284;dar
+Dargwa (Gapshima Shukti dialect);darg1241;dar
+Dargwa (Gapshima dialect);darg1241;dar
+Dargwa (Gubden dialect);darg1241;dar
+Dargwa (Kadar dialect);darg1241;dar
+Dargwa (Megeb dialect);darg1241;dar
+Dargwa (Mekegi dialect);darg1241;dar
+Dargwa (Mugi dialect);darg1241;dar
+Dargwa (Sirkhi dialect);darg1241;dar
+Dargwa (Tsudakhar dialect, Tanty subdialect);cuda1238;dar
+Dargwa (Tsudakhar dialect);cuda1238;dar
+Dargwa (Urakhi dialect);urax1238;dar
+Dargwa (Usisha dialect);darg1241;dar
+Ingush;ingu1240;inh
+Bezhta (Khasharkhota dialect);khoc1238;kap
+Kryz;kryt1240;kry
+Kumyk (Dorgeli dialect);kumy1244;kum
+Kumyk (Kajtak Tumenler dialect);kumy1244;kum
+Kumyk (Kajtak dialect);kumy1244;kum
+Kumyk (Karabudakhkent dialect);kumy1244;kum
+Kumyk (Ter Bragun dialect);kumy1244;kum
+Lak (Arakul dialect);lakk1252;lbe
+Lak (Balkhar dialect);lakk1252;lbe
+Lak (Shali dialect);lakk1252;lbe
+Rutul (Borchino Khnow dialect);rutu1240;rut
+Rutul (Ikhrek dialect);ixre1238;rut
+Rutul (Mukhrek) dialect;ixre1238;rut
+Rutul (Shinaz dialect);shin1265;rut
+Bezhta (Tlyadal dialect, Karauzek subdialect);tlya1238;kap
+Tsakhur (Gelmets dialect);tsak1249;tkr
+Tsova-Tush;bats1242;bbl
+Archi (variety 2);arch1244;aqc
+Bengali;beng1280;ben
+Hindi;hind1269;hin
+Khasi;khas1269;kha
+Mahasu Pahari (Kotghari dialect);maha1287;bfz
+Marathi;mara1378;mar
+Nepali;east1436;nep
+Punjabi;west2386;pnb
+Tamil;tami1289;tam
+Telugu;telu1262;tel
+Tibetan;tibe1272;bod
+Kme-2 (Kemie variety);manm1238;
+Bulang;blan1242;
+Bulang-2;blan1242;
+Bulang-3;blan1242;
+Keme (Kemie variety);manm1238;
+Xu;huuu1240;
+Mang'an B. (MNN);;
+Wa;nucl1290;Zhenkang Wa
+Rumai;ruma1248;Rumai Palaung
+Prai;phai1238;Prai
+Pusing;bitt1240;Bit
+Paliu;boly1239;Bolyu
+PLW (a Palaung variety);pala1336;Palaung
+DEA (a Palaung variety);pala1336;Palaung
+Mlabri;mlab1235;Mlabri
+Cuoi;cuoi1242;Cuoi
+Vietnamese;viet1252;Vietnamese
+Hanoi Vn;nort2683;Northern Vietnamese
+Tho Mun (THM);;
+LiHa;cuoi1242;Cuoi
+Phong;phon1246;Phong-Kniang
+TUL;;
+Tum;cuoi1242;Cuoi
+Chut (Ruc variety);rucc1239;Ruc
+Phu Tho M (PHU);;
+Kha Poong;khap1242;Kha Phong
+Malieng;mali1278;Malieng
+Ahlao (Thavung);aheu1239;Thavung
+Thavung So;aheu1239;Thavung
+Nyakur;nyah1250;Nyahkur
+Pear;pear1247;Pear
+SAN;;
+Kasong;suoy1242;Suoy
+Samre;somr1240;Somray of Battambang-Somre of Siem Reap
+Chong;chon1284;Chong of Chanthaburi
+KNB (a Pearic variety);west2394;Western Pearic
+Surin Khmer;suri1265;Surin
+CHNG (a Pearic variety);west2394;Western Pearic
+Iduh;oduu1239;O'du
+Mang Ch;mang1378;Mang
+Mang VN;mang1378;Mang
