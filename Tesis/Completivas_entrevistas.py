@@ -119,7 +119,94 @@ for palabra in lista_corpus_contextos:
 # =============================================================================
 # 
 # =============================================================================
-posibilidades = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
-x = []
-for item in posibilidades:
-    x += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l]e?l\s", corpus_preparado)
+while True:
+    busqueda = input("""
+Puedes buscar las nominalizaciones terminadas en -el, aquellas oraciones terminadas en -am y las construcciones seriales, para hacerlo ingresa abajo
+Construcciones seriales
+    * kupa          --> Para buscar las construcciones seriales con küpa
+    * pepi          --> Para buscar las construcciones seriales con pepi
+    * kim           --> Para buscar las construcciones seriales con kim
+Nominalizaciones
+    * el            --> para buscar las nominalizaciones terminadas en el 
+    * n             --> para buscar las nominalizaciones terminadas en n
+    * am            --> para buscar las nominalizaciones terminadas en am
+    * lu            --> para buscar las nominalizaciones terminadas en lu
+Otros
+    * salir         --> cerrar el programa
+
+¿que deseas buscar?
+""")
+    if busqueda == "pepi":
+        posibilidadespepi = ["pepi"]
+        pepi = []
+        for item in posibilidadespepi:
+            pepi+= re.findall(r"\s+"+str(item)+"+\s?[a-z]+\s+", corpus_preparado)
+        print("Construcciones con pepi")
+        print('')
+        print(pepi)
+        print('')
+    elif busqueda == "kupa":    
+        posibilidadeskupa = ["kü","qui","ki","ku", "cu", "que", "c", "cù"]
+        kupa= []
+        for item in posibilidadeskupa:
+            kupa+= re.findall(r"\s+"+str(item)+"pa+\s?[a-z]+\s+", corpus_preparado)
+        print("Construcciones con küpa")
+        print('')
+        print(kupa)
+        print('')
+        print('Cantidad de kupa')
+        print(len(kupa))
+    elif busqueda =="kim":
+        posibilidadeskim = ["kim","quim"]
+        kim = []
+        for item in posibilidadeskim:
+             kim+= re.findall(r"\s+"+str(item)+"+\s?[a-z]+\s+", corpus_preparado)
+        print("Construcciones con kim")
+        print('')
+        print(kim)
+        print('')
+
+    elif busqueda == "el":
+        posibilidadesel = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
+        el = []
+        for item in posibilidadesel:
+            el += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l]e?l\s", corpus_preparado)
+        print("Construcciones terminadas en -el")
+        print('')
+        print(el)
+        print('')
+    elif busqueda == "n":
+        posibilidades = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
+        n = []
+        for item in posibilidades:
+            n += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l][a-zü]+?n\s", corpus_preparado)
+        print("Construcciones terminadas en -n")
+        print('')
+        print(n)
+        print('')
+    elif busqueda == "am":
+        posibilidades = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
+        am = []
+        for item in posibilidades:
+            am += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l]am+\s", corpus_preparado)
+        print("Construcciones terminadas en -am")
+        print('')
+        print(am)
+        print('')
+    elif busqueda == "lu":
+        posibilidades = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
+        lu = []
+        for item in posibilidades:
+            lu += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l]lu+\s", corpus_preparado)
+        print("Construcciones terminadas en -lu")
+        print('')
+        print(lu)
+        print('')
+    elif busqueda =="salir":
+        break
+input("presiona cualquier tecla para salir")
+
+posibilidadeskupa = ["kü","qui","ki","ku", "cu", "que", "c", "cù"]
+kupa= []
+for item in posibilidadeskupa:
+       kupa+= re.findall(r"\s+"+str(item)+"pa+\s?[a-z]+\s+", corpus_preparado)

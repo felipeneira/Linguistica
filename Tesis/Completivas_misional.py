@@ -98,6 +98,22 @@ for oracion in sin_puntos:
 # 
 # =============================================================================
 posibilidades = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
-x = []
+ael = []
 for item in posibilidades:
-    x += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l]e?l\s", string_corpus_contextos)
+    ael += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l]e?l\s", string_corpus_contextos)
+
+# =============================================================================
+# 
+# =============================================================================
+posibilidades = ["qui","ki","ku", "cu", "que", "c", "cù"]
+kupa= []
+for item in posibilidades:
+    kupa+= re.findall(r"\s+"+str(item)+"pa+\s?[a-z]+\s+", string_corpus_contextos)
+    
+# =============================================================================
+# 
+# =============================================================================
+posibilidades = ["pepi"]
+pepi = []
+for item in posibilidades:
+    pepi+= re.findall(r"\s+"+str(item)+"+\s?[a-z]+\s+", string_corpus_contextos)
