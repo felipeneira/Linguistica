@@ -5,6 +5,7 @@
 import glob
 import re
 import string
+import sys
 # =============================================================================
 # Def usadas
 # =============================================================================
@@ -27,6 +28,7 @@ def remover_numeros(k):
 # Preparar textos
 # =============================================================================
 while True:
+    print('======================================================================================================================================================')
     ##se prepara la lista glob que sirve para trabajar con carpetas
     corpus = input("""
 Corpus para buscar
@@ -37,6 +39,8 @@ etnografico     --> et          (Lenz 1863-1938, Manquilef 1914, 1911)
 
 entrevistas     --> fh          (Entrevistas Tesis Felipe Hasler)
 
+Escribir "salir" para cerrar el programa
+
 ¿En que período deseas buscar? 
 """)
     ## se define que lista_files es una lista con los nombres de los archivos 
@@ -44,7 +48,7 @@ entrevistas     --> fh          (Entrevistas Tesis Felipe Hasler)
     if corpus == "fh":
         lista_files = glob.glob('/home/felipe/Documentos/GitHub/Linguistica/Lingüística Computacional Final/Periodo cotejo/Entrevistas Hasler/*.txt')
         corpus = {}
-        ##por cada archivo en la lista de archivos
+        ##por cada archivo en la lista de archivosprint('Nombre de los textos')
         for file in lista_files:
         ##este se abre con encoding utf-8 y queda definido como file_input
             with open(file, 'r', encoding="utf-8") as file_input:
@@ -66,8 +70,12 @@ entrevistas     --> fh          (Entrevistas Tesis Felipe Hasler)
         for oracion in vacio:
             if oracion.startswith('\\tx '):
                 corpus_preparado += [oracion]  
-        print(corpus.keys()) 
-    
+        print('======================================================================================================================================================')
+        print('Nombre de los textos')
+        print(' ')
+        for item in list(corpus.keys()):
+            print(item)
+        print('======================================================================================================================================================')
     
     
     elif corpus == "mi":
@@ -79,8 +87,12 @@ entrevistas     --> fh          (Entrevistas Tesis Felipe Hasler)
             with open(file, 'r', encoding="utf-8") as file_input:
         ##se toman los nombres de los textos y se le quitan los primeros 15 caracteres (el nombre de la carpeta)
                 corpus[file[105:-4]]=file_input.read()
+        print('======================================================================================================================================================')
         print('Nombre de los textos')
-        print(corpus.keys())  
+        print(' ')
+        for item in list(corpus.keys()):
+            print(item)
+        print('======================================================================================================================================================')
         #toma el corpus subido y crea una lista vacía
         corpus_misional = []
         ##por cada uno de los keys en corpus.keys se agrega a corpus_misional el value
@@ -110,11 +122,16 @@ entrevistas     --> fh          (Entrevistas Tesis Felipe Hasler)
         string_corpus_misional=' '.join(corpus_misional)
         string_corpus_contextos = string_corpus_misional.split('\n')
         corpus_preparado = string_corpus_misional
+        print('======================================================================================================================================================')
         print('Nombre de los textos')
-        print(corpus.keys()) 
-    
-    if corpus == "salir":
+        print(' ')
+        for item in list(corpus.keys()):
+            print(item) 
+        print('======================================================================================================================================================')
+    elif corpus == "salir":
         break
+    else:
+        continue
     
 # =============================================================================
 # limpieza texto
@@ -173,6 +190,7 @@ entrevistas     --> fh          (Entrevistas Tesis Felipe Hasler)
 # =============================================================================
     while True:
         busqueda = input("""
+===============================================================================
 Puedes buscar las nominalizaciones terminadas en -el, aquellas oraciones terminadas en -am y las construcciones seriales, para hacerlo ingresa abajo
 Construcciones seriales
     * kupa          --> Para buscar las construcciones seriales con küpa
@@ -185,7 +203,8 @@ Nominalizaciones
     * am            --> para buscar las nominalizaciones terminadas en am
     * lu            --> para buscar las nominalizaciones terminadas en lu
 Otros
-    * corpus         --> cerrar el programa
+    * corpus        --> cambiar el corpus
+    * cerrar        --> cerrar el programa
     
 ¿que deseas buscar?
 """)
@@ -194,95 +213,133 @@ Otros
             pepi = []
             for item in posibilidadespepi:
                 pepi+= re.findall(r"\s+"+str(item)+"+\s?[a-z]+\s+", corpus_preparado)
+            print('======================================================================================================================================================')
             print("Construcciones con pepi")
             print('')
-            print(pepi)
+            for item in pepi:
+                print(item)
             print('')
             print('Cantidad de pepi')
-            print('pepi')
+            print(len(pepi))
+            print('======================================================================================================================================================')
         elif busqueda == "kupa":    
             posibilidadeskupa = ["kü","qui","ki","ku", "cu", "que", "c", "cù"]
             kupa= []
             for item in posibilidadeskupa:
                 kupa+= re.findall(r"\s+"+str(item)+"pa+\s?[a-z]+\s+", corpus_preparado)
+            print('======================================================================================================================================================')
             print("Construcciones con küpa")
             print('')
-            print(kupa)
+            for item in kupa:
+                print(item)
             print('')
             print('Cantidad de kupa')
             print(len(kupa))
+            print('======================================================================================================================================================')
+        elif busqueda == "lli":    
+            posibilidadeslli = ["lli"]
+            lli= []
+            for item in posibilidadeslli:
+                lli+= re.findall(r"\s+"+str(item)+"pa+\s?[a-z]+\s+", corpus_preparado)
+            print('======================================================================================================================================================')
+            print("Construcciones con lli")
+            print('')
+            for item in lli:
+                print(item)
+            print('')
+            print('Cantidad de lli')
+            print(len(lli))
+            print('======================================================================================================================================================')
         elif busqueda =="kim1":
             posibilidadeskim = ["kim","quim"]
             kim = []
             for item in posibilidadeskim:
                  kim+= re.findall(r"\s+"+str(item)+"+[^el][^che]\s?[a-z]{6,}\s", corpus_preparado)
+            print('======================================================================================================================================================')
             print("Construcciones con kim")
             print('')
-            print(kim)
+            for item in kim:
+                print(item)
             print('')
             print('Cantidad de kim')
             print(len(kim))
+            print('======================================================================================================================================================')
         elif busqueda =="kim2":
             posibilidadeskim = ["kim","quim"]
             kim = []
             for item in posibilidadeskim:
                  kim+= re.findall(r"\s+"+str(item)+"+[^el][^che]\s?[a-z]+\s", corpus_preparado)
+            print('======================================================================================================================================================')
             print("Construcciones con kim")
             print('')
-            print(kim)
+            for item in kim:
+                print(item)
             print('')
             print('Cantidad de kim')
             print(len(kim))
+            print('======================================================================================================================================================')
         elif busqueda == "el":
             posibilidadesel = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
             el = []
             for item in posibilidadesel:
                 el += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l]e?l\s", corpus_preparado)
+            print('======================================================================================================================================================')
             print("Construcciones terminadas en -el")
             print('')
-            print(el)
+            for item in el:
+                print(item)
             print('')
             print('Cantidad de el')
             print(len(el))
+            print('======================================================================================================================================================')
         elif busqueda == "n":
             posibilidades = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
             n = []
             for item in posibilidades:
                 n += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l][a-zü]+?n\s", corpus_preparado)
+            print('======================================================================================================================================================')
             print("Construcciones terminadas en -n")
             print('')
-            print(n)
+            for item in n:
+                print(item)
             print('')
             print('Cantidad de n')
             print(len(n))
+            print('======================================================================================================================================================')
         elif busqueda == "am":
             posibilidades = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
             am = []
             for item in posibilidades:
                 am += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l]am+\s", corpus_preparado)
+            print('======================================================================================================================================================')
             print("Construcciones terminadas en -am")
             print('')
-            print(am)
+            for item in am:
+                print(item)
             print('')
             print('Cantidad de am')
             print(len(am))
+            print('======================================================================================================================================================')
         elif busqueda == "lu":
             posibilidades = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
             lu = []
             for item in posibilidades:
                 lu += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l]lu+\s", corpus_preparado)
+            print('======================================================================================================================================================')
             print("Construcciones terminadas en -lu")
             print('')
-            print(lu)
+            for item in lu:
+                print(item)
             print('')
             print('Cantidad de lu')
             print(len(lu))
+            print('======================================================================================================================================================')
         elif busqueda =="corpus":
             break
-        elif busqueda =="salir":
-            break
+        elif busqueda =="cerrar":
+            sys.exit()
     
-input("presiona cualquier tecla para cerrar")
+input("presiona 'enter' para cerrar")
 
 
 
