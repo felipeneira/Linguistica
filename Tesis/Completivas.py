@@ -70,11 +70,18 @@ Escribir "salir" para cerrar el programa
         for oracion in vacio:
             if oracion.startswith('\\tx '):
                 corpus_preparado += [oracion]  
+        ##eliminamos la marcación que señala que el texto está escrito en mapudungun, esta marcación es propia de estas entrevistas en particular
+        corpus_preparado = str(corpus_preparado).replace('\\tx ', ' ')
+        corpus_preparado = str(corpus_preparado).replace('tx', ' ')
         print('======================================================================================================================================================')
         print('Nombre de los textos')
         print(' ')
         for item in list(corpus.keys()):
             print(item)
+        lista_string = corpus_preparado.split()
+        print(' ')
+        print('Cantidad de palabras')
+        print(len(lista_string))
         print('======================================================================================================================================================')
     
     
@@ -87,12 +94,6 @@ Escribir "salir" para cerrar el programa
             with open(file, 'r', encoding="utf-8") as file_input:
         ##se toman los nombres de los textos y se le quitan los primeros 15 caracteres (el nombre de la carpeta)
                 corpus[file[105:-4]]=file_input.read()
-        print('======================================================================================================================================================')
-        print('Nombre de los textos')
-        print(' ')
-        for item in list(corpus.keys()):
-            print(item)
-        print('======================================================================================================================================================')
         #toma el corpus subido y crea una lista vacía
         corpus_misional = []
         ##por cada uno de los keys en corpus.keys se agrega a corpus_misional el value
@@ -103,7 +104,16 @@ Escribir "salir" para cerrar el programa
         ##luego se usa .split para dividir el texto por \n
         string_corpus_contextos = string_corpus_misional.split('\n')
         corpus_preparado = string_corpus_misional
-    
+        print('======================================================================================================================================================')
+        print('Nombre de los textos')
+        print(' ')
+        for item in list(corpus.keys()):
+            print(item)
+        lista_string = corpus_preparado.split()
+        print(' ')
+        print('Cantidad de palabras')
+        print(len(lista_string))
+        print('======================================================================================================================================================')    
     
     elif corpus == "et":
         lista_files = glob.glob('/home/felipe/WINDOWS/Papers, investigaciones y libros/Textos mapudungun/Convertibles/Transcripciones/*.txt')
@@ -126,7 +136,11 @@ Escribir "salir" para cerrar el programa
         print('Nombre de los textos')
         print(' ')
         for item in list(corpus.keys()):
-            print(item) 
+            print(item)
+        lista_string = corpus_preparado.split()
+        print(' ')
+        print('Cantidad de palabras')
+        print(len(lista_string))
         print('======================================================================================================================================================')
     elif corpus == "salir":
         break
@@ -159,9 +173,7 @@ Escribir "salir" para cerrar el programa
 ##eliminamos las mayúsculas y el exceso de espacios
     corpus_preparado = str(corpus_preparado).lower()
     corpus_preparado = str(corpus_preparado).strip()
-##eliminamos la marcación que señala que el texto está escrito en mapudungun, esta marcación es propia de estas entrevistas en particular
-    corpus_preparado = str(corpus_preparado).replace('\\tx ', ' ')
-    corpus_preparado = str(corpus_preparado).replace('tx', ' ')
+
     
     
 ##se crea una lista utilizada exclusivamente en los contextos para evitar problemas de mixtura
@@ -208,6 +220,9 @@ Otros
     
 ¿que deseas buscar?
 """)
+# =============================================================================
+# pepi
+# =============================================================================
         if busqueda == "pepi":
             posibilidadespepi = ["pepi"]
             pepi = []
@@ -222,11 +237,14 @@ Otros
             print('Cantidad de pepi')
             print(len(pepi))
             print('======================================================================================================================================================')
+# =============================================================================
+# kupa
+# =============================================================================
         elif busqueda == "kupa":    
             posibilidadeskupa = ["kü","qui","ki","ku", "cu", "que", "c", "cù"]
             kupa= []
             for item in posibilidadeskupa:
-                kupa+= re.findall(r"\s+"+str(item)+"pa+\s?[a-z]+\s+", corpus_preparado)
+                kupa+= re.findall(r"\s+"+str(item)+"pa+\s?[a-z]{6,20}\s+", corpus_preparado)
             print('======================================================================================================================================================')
             print("Construcciones con küpa")
             print('')
@@ -236,6 +254,9 @@ Otros
             print('Cantidad de kupa')
             print(len(kupa))
             print('======================================================================================================================================================')
+# =============================================================================
+# lli (no listo)
+# =============================================================================
         elif busqueda == "lli":    
             posibilidadeslli = ["lli"]
             lli= []
@@ -250,6 +271,9 @@ Otros
             print('Cantidad de lli')
             print(len(lli))
             print('======================================================================================================================================================')
+# =============================================================================
+# kim filtrado
+# =============================================================================
         elif busqueda =="kim1":
             posibilidadeskim = ["kim","quim"]
             kim = []
@@ -264,6 +288,9 @@ Otros
             print('Cantidad de kim')
             print(len(kim))
             print('======================================================================================================================================================')
+# =============================================================================
+# todas las apariciones de kim  
+# =============================================================================
         elif busqueda =="kim2":
             posibilidadeskim = ["kim","quim"]
             kim = []
@@ -278,8 +305,11 @@ Otros
             print('Cantidad de kim')
             print(len(kim))
             print('======================================================================================================================================================')
+# =============================================================================
+# nominalizaciones con el
+# =============================================================================
         elif busqueda == "el":
-            posibilidadesel = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
+            posibilidadesel = ["ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"]
             el = []
             for item in posibilidadesel:
                 el += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l]e?l\s", corpus_preparado)
@@ -292,8 +322,11 @@ Otros
             print('Cantidad de el')
             print(len(el))
             print('======================================================================================================================================================')
+# =============================================================================
+# nominalizaciones con n
+# =============================================================================
         elif busqueda == "n":
-            posibilidades = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
+            posibilidades = ["ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"]
             n = []
             for item in posibilidades:
                 n += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l][a-zü]+?n\s", corpus_preparado)
@@ -306,8 +339,11 @@ Otros
             print('Cantidad de n')
             print(len(n))
             print('======================================================================================================================================================')
+# =============================================================================
+# nominalizaciones con am
+# =============================================================================
         elif busqueda == "am":
-            posibilidades = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
+            posibilidades = ["ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"]
             am = []
             for item in posibilidades:
                 am += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l]am+\s", corpus_preparado)
@@ -320,8 +356,11 @@ Otros
             print('Cantidad de am')
             print(len(am))
             print('======================================================================================================================================================')
+# =============================================================================
+# nominalizaciones con lu
+# =============================================================================
         elif busqueda == "lu":
-            posibilidades = "ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"
+            posibilidades = ["ñi", "ni" ,"mi", "yu","ju", "iñ","in", "mü","mu","mv", "mün", "mun", "mvn"]
             lu = []
             for item in posibilidades:
                 lu += re.findall(r"\s?[\wüñ]+[^a-df-ho-tvwxz]\st?a?"+str(item)+"\s+[\wüñ]+[^l]lu+\s", corpus_preparado)
@@ -334,8 +373,31 @@ Otros
             print('Cantidad de lu')
             print(len(lu))
             print('======================================================================================================================================================')
+# =============================================================================
+# Duam
+# =============================================================================
+        elif busqueda == "duam":
+            posibilidades = ["duam", "zuam"]
+            duam = []
+            for item in posibilidades:
+                duam += re.findall(r"\s[a-z]+"+str(item)+"[\wüñ]+\s", corpus_preparado)
+            print('======================================================================================================================================================')
+            print("Construcciones terminadas en -lu")
+            print('')
+            for item in duam:
+                print(item)
+            print('')
+            print('Cantidad de duam')
+            print(len(duam))
+            print('======================================================================================================================================================')
+# =============================================================================
+# volver a la selección de corpus 
+# =============================================================================
         elif busqueda =="corpus":
             break
+# =============================================================================
+# cerrar programa
+# =============================================================================
         elif busqueda =="cerrar":
             sys.exit()
     
