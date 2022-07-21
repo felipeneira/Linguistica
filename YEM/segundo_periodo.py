@@ -175,8 +175,8 @@ for oracion in sin_puntos:
 diccionario_contextos_presentacion = {'yem':[],'em':[]} 
 
 ##añadiremos al diccionario anterior las apariciones de yem/em/ema y las cuatro palabras anteriores, consideramos que es un buen número de palabras para inferir el significado
-lista_yem_presentacion = k_anteriores(lista_corpus_contextos,'yem',3)
-lista_em_presentacion = k_anteriores(lista_corpus_contextos,'em',3)
+lista_yem_presentacion = k_anteriores(lista_corpus_contextos,'yem',2)
+lista_em_presentacion = k_anteriores(lista_corpus_contextos,'em',2)
 
 diccionario_contextos_presentacion['yem'] = lista_yem_presentacion
 diccionario_contextos_presentacion['em'] = lista_em_presentacion
