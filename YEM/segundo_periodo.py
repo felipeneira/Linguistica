@@ -1,5 +1,5 @@
 # =============================================================================
-# librerías 
+# librer�as
 # =============================================================================
 #hacer redes
 #pip install networkx
@@ -17,7 +17,7 @@ import string
 # =============================================================================
 # def
 # =============================================================================
-## función para detectar k palabras anteriores
+## funcion para detectar k palabras anteriores
 
 def k_anteriores(oracion,Y,k):
     lista_contextos = []
@@ -41,7 +41,7 @@ def remover_puntuacion(s):
         s=s.replace('\t','')
     return s
 
-##última def de preparación
+##última def de preparacion
 def remover_numeros(k):
     ##por cada item dentro de la lusta numeros
     for z in numeros:
@@ -92,7 +92,7 @@ def plotG_centrality(Y,size):
     plt.axis('off')
     plt.show()
 # =============================================================================
-# Preparación
+# Preparacion
 # =============================================================================
 
 ## se define que lista_files es una lista con los nombres de los archivos 
@@ -133,7 +133,7 @@ string_corpus_misional=' '.join(corpus_misional)
 ##En primer lugar eliminamos los saltos de página marcados con "\n" y los marcados con "\t"
 string_corpus_contextos = string_corpus_misional.replace('\n', ' ')
 string_corpus_contextos = string_corpus_contextos.replace('\t', ' ')
-##luego eliminamos [r], que simboliza la duda del escritor sobre la existencia de una "r" en esa posición
+##luego eliminamos [r], que simboliza la duda del escritor sobre la existencia de una "r" en esa posicion
 string_corpus_contextos = string_corpus_contextos.replace('[r]', 'r')
 ##eliminamos los marcadores de párrafo 
 string_corpus_contextos = string_corpus_contextos.replace('¶', '')
@@ -146,7 +146,7 @@ string_corpus_contextos = string_corpus_contextos.replace('R ', '')
 ##eliminamos las mayúsculas y el exceso de espacios
 string_corpus_contextos = string_corpus_contextos.lower()
 string_corpus_contextos = string_corpus_contextos.strip()
-##lista exclusiva para graficación
+##lista exclusiva para graficacion
 lista_corpus_contextos = string_corpus_contextos.split(' ')
 ##luego se usa .split para dividir el texto por \n
 string_corpus_misional = string_corpus_misional.split('\n')
@@ -157,13 +157,13 @@ string_corpus_contextos = string_corpus_contextos.replace('…', '')
 ##Se define una lista como vacio para poder ingresar cada una de las oraciones del corpus sin espacios en blanco
 vacio=[oracion for oracion in string_corpus_misional if len(oracion)>0]
 
-##por cada una de estas oraciones en vacio se le saca la puntuación y se bajan las mayúsculas
+##por cada una de estas oraciones en vacio se le saca la puntuacion y se bajan las mayúsculas
 sin_puntos = []
 for oracion in vacio:
     oracion_limpia = remover_puntuacion(oracion)
     sin_puntos += [oracion_limpia.lower()]
 
-##Se toma la lista palabras y luego se ingresan cada una de las palabras de oración que están separadas por comillas
+##Se toma la lista palabras y luego se ingresan cada una de las palabras de oracion que están separadas por comillas
 palabras = []
 for oracion in sin_puntos:
     palabras += [oracion.split(' ')]

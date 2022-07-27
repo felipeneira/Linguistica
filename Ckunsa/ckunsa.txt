@@ -6,9 +6,9 @@ ack-iu: pluma de ave = ala. cfr na / hacking, as chiqui e iquique
 ack-col: conmigo (mecum) cfr / col
 ack: me. Pron. personal 1.ps personal sin
 Ack-abí: ¡Toma!
-Akainu: No, (sickin)
+Akainu: No, -cfr: sickin
 Aksaya: mío (pron. poses)
-Aksu: poncho (rebozo)
+Aksu: poncho: - rebozo
 Ay: en (prep.)
 Ay: su, suyo; (colocado al final de una palabra como sufijo)
 Aylí: por acá
@@ -26,38 +26,40 @@ Anuckápin: hoy dia (adverb) (anu i ckapin)
 Anu: ahora, hoy
 Anta: este
 Antap-tarde: esta tarde (adverb.)
-Ao: terminación de al nombre de lugar (v.g toconao)
+Ao: terminación de al nombre de lugar: v.g toconao
 Aps: ese
 Apus: harina tostada
 Ap-ps: acá
-Ara: alojamiento
-Hara: -alojamiento
+Ara: por Hara : -alojamiento
 Arackar: osamenta
 Arizaro: salar de la cordillera, via atacama
 Aro: cfr: ara
 Aschiqui: apellido de chiu-chiu
-Asnu: asno, burro
+Asnu: también asno: asno, burro
 Astatur: azotar
 Atacama: cabecera de la parroquia de su nombre
-Atán: noche (ttulti)
+Atán: noche: cfr: ttulti
 Atas-cka: maíz decorticado
-Atchi: negro, color oscuro
-latchiratchi: zorzal, pájaro negro
-aschiqui: apellido de chiu-chiu en 1612
-atchi-hackiu: pluma negra
-atchimitchi: gato montés, gato negro,
+Atchi: negro, color oscuro - en combinación= 1° latchiratchi, zorzal, pájaro negro . 2°
+aschiqui: apellido de chiu-chiu en 1612. Debiera escribirse 
+atchi-hackiu: pluma negra (
+Generalmente los apellidos atacameños están muy mal ortografiados en los libros
+parroquiales, tanto de Chiu-chiu como Atacama. - 3° 
+atchimitchi: gato montés, literalmente
+gato negro, este animal tiene efectivamente fajas negras en el cuerpo. - Podría darse otra
+etimolojía sacada de kaytchi, peñas y mitchi gato de las peñas - pero es menos problable que
+la anterior
 At-halpa: gallina
 Atitchaus: poder
 Atitur: poder más, vencer
-Atiu: oeste (ckapin y ladia)
+Atiu: oeste. cfr: ckapin y ladia
 Atta: ayer
 Au: cfr a, ar, ara
 Aulo: abuelo, es el termino cast. mal pronunciado
 Ay: apellido de 1615, mal ortografiado por ay-i
 Ay-i: maíz
 Ay-yan: desagradable
-Aychil: apellido de 1612. 
-aytzir: viscacha
+Aychil: apellido de 1612. Tal vez sea mala transcripción de aytzir: viscacha
 
 Baalatur: cavar
 Baalsatur: barrer
@@ -65,7 +67,7 @@ Baanscki: tal vez (adverbio)
 Baasnatur: descargar (asnatur, contiene la voz asnu)
 Back-cka: ribera, rio, hoya, llanura/ cfr ckantu/ cfr tarapaca
 Backa-psladis: sur (compuesto de back-cka i lado, costado, en castellano)
-Backatur: embarrar, designa también el acto de peinarse para lo cual usan en Atacama un barro alcalino formado con tierra que se recoje a las orillas de algunas lagunas de la cordillera y sirve para lavar la cabeza. (laumatur)
+Backatur: embarrar, designa también el acto de peinarse para lo cual usan en Atacama un barro alcalino formado con tierra que se recoje a las orillas de algunas lagunas de la cordillera y sirve para lavar la cabeza. cfr: laumatur
 Backaratur: rascar
 Backiti: descuellado / tchocklo
 Backnitur: sentarse, cabalgar, motar a caballo
@@ -78,7 +80,7 @@ Baina: querido, mancebo
 Baini: todo
 Balsantur: escoba / cfr baalsatur
 Baltchar: malo, desgracia, asesinato
-Baltatur: trillar. (hockuntur)
+Baltatur: trillar. cfr: hockuntur
 Balt-hitur: correr
 Bañuncki: trillar / cfr hockuntur
 Barainir: resbaloso
@@ -104,7 +106,6 @@ Birinatur: arroyo
 Bitainatur: arroyo
 Bitchackma: pellizcar
 Bitis: pómulos
-
 Ckaabar: traje, vestido
 Ckaabartantur: vestirse
 Ckaacka: tartamudo
@@ -125,9 +126,9 @@ Ckacka: frente
 Ckackar: ancho, amplitud
 Ckackasima: las cejas
 Ckackasintur: acostarse de espaldas, boca arriba (lit. frente arriba)
-Ckackatur: abrir (ckastur)
+Ckackatur: abrir (cfr, ckastur)
 Ckackma: cucaracho
-Ckacknatur:  saborear
+Ckacknatur: saborear
 Ckacktchi: pescado ( para los changos, cuyo alimento casi exclusivamente era el pescado, secomprende que el termino escojido para designarlo haya sido, ckacktchi, que significa bueno,agradable =
 Ckackchi: Bueno, agradable, sabroso al paladar 
 ckacktchir: bueno, agradable, sabroso al paladar (diferénciase de ckaaya, en que
@@ -151,12 +152,12 @@ Ckaltcha: escarpines
 Ckamai: nieto
 Ckamur: luna, mes
 Ckamuria-muley: eclipse de luna
-Ckan: (ckani i tchuckut)
+Ckan: (cfr, ckani i tchuckut)
 Ckanas-cka: goloso
 Ckanckapur: Panzón, obeso
 Ckanckartur: raspar
 Ckanckata: acción de asar
-Ckani: vientre (ckani = vientre i cabur cerro) ni vientre (dícese tambien ckanni) a los habitantes del ayllo de Beter, en Atacama, díceseles ckantchisckur = vientre áspero, velludo 
+Ckani: vientre (etimol= ckani, vientre i cabur cerro) ni vientre (dícese tambien ckanni) a los habitantes del ayllo de Beter, en Atacama, díceseles= ckantchisckur, vientre áspero, velludo 
 Ckannai: amargo
 Ckannau: vieja, mujer anciana
 Ckantu: orilla
@@ -167,7 +168,7 @@ Ckapatur: grandote, crecer (radical. ckabur)
 Ckapckitur: retar, insultar, hacerse el poderoso (rad. ckabur)
 Ckapin: sol (oeste?)
 Ckapir: izquierdo
-Ckapnatur: coquear, mascar coca, apellido = capniar, 1620
+Ckapnatur: coquear, mascar coca, apellido= capniar, 1620
 Ckapsuluntur: atorarse (tal vez tragarse la coca)
 Ckaptur: cargar a la espalda
 Ckapun: (cfr leri)
@@ -197,3 +198,223 @@ Ckatasencul: otra vez, más tarde
 Ckatalnatur: aplastar
 Ckatat: apellido de 1622
 Ckatcha: apestado, enfermo de viruelas
+Ckatchacka: áspero, terreno muy pedregoso (Rad ckaitchi)
+Ckatchacktur: zafarse
+Ckatchatur: trasquilar
+Ckatchbi: El
+Ckatchcka: cascarañas
+Ckatchi: aquel (allí) (también ckatchil por alla / ckatchips id=
+Ckatchir: chicha de maíz, dulce
+Ckatchi-rutaino: el año pasado
+Ckatchirckotch: aquellos
+Ckatchunti: hoz
+Ckati: piel 
+Ckatitchauña: imposible
+Ckatir: cuero
+Ckatnatur: volver, remangarse, revolverse, descubrirse, desnudarse
+Ckatnu: seno
+Ckatta: hoja
+Ckatu: roca, peña
+Ckatur: llamar
+Ckatur: cuero
+Ckauckaitur: asar
+Ckausama: vida
+Ckausatur: vivir, resuscitar
+Ckautcha: hierba parecida a la malva
+Ckauti: huevo
+Ckaya: bien, bueno
+Ckayaritur: empezar 
+Ckayatar: sanar (cfr. ckaya)
+Ckai-yi: talón
+Cke: muy, mucho
+Ckeba: marimacho
+Ckebi: aluvion
+Ckedúdama: duda
+Ckeetchi: encima
+Ckeelas: planta o arbusto llamado tambien ckatchi-yuyo
+Ckees: medio
+Ckeit-tchu: liendre
+Ckein-tcha: seco
+Ckeitin: techo
+Ckelar: brasa, fuego
+Ckeleckelte: planta espinuda llamada también candial
+Ckeleutch-auña: nunca
+Ckeli: silla de montar, también el avío o comida que va colgando de la silla en alforjas
+Ckelinar: aire, atmósfera
+Ckeltchar: verdad
+Ckelti: nervio
+Ckeltur: cardo
+Ckemptur: usar
+Ckénia: diente
+Ckenni: uña
+Ckentchayacke: destemplar
+Ckentchockol: encías 
+Ckentur: valor
+Ckepar: faja
+Ckepe, ckepi: ojo
+Ckepininar: mal de ojo, maleficio
+Ckepininai: pupila, niña del ojo
+Ckepinumar: tuerto
+Ckepipu: lágrima
+Ckepisinna: pestañas
+Ckepitarana: lo blanco del ojo
+Ckepnitur: despertar
+Ckeppar: cinturon
+Ckeptur: sacar
+Ckerantur: mascar
+Ckersitur: asustar
+Ckestur: pararse
+Cketchir: huevo de piojo
+Cketti: año
+Ckeutur: llorar
+Ckeu-uy: dientes
+Ckibur: hembra
+Cki-i: mi, mío
+Cki-is: entre (prepos)
+Cki-itur: pelear
+Ckilapana: aloja, bebida atacameña hecha con algarroba
+Ckilir: raton
+Ckiltorsocompa: apellido de 1618
+Ckintur: roer
+Ckipti: cama
+Ckiptur: amar, querer
+Ckitchcknatur: anudar
+Ckira: compuerta
+Ckirckir: palomita que abunda en la cordillera
+Ckis-tchatur: besar
+Ckisti: greda
+Ckits: suyo
+Ckitche: huevo de piojo
+Ckitti: cama
+Ckito: arriba
+Ckockimbaltir: apellido de 1615
+Ckocko: loma
+Ckockops: este
+Ckockops: atras
+Ckocksur: pedo
+Ckocku: atras
+Ckoiba: cueva
+Ckoicktur: alegria, alegrarse, hombrear
+Ckoickstur: aborrecer
+Ckoi-man: duende, remolino
+Ckoimar: ventolera
+Ckoimatur: olvidar
+Ckoinatur: hilar
+Ckoirama: el anochecer, el crepúsculo
+Ckoistur: odiar
+Ckoitchi: arco íris
+Ckoitur: huso
+Ckol:co
+Ckolackuntur: ensartar
+Ckolan: perdiz
+Ckolas: acción de ulpear, tomar harina tostada de maíz desleida en agua fria, designa también las 12 del día
+Colatur: almorzar
+Ckolbacktur: responder, contestar
+Ckolckitur: embarazo
+Ckolckol: la rótula de la rodilla
+Ckoli: tórax
+Ckolcktur: caer
+Ckoltao: añapa, ingrediente para fabricación de la chicha
+Ckolti: cuello de un vestido
+Ckomal: garganta
+Ckomallechaque: murmurador
+Ckomuraimir: ronquera, enronquecido
+Ckonatur: temer
+Ckonicks: anciano
+Ckonni: ántes
+Ckonnir: diestra
+Ckontor: cóndor
+Ckontarhualtir: apellido de 1626
+Ckonntur: buscar
+Ckonnti: gente
+Ckonte: gente
+Ckoockops: detras
+Ckooli: cuerpo
+Ckools: agujero
+Ckooyo: cuello
+Ckopa: puño, mango
+Ckopackotur: corretear
+Ckopal: apellido de 1620
+Ckopailitti: larva
+Ckopi: manco
+Ckopiapó: Copiapó
+Ckoraitur: mecer
+Ckori: gordo
+Ckori: cuento, chisme
+Ckorin: verdad
+Ckorinta: cierto
+Ckoritur: engordar
+Ckoro: cáscara de huevo
+Ckorpintur: deshojar
+Ckosckantur: vendar
+Ckosckatur: abrigar, tapar
+Ckoscko: lechuza
+Ckot: suyos
+Ckot-ckot: clueca
+Ckota: los
+Ckotack-saya: mios
+Ckontatur: agradecer
+Ckotatur: revolcar
+Ckotch: la
+Ckotchayá: a los
+Ckotchí: enfermo
+Ckotcho: mazamorra con harina de trigo tostado
+Ckot-cko: cráneo
+Ckot-ckol: con ellos
+Ckot-tar: costura
+Ckot-tatur: enfermarse
+Contuntur: cabestrear, tirar del cabestro
+Ckoiyajne: contento
+Ckoi-yi: bordo, estremo
+Ckoi: voz
+Ckoi-yotur: amarrar
+Cko-yu: junto
+Ckubi: chinchilla
+Ckucks: inútil
+Ckuckuntur: silbar
+Ckui-tchar: crudo
+Ckúlan: cara
+Ckuli: descalzo
+Ckulub: tobillo
+Ckulun: malva
+Ckumaynir: paralítico
+Ckumi: lático, penca
+Ckummi: planta que parece de la familia de las tunas
+Ckun: nosotros
+Ckunna: nosotros
+Ckunabur: espantajo
+Ckunatur: temer
+Ckunau/ao: miedo
+Ckunna: nuestro, nosotros
+Ckunnatur: cobarde
+Ckunsa: nuestro
+Ckuntur: cocer
+Ckuppa: hospedaje
+Ckúputur: ofrecer (R. ckuppa)
+Ckurasa: ollita
+Ckuratur: romper
+Ckuri: viento
+Ckuri: cintura
+Ckurius: disentería
+Ckuru: leon, puma
+Ckuruí-ya: viento
+Ckusckatur: abrigarse
+Ckusckantur: (cfr ckoyotur)
+Ckusso: canilla
+Ckustalanau: planta del pié
+Ckustur: madurar
+Ckussur: médula de los huesos
+Ckuta: sal
+Ckutchir: pié
+Ckutchubi: esquina
+Ckutckuntur: salar
+Ckutckutí: chinchilla ordinaria- la que llaman vulgarmente hamuscada
+Ckutchi: chancho, cochino
+Ckutchi: empeine
+Ckutchintur: andar a pie
+Ckutta: sal
+Ckutti: ombligo
+Ckutuptur: volcar (cfr. libainatur)
+Ckuy-iay: triste
+Ckuy-iatur: tener lástima
+Ckui-iucur: ruedecita del uso para hilar
