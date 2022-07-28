@@ -6,7 +6,7 @@
 import glob
 import string
 import re
-import numpy as np
+import pandas as pd
 # =============================================================================
 # 
 # =============================================================================
@@ -94,20 +94,6 @@ tokens = []
 for item in lista_corpus_contextos:    
     if len(item) > 0:
         tokens+= [item]
-# =============================================================================
-# Resultados corpus método antiguo
-# =============================================================================
-# =============================================================================
-# ##definiremos un diccionario vacío para agregar solamente las palabras que aparecen antes de yem
-# diccionario_contextos_presentacion = {'yem':[],'ema':[],'em':[]} 
-# ##añadiremos al diccionario anterior las apariciones de yem/em/ema y las cuatro palabras anteriores, consideramos que es un buen número de palabras para inferir el significado
-# lista_yem_presentacion = k_anteriores(lista_corpus_contextos,'yem',2)
-# lista_em_presentacion = k_anteriores(lista_corpus_contextos,'em',2)
-# lista_ema_presentacion = k_anteriores(lista_corpus_contextos,'ema',2)
-# diccionario_contextos_presentacion['yem'] = lista_yem_presentacion
-# diccionario_contextos_presentacion['em'] = lista_em_presentacion
-# diccionario_contextos_presentacion['ema'] = lista_ema_presentacion
-# =============================================================================
 
 # =============================================================================
 # Resultados corpus método nuevo
@@ -126,25 +112,46 @@ for item in mapu_limpio2:
 # NECESITO MEMORIA AAAA
 # =============================================================================
 del mapu
-del mapu_limpio1
-del mapu_limpio2  
-del corpus_string 
-del lista_corpus_contextos
-del string_corpus_contextos
-del string_corpus_misional
-del corpus
-del tokens
+del mapu_limpio1,mapu_limpio2
+del corpus_string,lista_corpus_contextos
+del string_corpus_contextos,string_corpus_misional,corpus,tokens
+del lista
 # =============================================================================
 # Seguimos
 # =============================================================================
 diccionario = dict(zip(mapu_limpio, espa))
-
 yem=[]
 for item in diccionario.keys():
     yem += re.findall("^[a-zA-Zñüáéíóú\s]*[\s]*yem+[\s]+[a-zA-Zñüáéíóú\s]*$", item)
 em=[]
 for item in diccionario.keys():
     em += re.findall("^(?!.*chem)[a-zA-Zñüáéíóú\s]*[\s]*em+[\s]+[a-zA-Zñüáéíóú\s]*$", item)
-
+trad_yem=[]
+trad_em=[]
 for item in yem:
-    diccionariodiccionaro[item]
+    trad_yem+=[diccionario[str(item)]]
+yem = dict(zip(yem,trad_yem)) 
+for item in em:
+    trad_em+=[diccionario[str(item)]]
+em = dict(zip(em,trad_em)) 
+
+# =============================================================================
+# Visualización de datos
+# =============================================================================
+yemdt = {'Mapudungun':list(yem.keys()) , 'Traduccion': list(yem.values())}
+yemdf = pd.DataFrame(yemdt)
+yemdf.to_csv('Datos/yem.csv',sep=';')
+emdt = {'Mapudungun':list(em.keys()), 'Traduccion':list(em.values())}
+emdf = pd.DataFrame(emdt)
+emdf.to_csv('Datos/em.csv',sep=';')
+# =============================================================================
+# volvemos a liberar memoria
+# =============================================================================
+del diccionario,espa
+del mapu_limpio,yemdt,emdt
+del trad_em, trad_yem
+del data
+del file
+# =============================================================================
+# 
+# =============================================================================
