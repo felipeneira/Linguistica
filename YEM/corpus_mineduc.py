@@ -125,6 +125,7 @@ for item in mapu_limpio2:
 # =============================================================================
 # NECESITO MEMORIA AAAA
 # =============================================================================
+del mapu
 del mapu_limpio1
 del mapu_limpio2  
 del corpus_string 
@@ -136,7 +137,7 @@ del tokens
 # =============================================================================
 # Seguimos
 # =============================================================================
-diccionario = dict(zip(mapu, espa))
+diccionario = dict(zip(mapu_limpio, espa))
 
 yem=[]
 for item in diccionario.keys():
@@ -144,5 +145,6 @@ for item in diccionario.keys():
 em=[]
 for item in diccionario.keys():
     em += re.findall("^(?!.*chem)[a-zA-Zñüáéíóú\s]*[\s]*em+[\s]+[a-zA-Zñüáéíóú\s]*$", item)
+
 for item in yem:
-    print(diccionario[str(item)])
+    diccionariodiccionaro[item]
