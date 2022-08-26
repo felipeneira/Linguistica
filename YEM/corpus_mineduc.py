@@ -95,7 +95,7 @@ tokens = []
 for item in lista_corpus_contextos:    
     if len(item) > 0:
         tokens+= [item]
-
+espa_str = str(espa)
 # =============================================================================
 # Resultados corpus método nuevo
 # =============================================================================
