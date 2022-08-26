@@ -7,7 +7,7 @@ import re
 # =============================================================================
 # abrir textos
 # =============================================================================
-textos = glob.glob("/home/felipe/Documentos/GitHub/Linguistica/Ckunsa/*.txt")
+textos = glob.glob("/home/felipe/GitHub/Linguistica/Ckunsa/*.txt")
 corpus = {}
 ##por cada archivo en la lista de archivos
 for file in textos:
@@ -42,5 +42,14 @@ verbos_ckunsa += re.findall(verbosre, diccionario_string)
 lista_verbos = []
 for lista in verbos_ckunsa:
     lista_verbos += lista[0:1]
-diccionario = pd.read_csv('/home/felipe/Documentos/GitHub/Linguistica/Ckunsa/diccionario.csv', sep=';')
+diccionario = pd.read_csv('/home/felipe/GitHub/Linguistica/Ckunsa/diccionario.csv', sep=';')
 diccionario_verbos = diccionario[diccionario.Lexema.isin(lista_verbos)]
+
+# =============================================================================
+# 
+# =============================================================================
+posibilidades = ["Nombre","nombre","lugar","Lugar","Apellido","apellido"]
+ali = []
+for item in posibilidades:
+    ali += re.findall(r"([A-Za-z\-αινσϊ]*):\s[a-zA-Z\d\sραινσϊ\.\(\)]*\s\b(apellido)\b", diccionario_string)
+

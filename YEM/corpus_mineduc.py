@@ -43,17 +43,18 @@ def k_anteriores(oracion,Y,k):
                     r -= 1
             lista_contextos += [oracion[i-r:i]+[Y]]
     return lista_contextos
+
 # =============================================================================
 # 
 # =============================================================================
-lista_files = glob.glob('/home/felipe/Documentos/GitHub/Linguistica/YEM/entrevistas_mineduc/*.txt')
+lista_files = glob.glob('entrevistas_mineduc/*.txt')
 corpus = {}
 ##por cada archivo en la lista de archivos
 for file in lista_files:
 ##este se abre con encoding utf-8 y queda definido como file_input
     with open(file, 'r', encoding="utf-8") as file_input:
 ##se toman los nombres de los textos y se le quitan los primeros 15 caracteres (el nombre de la carpeta)
-        corpus[file[67:-4]]=file_input.read()
+        corpus[file[20:-4]]=file_input.read()
 corpus_string = str(corpus)
 print('Nombre de los textos')
 print(corpus.keys())
@@ -155,3 +156,8 @@ del file
 # =============================================================================
 # 
 # =============================================================================
+yem_filtrado = pd.read_csv("/home/felipe/GitHub/Linguistica/YEM/Datos/yem_filtrado_institucional.csv", sep=";")
+em_sin_filtrar = pd.read_csv("/home/felipe/GitHub/Linguistica/YEM/Datos/em.csv", sep=";")
+
+em_filtrado = em_sin_filtrar[~em_sin_filtrar.Mapudungun.isin(list(yem_filtrado['Mapudungun']))]
+em_filtrado.to_csv('Datos/em_filtrado_institucional.csv',sep=';')
