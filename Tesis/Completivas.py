@@ -6,6 +6,7 @@ import glob
 import re
 import string
 import sys
+import pandas as pd
 # =============================================================================
 # Def usadas
 # =============================================================================
@@ -38,6 +39,8 @@ misional        --> mi          (Valdivia 1606, 1626, Febrés 1765)
 etnografico     --> et          (Lenz 1863-1938, Manquilef 1914, 1911)
 
 entrevistas     --> fh          (Entrevistas Tesis Felipe Hasler)
+
+corpus mineduc  --> cm          (Corpus recolectado por el mineduc)
 
 Escribir "salir" para cerrar el programa
 
@@ -142,6 +145,54 @@ Escribir "salir" para cerrar el programa
         print('Cantidad de palabras')
         print(len(lista_string))
         print('======================================================================================================================================================')
+    elif corpus == "cm":
+        lista_files = glob.glob('/home/felipe/Documentos/GitHub/Linguistica/YEM/entrevistas_mineduc/*.txt')
+        corpus = {}
+        ##por cada archivo en la lista de archivos
+        for file in lista_files:
+        ##este se abre con encoding utf-8 y queda definido como file_input
+            with open(file, 'r', encoding="utf-8") as file_input:
+        ##se toman los nombres de los textos y se le quitan los primeros 15 caracteres (el nombre de la carpeta)
+                corpus[file[67:-4]]=file_input.read()
+        corpus_string = str(corpus)
+        print('======================================================================================================================================================')
+        print('Nombre de los textos')
+        print(' ')
+        for item in list(corpus.keys()):
+            print(item)
+        re_traduccion = r"n*M:\s*([a-zA-Z\<\>\d\s\?\¿ñÑü\.\*\%\,\\\'\áéíóú\'\!\\-¡]*)\\*\\nC:\s*([a-zA-Z\<\>\d\s\?\¿ñü\.\*\%\,\\\'\áéíóú]*)\\*\\n*"
+        corpus= re.findall(re_traduccion,corpus_string)
+        mapu= []
+        espa= []
+        for lista in corpus:
+            mapu += lista[0:1]
+            espa += lista[1:2]
+        string_corpus_misional = str(mapu)
+        ##Tomamos el string_corpus_misional y limpiamos una serie de impurezas tÃ­picas de la escritura en mapudungun y el trabajo con txt
+        ##En primer lugar eliminamos los saltos de pÃ¡gina marcados con "\n" y los marcados con "\t"
+        string_corpus_contextos = string_corpus_misional.replace('\n', ' ')
+        string_corpus_contextos = string_corpus_contextos.replace('\t', ' ')
+        ##luego eliminamos [r], que simboliza la duda del escritor sobre la existencia de una "r" en esa posicion
+        string_corpus_contextos = string_corpus_contextos.replace('[r]', 'r')
+        ##eliminamos los marcadores de pÃ¡rrafo 
+        string_corpus_contextos = string_corpus_contextos.replace('Â¶', '')
+        ##utilizamos ambas def para eliminar puntuaciones y nÃºmeros del texto
+        string_corpus_contextos = remover_numeros(string_corpus_contextos)
+        ##eliminamos las marcas de pregunta y respuesta en el texto, las que son marcadas con una "P" y "R" en el corpus
+        string_corpus_contextos = string_corpus_contextos.replace('P ', '')
+        string_corpus_contextos = string_corpus_contextos.replace('R ', '')
+        ##eliminamos las mayÃºsculas y el exceso de espacios
+        string_corpus_contextos = string_corpus_contextos.lower()
+        ##luego se usa .split para dividir el texto por \n
+        string_corpus_misional = string_corpus_misional.replace('\n', '')
+        string_corpus_contextos = string_corpus_contextos.replace('Â¿', '')
+        string_corpus_contextos = string_corpus_contextos.replace('â', '')
+        string_corpus_contextos = string_corpus_contextos.replace('â¦', '')
+        string_corpus_contextos = re.sub('<\*spa>',' ',string_corpus_contextos)
+        string_corpus_contextos = remover_puntuacion(string_corpus_contextos)
+        string_corpus_contextos = string_corpus_contextos.strip()
+        corpus_preparado = string_corpus_misional
+
     elif corpus == "salir":
         break
     else:
@@ -404,4 +455,6 @@ Otros
 input("presiona 'enter' para cerrar")
 
 
-
+kupadt = {'Mapudungun':kupa,'Traduccion':None}
+kupadf = pd.DataFrame(kupadt)
+kupadf.to_csv('tercer_periodo/kupa_mi.csv', sep= ';')

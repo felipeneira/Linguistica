@@ -7,6 +7,7 @@ import glob
 import string
 import re
 import pandas as pd
+import matplotlib.pyplot as plt
 # =============================================================================
 # 
 # =============================================================================
@@ -43,6 +44,13 @@ def k_anteriores(oracion,Y,k):
                     r -= 1
             lista_contextos += [oracion[i-r:i]+[Y]]
     return lista_contextos
+
+def contador(x, y):
+    contador = []
+    for item in x:
+        if item == y:
+            contador += [item]
+    return len(contador)
 # =============================================================================
 # 
 # =============================================================================
@@ -136,7 +144,7 @@ for item in em:
 em = dict(zip(em,trad_em)) 
 
 # =============================================================================
-# Visualización de datos
+# Datos para filtrado
 # =============================================================================
 yemdt = {'Mapudungun':list(yem.keys()) , 'Traduccion': list(yem.values())}
 yemdf = pd.DataFrame(yemdt)
@@ -145,7 +153,7 @@ emdt = {'Mapudungun':list(em.keys()), 'Traduccion':list(em.values())}
 emdf = pd.DataFrame(emdt)
 emdf.to_csv('Datos/em.csv',sep=';')
 # =============================================================================
-# volvemos a liberar memoria
+# Volvemos a liberar memoria
 # =============================================================================
 del diccionario,espa
 del mapu_limpio,yemdt,emdt
@@ -153,5 +161,24 @@ del trad_em, trad_yem
 del data
 del file
 # =============================================================================
-# 
+# limpieza em
 # =============================================================================
+emdt = pd.read_csv(r'Datos/em.csv', sep= ';')
+yemdt = pd.read_csv(r'Datos/tercer_periodo/yem_filtrado.csv', sep=';')
+
+
+emdt = emdt[~emdt.Mapudungun.isin(list(yemdt['Mapudungun']))]
+emdt.to_csv('Datos/em.csv',sep=';')
+# =============================================================================
+# Trabajo datos filtrados
+# =============================================================================
+datos = pd.read_csv(r'Datos/yem_filtrado.csv', sep=';')
+datos['Significado']
+
+contador(list(datos['Significado']),'?')
+
+significados = ['Defuntivo (536)','Tiempo nominal (12)', 'Afectivo (4)', 'No se sabe (29)']
+valores = [536, 12, 4, 29]
+plt.figure(figsize=(30, 3))
+plt.subplot(131)
+plt.bar(significados, valores)
