@@ -161,3 +161,17 @@ em_sin_filtrar = pd.read_csv("/home/felipe/GitHub/Linguistica/YEM/Datos/em.csv",
 
 em_filtrado = em_sin_filtrar[~em_sin_filtrar.Mapudungun.isin(list(yem_filtrado['Mapudungun']))]
 em_filtrado.to_csv('Datos/em_filtrado_institucional.csv',sep=';')
+
+# =============================================================================
+# 
+# =============================================================================
+datos = pd.read_csv(r'Datos/yem_filtrado.csv', sep=';')
+datos['Significado']
+
+contador(list(datos['Significado']),'?')
+
+significados = ['Defuntivo (536)','Tiempo nominal (12)', 'Afectivo (4)', 'No se sabe (29)']
+valores = [536, 12, 4, 29]
+plt.figure(figsize=(30, 3))
+plt.subplot(131)
+plt.bar(significados, valores)
