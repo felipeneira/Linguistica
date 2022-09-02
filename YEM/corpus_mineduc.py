@@ -7,6 +7,7 @@ import glob
 import string
 import re
 import pandas as pd
+import matplotlib.pyplot as plt
 # =============================================================================
 # 
 # =============================================================================
@@ -44,6 +45,12 @@ def k_anteriores(oracion,Y,k):
             lista_contextos += [oracion[i-r:i]+[Y]]
     return lista_contextos
 
+def contador(x, y):
+    contador = []
+    for item in x:
+        if item == y:
+            contador += [item]
+    return len(contador)
 # =============================================================================
 # 
 # =============================================================================

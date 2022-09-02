@@ -4,8 +4,7 @@
 # 
 # =============================================================================
 ##importamos string para la limpieza de los textos
-import string
-
+import matplotlib.pyplot as plt
 ##abrimos una lista con números con el fin de poder eliminar de forma más fácil los caracteres numéricos
 numeros= []
 ##cada uno de los números de este rango
@@ -35,7 +34,12 @@ def remover_numeros(k):
         ##también eliminamos la palabra "pag", usada para marcar páginas junto con lo anterior
         k=k.replace('pag','')
     return k
-
+def contador(x, y):
+    contador = []
+    for item in x:
+        if item == y:
+            contador += [item]
+    return len(contador)
 # =============================================================================
 # 
 # =============================================================================
@@ -116,14 +120,88 @@ yem += re.findall(r"[a-zA-Zñáéíóúùіре]*\s*yem\s+", string_corpus_conte
 # =============================================================================
 # 
 # =============================================================================
-yemdt = {'Mapudungun':yem}
-yemdf = pd.DataFrame(yemdt)
-yemdf.to_csv('Datos/yem_misional.csv',sep=';')
-emdt = {'Mapudungun':em1}
-emdf = pd.DataFrame(emdt)
-emdf.to_csv('Datos/em_misional.csv',sep=';')
-emadt = {'Mapudungun':ema}
-emadf = pd.DataFrame(emadt)
-emadf.to_csv('Datos/ema_misional.csv',sep=';')
+# =============================================================================
+# yemdt = {'Mapudungun':yem}
+# yemdf = pd.DataFrame(yemdt)
+# yemdf.to_csv('Datos/yem_misional.csv',sep=';')
+# emdt = {'Mapudungun':em1}
+# emdf = pd.DataFrame(emdt)
+# emdf.to_csv('Datos/em_misional.csv',sep=';')
+# emadt = {'Mapudungun':ema}
+# emadf = pd.DataFrame(emadt)
+# emadf.to_csv('Datos/ema_misional.csv',sep=';')
+# =============================================================================
 
+
+# =============================================================================
+# 
+# =============================================================================
+
+# =============================================================================
+# Ploteo Significados
+# =============================================================================
+formas = ["em", "yem", "ema"]
+for forma in formas:
+    datos = pd.read_csv(r'Datos/Misional/'+forma+'.csv', sep=';')
+    valores = []
+    for item in range(7):
+        valores += [contador(list(datos['Significado']),item)]
+    significados = ['No se sabe','Defuntivo','Tiempo nominal', 'Afectivo', 'Conmiserativo','interjección','despreciativo*']
+    plt.barh(significados, valores)
+    for index, value in enumerate(valores):
+        plt.text(value,index, str(value))
+    plt.title(forma+' periodo misional')
+    plt.savefig("Datos/Misional/Graficos/"+forma+"_misional")
+    plt.show()
+# =============================================================================
+# Ploteo por autor
+# =============================================================================
+formas = ["em", "yem", "ema"]
+autores = ["Valdivia", "Febres", "Havedstat"]
+for forma in formas:
+    for autor in autores:
+        datos = pd.read_csv(r'Datos/Misional/'+forma+'.csv', sep=';')
+        datos = datos[datos.Autor.str.contains(autor)]
+        valores = []
+        for item in range(7):
+            valores += [contador(list(datos['Significado']),item)]
+        significados = ['No se sabe','Defuntivo','Tiempo nominal', 'Afectivo', 'Conmiserativo','interjección','despreciativo*']
+        plt.barh(significados, valores)
+        for index, value in enumerate(valores):
+            plt.text(value,index, str(value))
+        plt.title(autor+' '+forma)
+        plt.savefig("Datos/Misional/Graficos/"+autor+' '+forma)
+        plt.show()
+
+def suma_listas(a, b, c=0):
+    suma=[]
+    for i in range(len(a)):
+        suma.append(a[i]+b[i]+c[i])
+    return suma
+
+
+suma_listas(valores[1],valores[0],valores[2])
+# =============================================================================
+# ploteo por forma
+# =============================================================================
+formas = ["em"]
+autores = ["Valdivia", "Febres", "Havedstat"]
+valores = []
+for forma in formas:
+    datos = pd.read_csv(r'Datos/Misional/'+forma+'.csv', sep=';')
+    valores_parciales = []
+    for autor in autores:
+        valores_parciales += [contador(list(datos['Autor']),autor)]
+    valores += [valores_parciales]
+# =============================================================================
+# 
+# =============================================================================
+    plt.barh(autores,valores[0])
+    for index, value in enumerate(valores[0]):
+        plt.text(value,index, str(value))
+        plt.title(forma)
+        plt.savefig("Datos/Misional/Graficos/"+forma)
+        
+            
+            
 
