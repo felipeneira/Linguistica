@@ -5,6 +5,7 @@
 # =============================================================================
 ##importamos string para la limpieza de los textos
 import matplotlib.pyplot as plt
+import string
 ##abrimos una lista con números con el fin de poder eliminar de forma más fácil los caracteres numéricos
 numeros= []
 ##cada uno de los números de este rango

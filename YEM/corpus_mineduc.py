@@ -163,16 +163,7 @@ del file
 # =============================================================================
 # 
 # =============================================================================
-yem_filtrado = pd.read_csv("/home/felipe/GitHub/Linguistica/YEM/Datos/yem_filtrado_institucional.csv", sep=";")
-em_sin_filtrar = pd.read_csv("/home/felipe/GitHub/Linguistica/YEM/Datos/em.csv", sep=";")
-
-em_filtrado = em_sin_filtrar[~em_sin_filtrar.Mapudungun.isin(list(yem_filtrado['Mapudungun']))]
-em_filtrado.to_csv('Datos/em_filtrado_institucional.csv',sep=';')
-
-# =============================================================================
-# 
-# =============================================================================
-datos = pd.read_csv(r'Datos/yem_filtrado.csv', sep=';')
+datos = pd.read_csv(r'Datos/Misional/yem.csv', sep=';')
 datos['Significado']
 
 contador(list(datos['Significado']),'?')
