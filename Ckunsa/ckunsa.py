@@ -48,8 +48,5 @@ diccionario_verbos = diccionario[diccionario.Lexema.isin(lista_verbos)]
 # =============================================================================
 # 
 # =============================================================================
-posibilidades = ["Nombre","nombre","lugar","Lugar","Apellido","apellido"]
-ali = []
-for item in posibilidades:
-    ali += re.findall(r"([A-Za-z\-αινσϊ]*):\s[a-zA-Z\d\sραινσϊ\.\(\)]*\s\b(apellido)\b", diccionario_string)
+
 

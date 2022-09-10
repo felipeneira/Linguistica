@@ -50,14 +50,14 @@ la anterior
 At-halpa: gallina
 Atitchaus: poder
 Atitur: poder más, vencer
-Atiu: oeste. cfr: ckapin y ladia
+Atiu: oeste. cfr. ckapin y ladia
 Atta: ayer
 Au: cfr a, ar, ara
 Aulo: abuelo, es el termino cast. mal pronunciado
 Ay: apellido de 1615, mal ortografiado por ay-i
 Ay-i: maíz
 Ay-yan: desagradable
-Aychil: apellido de 1612. Tal vez sea mala transcripción de aytzir: viscacha
+Aychil: apellido de 1612. Tal vez sea mala transcripción de aytzir. viscacha
 
 Baalatur: cavar
 Baalsatur: barrer
@@ -128,7 +128,7 @@ Ckackasintur: acostarse de espaldas, boca arriba (lit. frente arriba)
 Ckackatur: abrir (cfr ckastur)
 Ckackma: cucaracho
 Ckacknatur:  saborear
-Ckacktchi: pescado ( para los changos, cuyo alimento casi exclusivamente era el pescado, secomprende que el termino escojido para designarlo haya sido, ckacktchi, que significa bueno,agradable =
+Ckacktchi: pescado ( para los changos, cuyo alimento casi exclusivamente era el pescado, secomprende que el termino escogido para designarlo haya sido, ckacktchi, que significa bueno,agradable =
 Ckackchi: Bueno, agradable, sabroso al paladar 
 ckacktchir: bueno, agradable, sabroso al paladar (diferénciase de ckaaya, en que
 éste no se aplica a los alimentos, sino a cualidades morales, salud etc. aveces designa
@@ -351,7 +351,7 @@ Ckoscko: lechuza
 Ckot: suyos
 Ckot-ckot: clueca
 Ckota: los
-Ckotack-saya: mios
+Ckotack-saya: míos
 Ckontatur: agradecer
 Ckotatur: revolcar
 Ckotch: la
@@ -418,7 +418,7 @@ Ckuy-iay: triste
 Ckuy-iatur: tener lástima
 Ckui-iucur: ruedecita del uso para hilar
 
-H
+
 Haaba-yur: agua corrompida
 Haabu: aliento, respiración, saliva
 Haalar: estrella
@@ -512,7 +512,7 @@ Huacka: ¡cuanto!
 Hualcka: collar
 Hualtir: apellido 1618
 Huata: vientre 
-Huay-tche: pajaro llamado también pico largo
+Huay-tche: pájaro llamado también pico largo
 Huckru-tur: mandar
 Huis: vicuña en tropas
 Huib-atur: criar ganado
@@ -571,7 +571,6 @@ I-ya: ese (cfr aps)
 I-yare: calzado (adjetivo)
 I-yauri: calzado
 
-L
 Laari: sangre
 Lari: sangre
 Laatchir: pájaro
@@ -651,12 +650,10 @@ Luckatur: corcovear
 Luckanatur: mover
 Lucklantur: ovillo
 Lulan: miel- abeja
-Lulantur: sonar (rad lulan) tronar
+Lulantur: sónar (rad lulan) tronar
 Luncku: jorobado
 Lupay-natur: rodar
 
-
-M
 Maara: cresta
 Ma-istur: hallar, procurar
 Malckar: garganta
@@ -722,7 +719,7 @@ Paapur: lana
 Paarcktur: remedar
 Paatcha: la tierra
 Pabisa: pábilo
-Pairi: mosca, mosquitos:
+Pairi: mosca, mosquitos
 Pairicks: lleno de mosquitos
 Paitur: destapar
 Palatur: apaciguar
@@ -735,7 +732,7 @@ Pani: pollo
 Panni hijo
 Panta: sombrero
 Pantiatchi: rosado
-Pantchastur: abortar (rad: pani)
+Pantchastur: abortar (rad. pani)
 Papucski: lanudo
 Papur: lana
 Passaptur: patear
@@ -781,7 +778,7 @@ Pinnau: mellizos (cfr. sahli o saali)
 Pinckstur: telar
 Pintchick: cuando
 Pipita: cuesco, pepa
-Piscku: lijero (cfr: picku)
+Piscku: lijero (cfr. picku)
 Pitchackutur: doblar
 Pitchau: hermano
 Pitchipani: sobrino
@@ -799,10 +796,10 @@ Ponnor: apolillado
 Ponnotur: asolearse
 Poótun: desarraigar
 Potacka: sedimento, depósito, borra
-Potor: alud, tierra caida
+Potor: alud, tierra caída
 Potchestur: calambre
 Pot-natur: desenterrar, desatar
-Pucki: huerfano (cfr backtcha)
+Pucki: huérfano (cfr backtcha)
 Puckutchu: vejiga
 Pulcktur: embriagarse
 Pulsia: pulso
@@ -934,7 +931,7 @@ Supai, suppai: demonio
 Surstua: helar
 Sutálanau: palma de la mano
 Sutar: picaflor, apellido actual atacameño
-Sutchi diez
+Sutchi: diez
 Sutchita sutchi: veinte
 Suy-ie: feto de animal
 Suy-i: mano
@@ -948,17 +945,17 @@ Tackil: quijada
 Tackos: ramas de árbol
 Tacktacknatur: cacarear (rab. tack. en takuntur)
 Tackuntur: advertir
-Taipu: mañana (taipucoyrama: el anochecer: (ckoyrama?)
+Taipu: mañana
 Tipu ené: pasado mañana
 Tama: calor
 Tantí: semilla, grano de maíz
 Tapalur: carga
-Tapatur atajar
+Tapatur: atajar
 Tapur: tarde (conf. antap)
 Tarkutur: reventar, tener sed
 Tarckma: sed
 Tasckmatur: padecer
-Tastar: apeliido de 1612
+Tastar: apellido de 1612
 Tatai: amigo
 Tckura: cintura 
 Tebainatur: colgar
@@ -969,7 +966,7 @@ Téckara: nueve
 Teckitur: despedazar, chancar
 Teï: (cfr. ckaya)
 Temnatur: urdir
-Temptur: alzar:
+Temptur: alzar
 Tepirtur: agarrar
 Tepitur: (cfr. haitatur, ckacktur) exprimir jugo
 Tickan: padre
@@ -1008,7 +1005,7 @@ Tulur: dormir
 Tulva: campo abierto, pampa
 Tússutur: bailar
 Tussatur: desparramar
-Tusckantur: el ‘escabar’ de la gallina
+Tusckantur: el escabar de la gallina
 Tussumar: bailar con guitarra
 Tutu: el pezon de los pechos
 Tútutur: mamar 
@@ -1046,7 +1043,7 @@ Ttetur: llegar
 Ttey-ia: (cfr. ckaya)
 Tticka: señal, flor
 Ttickutur: separar
-Ttipal: vulva muliebris (cfr: típalo)
+Ttipal: vulva muliebris (cfr. típalo)
 Ttipan: delgado
 Ttiu-nur: lunar
 Ttióckomar: gusano
@@ -1061,13 +1058,13 @@ Ttoytur: humear
 Ttucku: cerca
 Ttuictur: conocer
 Ttulti: sueño, noche
-Ttultur: soñar (cfr: hutumar), dormir
+Ttultur: soñar (cfr. hutumar), dormir
 Ttulva: campo, pampa
 Ttulvalentur: arrasar, asolar
 Tumainatur: arder con llamaradas
 Ttunar: terreno
 Ttupia coronta
-Tturi: casa: brea (planta)
+Tturi: casa, brea (planta)
 Ttups: casa
 Tturicka: rancho
 Ttusu: nudo

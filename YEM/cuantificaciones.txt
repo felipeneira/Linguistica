@@ -1,0 +1,16 @@
+Sacar citas del yem
+
+ema --> 25 vocal, 35 consonante
+em -->5 vocal , 28 consonante
+yem --> 0 vocal, 19 consonante
+
+Valdivia
+3 --> yem
+53 --> ema
+13 --> em
+
+Febrés
+16 --> yem
+7 --> ema
+20 --> em
+

@@ -7,6 +7,7 @@ import glob
 import string
 import re
 import pandas as pd
+import matplotlib.pyplot as plt
 # =============================================================================
 # 
 # =============================================================================
@@ -44,6 +45,12 @@ def k_anteriores(oracion,Y,k):
             lista_contextos += [oracion[i-r:i]+[Y]]
     return lista_contextos
 
+def contador(x, y):
+    contador = []
+    for item in x:
+        if item == y:
+            contador += [item]
+    return len(contador)
 # =============================================================================
 # 
 # =============================================================================
@@ -156,8 +163,13 @@ del file
 # =============================================================================
 # 
 # =============================================================================
-yem_filtrado = pd.read_csv("/home/felipe/GitHub/Linguistica/YEM/Datos/yem_filtrado_institucional.csv", sep=";")
-em_sin_filtrar = pd.read_csv("/home/felipe/GitHub/Linguistica/YEM/Datos/em.csv", sep=";")
+datos = pd.read_csv(r'Datos/Misional/yem.csv', sep=';')
+datos['Significado']
 
-em_filtrado = em_sin_filtrar[~em_sin_filtrar.Mapudungun.isin(list(yem_filtrado['Mapudungun']))]
-em_filtrado.to_csv('Datos/em_filtrado_institucional.csv',sep=';')
+contador(list(datos['Significado']),'?')
+
+significados = ['Defuntivo (536)','Tiempo nominal (12)', 'Afectivo (4)', 'No se sabe (29)']
+valores = [536, 12, 4, 29]
+plt.figure(figsize=(30, 3))
+plt.subplot(131)
+plt.bar(significados, valores)
