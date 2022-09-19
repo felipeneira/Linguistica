@@ -8,6 +8,8 @@ import string
 import re
 import pandas as pd
 import matplotlib.pyplot as plt
+
+import networkx as nx
 # =============================================================================
 # 
 # =============================================================================
@@ -116,6 +118,13 @@ for item in mapu_limpio1:
     mapu_limpio2 += [remover_puntuacion(item)]
 for item in mapu_limpio2:
     mapu_limpio += [item.lower()]
+mapu_palabras1=[]
+mapu_palabras=[]
+for item in mapu_limpio:
+    mapu_palabras1 += item.split(" ")
+for item in mapu_palabras1:
+    if len(item) > 1:
+        mapu_palabras += [item]
 # =============================================================================
 # NECESITO MEMORIA AAAA
 # =============================================================================
@@ -134,7 +143,11 @@ for item in diccionario.keys():
 em=[]
 for item in diccionario.keys():
     em += re.findall("^(?!.*chem)[a-zA-Zñüáéíóú\s]*[\s]*em+[\s]+[a-zA-Zñüáéíóú\s]*$", item)
-trad_yem=[]
+trad_yem=[]lista_corpus_contextos= []
+pre_lista_corpus_contextos = str(corpus_preparado).split(' ')
+for palabra in pre_lista_corpus_contextos:
+    if len(palabra) > 0:
+        lista_corpus_contextos += [palabra]
 trad_em=[]
 for item in yem:
     trad_yem+=[diccionario[str(item)]]
@@ -173,3 +186,78 @@ valores = [536, 12, 4, 29]
 plt.figure(figsize=(30, 3))
 plt.subplot(131)
 plt.bar(significados, valores)
+# =============================================================================
+# Preparación método javier
+# =============================================================================
+def k_anteriores(oracion,Y,k):
+    lista_contextos = []
+    for i in range(len(oracion)):
+        word = oracion[i]
+        if word == Y:
+            r = k
+            for r in range(1,k+1):
+                if i-r < 0:
+                    r -= 1
+            lista_contextos += [oracion[i-r:i]+[Y]]
+    return lista_contextos
+palabras = []
+for palabra in lista_corpus_contextos:
+    if len(palabra) > 1:
+        palabras += [palabra]
+        
+diccionario_contextos_presentacion = {'yem':[],'em':[]} 
+lista_yem_presentacion = k_anteriores(palabras,'yem',1)
+lista_em_presentacion = k_anteriores(palabras,'em',1)
+diccionario_contextos_presentacion['yem'] = lista_yem_presentacion
+diccionario_contextos_presentacion['em'] = lista_em_presentacion
+
+def GoW(text_clean):
+    
+    G=nx.Graph()
+    for sentence in text_clean:
+        if len(sentence)>1:
+            pairs=list(zip(sentence,sentence[1:]))
+            for pair in pairs:
+                if G.has_edge(pair[0],pair[1])==False:
+                    G.add_edge(pair[0],pair[1],weight=1)
+                else:
+                    x=G[pair[0]][pair[1]]['weight']
+                    G[pair[0]][pair[1]]['weight']=x+1
+                    
+    #Gcc = sorted(nx.connected_components(G), key=len, reverse=True)
+    #G0 = G.subgraph(Gcc[0])
+    
+    return G
+grafos = {}
+
+for Y in diccionario_contextos_presentacion.keys():
+    oraciones = diccionario_contextos_presentacion[Y]
+    grafos[Y]=GoW(oraciones)
+
+import matplotlib.pyplot as plt
+import scipy
+def plotG_centrality(Y,size):
+    
+    G = grafos[Y]
+    #G0 = G.copy()
+    #G0.remove_edges_from(nx.selfloop_edges(G0))
+    #G = nx.k_core(G0)
+    #G = nx.maximum_spanning_tree(G)
+    fig, ax = plt.subplots(dpi=800)
+    centrality = nx.pagerank(G,weight='weight')
+    ordered_centrality = {k: v for k, v in sorted(centrality.items(), key=lambda item: item[1],reverse=True)}
+    labels = {i:i for i in G.nodes() if i in list(zip(*list(ordered_centrality.items())[:50]))[0]}
+    pos = nx.spring_layout(G)
+    nx.draw_networkx_nodes(G, pos, node_size = [size*x for x in list(centrality.values())], node_color='gold',node_shape='o',alpha=0.95, linewidths=0.1) 
+    nx.draw_networkx_edges(G, pos, alpha=0.5,width=0.2,edge_color='k')
+    nx.draw_networkx_labels(G,pos,labels,alpha=1,font_size=3.,font_color='k',font_family='monospace')
+    plt.title('Red {}'.format(Y),fontsize=8)
+    plt.savefig('red_{}.jpg'.format(Y), format='jpg', transparent=True, bbox_inches='tight',dpi=800)
+    plt.axis('off')
+    plt.show()
+def ranking(palabra,k):
+    red = grafos[palabra]
+    return list({k: v for k, v in sorted(dict(red[palabra]).items(), key=lambda item: item[1]['weight'],reverse=True)}.keys())[:k]
+
+for Y in grafos.keys():
+    print(Y,ranking(Y,10))
