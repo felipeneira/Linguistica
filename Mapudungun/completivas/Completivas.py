@@ -89,7 +89,7 @@ Escribir "salir" para cerrar el programa
     
     
     elif corpus == "mi":
-        lista_files = glob.glob('/home/felipe/Documentos/GitHub/Linguistica/Lingüística Computacional Final/Primer periodo/Primer periodo/*.txt')
+        lista_files = glob.glob('Textos/Primer periodo/*.txt')
         corpus = {}
         ##por cada archivo en la lista de archivos
         for file in lista_files:
@@ -119,7 +119,7 @@ Escribir "salir" para cerrar el programa
         print('======================================================================================================================================================')    
     
     elif corpus == "et":
-        lista_files = glob.glob('/home/felipe/WINDOWS/Papers, investigaciones y libros/Textos mapudungun/Convertibles/Transcripciones/*.txt')
+        lista_files = glob.glob('Textos/Segundo periodo/*.txt')
         ##se define un diccionario donde en los keys se encuentran los nombres y en los values el texto
         corpus = {}
         ##por cada archivo en la lista de archivos
@@ -146,7 +146,7 @@ Escribir "salir" para cerrar el programa
         print(len(lista_string))
         print('======================================================================================================================================================')
     elif corpus == "cm":
-        lista_files = glob.glob('/home/felipe/Documentos/GitHub/Linguistica/YEM/entrevistas_mineduc/*.txt')
+        lista_files = glob.glob('Textos/entrevistas_mineduc/*.txt')
         corpus = {}
         ##por cada archivo en la lista de archivos
         for file in lista_files:
