@@ -1,0 +1,52 @@
+##importar herramientas necesarias
+import pandas as pd
+##X Corresponde al nombre del archivo
+##Y Corresponde al nombre que se usará luego en python
+def abrir_archivo(X,Y):
+    Y = pd.read_csv(X, on_bad_lines='skip')
+    return Y
+
+##X corresponde al archivo .csv ya abierto
+##Y1, Y2, Y3 corresponden a los nombres de las columnas
+##Z corresponde al nombre del resultado (no es muy relevante)
+def ordenar_datos2(X, Y1, Y2, Z):
+    X[[Y1,Y2]] = X[Y1+';'+Y2].str.split(';', expand=True)
+    Z=X.drop([Y1+';'+Y2], axis = 1)
+    return Z
+
+##X corresponde al archivo .csv ya abierto
+##Y1, Y2, Y3 corresponden a los nombres de las columnas
+##Z corresponde al nombre del resultado (no es muy relevante)
+def ordenar_datos3(X, Y1, Z, Y2, Y3):
+    X[[Y1,Y2,Y3]] = X[Y1+';'+Y2+';'+Y3].str.split(';', expand=True)
+    Z=X.drop([Y1+';'+Y2+';'+Y3], axis = 1)
+    return Z
+todas_las_lenguas = abrir_archivo('languages.csv', 'todas_las_lenguas')
+values = abrir_archivo('values.csv', 'values')
+lenguas_sudamerica_code= ['South America']
+lenguas_sudamerica= todas_las_lenguas[todas_las_lenguas.Macroarea.isin(lenguas_sudamerica_code)]
+
+
+
+
+features_buscados = ['112A']
+
+
+
+for item in features_buscados:
+    value_por_lengua= values[values.Parameter_ID.isin(features_buscados)]
+Lenguas_Sudamerica_Negacion = set(list(lenguas_sudamerica['ID'])) & set(list(value_por_lengua['Language_ID']))
+Resultados_lengua= value_por_lengua[value_por_lengua.Language_ID.isin(Lenguas_Sudamerica_Negacion)]
+Resultados_lengua
+Parametros=dict([(1,0),(2,0),(3,0),(4,0),(5,0), (6,0), (7,0), (8,0), (9,0), (10,0)])
+for key in Parametros.keys():
+    Parametros[key]+=(list(Resultados_lengua['Value'])).count(key)
+Parametros
+
+##Ejemplo de resultados, dependen del feature pero dejé la posibilidad de que fuera hasta el 10, en caso de ser más se puede agregar manualmente arriba
+##Negative affix == 1
+##Negative particle == 2
+##Negative auxiliary verb == 3
+##Negative word, unclear if verb or particle == 4
+##Variation between negative word and affix == 5
+##Double negation == 6
