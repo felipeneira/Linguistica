@@ -142,7 +142,8 @@ for item in diccionario.keys():
 em=[]
 for item in diccionario.keys():
     em += re.findall("^(?!.*chem)[a-zA-Zñüáéíóú\s]*[\s]*em+[\s]+[a-zA-Zñüáéíóú\s]*$", item)
-trad_yem=[]lista_corpus_contextos= []
+trad_yem=[]
+lista_corpus_contextos= []
 pre_lista_corpus_contextos = str(corpus_preparado).split(' ')
 for palabra in pre_lista_corpus_contextos:
     if len(palabra) > 0:
