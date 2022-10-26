@@ -1,0 +1,98 @@
+* {
+	padding:0;
+	margin:0;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+
+/*body {background:#FEFEFE;}*/
+  
+section {
+	padding:10px;
+}
+
+.menu_bar {
+	display:none;
+}
+
+header {
+	width: 100%;
+}
+
+header nav {
+	background: #009933;
+	z-index:1000;
+	max-width: 1000px;
+	width: 95%;
+	margin:10px auto;
+}
+
+header nav ul {
+	list-style:none;
+}
+
+header nav ul li {
+	display:inline-block;
+	/*La razon por la que no usamos floar en vez de inline-block es
+	porque no vamos a poder usar overflows en el header nav ul*/
+	position: relative;
+	border-left: #FDF9AA solid 0.30em;
+	border-top: #FDF9AA solid 0.30em;
+	border-right: #a5a7aa solid 0.30em;
+	border-bottom: #a5a7aa solid 0.30em;
+}
+
+header nav ul li:hover .children {
+	display: block;
+}
+
+/*Submenu*/
+header nav ul li .children {
+	background: #CC9900;
+	position: absolute;
+	display: none;
+	width: 400%;
+	z-index: 1000;
+}
+
+header nav ul li .children li {
+	display: block;
+	overflow: hidden;
+	border-bottom: 1px solid rgba(255,255,255,.5);
+	/*Usamos overflow hidden porque aqui si vamos a necesitar usar float*/
+}
+
+header nav ul li .children li a {
+	display: block;
+}
+
+header nav ul .children li a span {
+	float: right;
+	position: relative;
+	top:2px;
+	margin-right: 0px;
+	margin-left:5px;
+}
+
+header nav ul li a {
+	color:#fff;
+	text-decoration: none;
+	display: inline-block;
+	padding:10px;
+}
+
+header nav ul li:hover {
+	background: #9999CC;
+}
+
+header nav ul li span {
+	margin-right:10px;
+}
+
+header nav ul li .caret {
+	position: relative;
+	top: 3px;
+	margin-left: 10px;
+	margin-right: 0;
+}

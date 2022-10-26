@@ -1,0 +1,415 @@
+/* CSS cactario */
+BODY { 
+    background-image:url(imagenes/cactusdesierto.jpg);
+    font : 12px Verdana, Geneva, Arial, Helvetica, sans-serif; 
+    color : #666666; 
+    margin : 10px 10px 10px 10px; 
+    text-align: center; 
+    } 
+    
+    td,th {
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 12px;
+   }
+   p { clear:left;
+   font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 12px; }
+   
+    h1 {
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 20px;
+       font-weight: bold; color:#000000;
+       clear: left;
+   }
+   h2 {
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 17px;
+       font-weight: bold; color:#006633;
+       clear: left;
+   }
+   
+   h3 {
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 14px;
+       font-weight: bold; color:#000066;
+       clear: left;
+   }
+   h4 {
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 14px;
+       font-weight: bold; color:#000000;
+       clear: left;
+   }
+    .estilo3{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 0.1em;
+       font-weight: bold; color: #660000;
+   }
+    .estilo7{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 7px;
+       font-weight: bold; color: #660000;
+   }
+   .estilo8{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 8px;
+       font-weight: bold; color: #660000;
+   }.estilo9{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 9px;
+   }.estilo10{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 10px;
+       font-weight: bold; color: #660000;
+   }
+   .estilo11{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 11px;
+       font-weight: bold; color: #660000;
+   }
+   .estilo12{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 12px;
+       font-weight: bold; color: #660000;
+   }
+   .estilo13{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 13px;
+       font-weight: bold; color: #660000;
+   }
+   
+   .estilo14{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 14px;
+       font-weight: bold; color: #000000;
+   }
+   .estilo15{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 15px;
+       font-weight: bold; color: #660000;
+   }
+   
+   .estilo16{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 16px;
+       font-weight: bold; color: #660000;
+   }
+   .estilo18{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 18px;
+       font-weight: bold; color: #000000;
+   }
+   .estilo20r{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 22px;
+       font-weight: bold; color: #990000;
+   }
+   
+   
+   .estilo22{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 22px;
+       font-weight: bold; color: #000000;
+   }
+   .estilo24{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 24px;
+       font-weight: bold; color: #660000;
+   }
+   
+   .estilo30{
+       font-family: Arial, Verdana, Geneva, sans-serif;
+       font-size: 30px; 
+       font-weight: bold; color: #000000;
+   
+   }
+   #contenido2 {
+       color: #008000;
+   }
+   .Estilo31 {color: #000000}
+   .Estilo33 {color: #003300}
+   .Estilo32 {font-size: 18px}
+   .Estilo35 {color: #000000}
+   .Estilo40 {font-size: 24px}
+   .Estilo41 {color: #000033}
+   .Estilo42 {font-size: 16px; font-weight: bold; font-family: Arial, Verdana, Geneva, sans-serif}
+   .Estilo44 {font-size: 16px; font-weight: bold; font-family: Arial, Verdana, Geneva, sans-serif; color: #000033 }
+   .Estilo47 {color: #990000; font-size: 20px}
+   .Estilo48 {font-size: 20px}
+   
+   
+   
+   ul {   list-style: circle;   color: #888;   }     
+   ul li a {   color: #888;   text-decoration: none;   font-weight: bold;   }     
+   ul li a:hover {   color: #f00;   }     
+   
+   
+   #general{ 
+    text-align: left; 
+    width: 99%;  
+   /* margin : 20px 20px 20px 20px;  */
+    vertical-align:top;
+    } 
+    
+   #general img { 
+   max-width: 100%; max-height: 100%; min-width:20%; min-height: 20%;}
+   
+   #encabezado{ 
+    height : auto; 
+    width: 98%; 
+    text-align: center;
+    
+    } 
+    #encabezado img { 
+   max-width: 100%; max-height: 100%; min-width:20%; min-height: 20%;}
+   
+    #menusup{ 
+    padding : 5px 5px 5px 5px; 
+    border-top : 4px solid #cccccc; 
+    border-bottom : 4px solid #cccccc; 
+    border-left : 4px solid #cccccc;
+    border-right : 4px solid #cccccc;
+    } 
+    
+    A.enlacenav1, A.enlacenav1:VISITED, A.enlacenav1:ACTIVE, A.enlacenav1:FOCUS, A.enlacenav1:LINK{ 
+    font : 10pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color:#000000; 
+    font-weight: bold;
+    } 
+    A.enlacenav2, A.enlacenav2:VISITED, A.enlacenav2:ACTIVE, A.enlacenav2:FOCUS, A.enlacenav2:LINK{ 
+    font : 10pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color:#006633; 
+    font-weight: bold;
+    } 
+    A.enlacenav1:HOVER{ 
+    font : 10pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: #990000 ; 
+    font-weight: bold;
+    } 
+    A.enlacenav2:HOVER{ 
+    font : 10pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+    color: #990000 ; 
+    font-weight: bold;
+    } 
+    
+    
+     #cuerpo{ 
+       margin: 5 5 5 5px; 
+    } 
+   
+    
+    #lateral{ 
+       width: 47%; 
+       margin-rigth: 5px;
+       padding: 5px;
+       /* background-image:url(imagenes/cactusdesierto.jpg); */
+       border-left: #FDF9AA solid 4px;
+       border-top: #FDF9AA solid 4px;
+       border-right: #a5a7aa solid 5px;
+       border-bottom: #a5a7aa solid 5px;
+       
+       float:right;
+    }
+     #lateral img { 
+   max-width: 100%; max-height: 100%; /* min-width:20%; min-height: 20%;*/
+   } 
+   
+    #lateral ul{ 
+       margin : 5 5 5 5px; 
+       padding: 5 5 5 5px; 
+       list-style: none; 
+    } 
+    #lateral li{ 
+        background-color: #999999;
+       margin: 2 2 2 2px; 
+       padding: 2 2 2 2px; 
+       font-weight: bold; 
+    } 
+    #lateral a{ 
+       color: #3333cc; 
+       text-decoration: none; 
+    } 
+    #principal { 
+       
+       width: 47%;
+       height:auto;
+       
+       /*background-image:url(imagenes/cactusdesierto.jpg); */
+       padding: 4px; 
+       float:left;
+       border-left: #FDF9AA solid 4px;
+       border-top: #FDF9AA solid 4px;
+       border-right: #a5a7aa solid 5px;
+       border-bottom: #a5a7aa solid 5px;
+    }
+    
+    
+    
+     #principalint { 
+       
+       width: 100%;
+       height:auto;
+       /*background-image:url(imagenes/cactusdesierto.jpg); */
+       padding: 4 4 4 4px; 
+       float:left;
+       
+    }
+   
+    #pie-x{ 
+       width: 100%;
+       padding: 3 10 3 10px; 
+       text-align:right; 
+    } 
+   #pie-x img { 
+   max-width: 100%; max-height: 100%; min-width:20%; min-height: 20%;} 
+    
+    .contenedorfoto { 
+       float:left; 
+       width:30%; 
+       height:auto; 
+       margin: 3px; 
+       padding:1px; 
+       background-color:#f5f7f9; 
+       border-top:2px solid #666666;
+    border-left:2px solid   #666666;
+    border-right: 2px solid  #666666;
+    border-bottom: 2px solid #666666; 
+       text-align:center;
+       font-size: 12px; 
+       font-weight: bold; color:#000000;
+       
+    } 
+    
+    .contenedorfoto IMG{ 
+    border: 3px solid #000000; 
+    } 
+   
+   #mediomargen {
+       width:85%; 
+       margin-left: 60px;
+       margin-right: 60px; 
+       }
+       
+    #clasif-lateral{ 
+       width: 23%; 
+       margin-rigth: 15px;
+       padding: 2px;
+       /* background-image:url(imagenes/cactusdesierto.jpg); */
+       border-top:2px solid #666666;
+    border-left:2px solid   #666666;
+    border-right: 2px solid  #666666;
+    border-bottom: 2px solid #666666;
+       
+       float:right;
+    } 
+    
+     #clasif-principal { 
+       
+       width: 73%;
+       height:auto;
+       /*background-image:url(imagenes/cactusdesierto.jpg); */
+       padding: 2px 2px 2px 2px; 
+       float:left;
+       border-top:3px solid #666666;
+    border-left:3px solid   #666666;
+    border-right: 3px solid  #666666;
+    border-bottom: 3px solid #666666;
+    }
+   
+    #ancho-pagina { 
+       
+       width: 96%;
+       height:auto;
+       background-color:#f5f7f9;
+       /*background-image:url(imagenes/cactusdesierto.jpg); */
+       padding: 0.33em 0.33em 0.33em 0.33em; 
+       float:left;
+       border-left: #FDF9AA solid 3em;
+       border-top: #FDF9AA solid 0.33em;
+       border-right: #a5a7aa solid 0.42em;
+       border-bottom: #a5a7aa solid 0.42em;
+    }
+    
+    #ancho-pagina img { 
+   max-width: 100%;}/* min-width:20%; min-height: 20%; }*/
+   
+   .inputest10
+   {
+   border-width: 0.2px;
+   border-style: solid;
+   font-size:10px;
+   color: #000000;
+   letter-spacing : 0.2px;
+   background-color:#D8DBFE
+   }
+   
+   .inputest11
+   {
+   border-width: 1px;
+   border-style: solid;
+   font-size:11px;
+   color: #000000;
+   letter-spacing : 1px;
+   font-weight: bold;
+   background-color:#D8DBFE
+   }
+   .inputest12
+   {
+   border-width: 1px;
+   border-style: solid;
+   font-size:12px;
+   color: #000000;
+   letter-spacing : 1px;
+   font-weight: bold;
+   background-color:#D8DBFE
+   }
+   .inputest13
+   {
+   border-width: 1px;
+   border-style: solid;
+   font-size:13px;
+   color: #000000;
+   letter-spacing : 1px;
+   font-weight: bold;
+   background-color:#CDD9F3
+   }
+   
+   .inputest14
+   {
+   border-width: 1px;
+   border-style: solid;
+   font-size:14px;
+   color: #000000;
+   letter-spacing : 1px;
+   font-weight: bold;
+   background-color:#EAF4F4
+   }
+   .inputest16
+   {
+   border-width: 1px;
+   border-style: solid;
+   font-size:16px;
+   color: #000000;
+   letter-spacing : 2px;
+   font-weight: bold;
+   background-color:#EAF4F4
+   }
+   .img-fluid {
+       max-width: 100%;
+       height: auto;
+       cursor: pointer;
+       transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+   }
+   .img-fluid-sin-cursor {
+       max-width: 100%;
+       height: auto;
+       transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+   }
+   .img-thumbnail {
+     padding: 0.25rem;
+     background-color: #ffffff;
+     border: 0.25rem solid #dee2e6;
+     border-radius: 0.25rem;
+     max-width: 100%;
+     height: auto;
+   }

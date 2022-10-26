@@ -1,0 +1,1229 @@
+IdDominio,Texto,IdLengua,Texto,IdRasgo,Texto,IdValorRasgo,Texto
+2,Evidencialidad,1,Mapudungun,1,Codificación de la evidencialidad,6,Sistemas mixtos
+2,Evidencialidad,2,Quechua Ancash,1,Codificación de la evidencialidad,6,Sistemas mixtos
+2,Evidencialidad,4,Quechua Ecuatoriano,1,Codificación de la evidencialidad,6,Sistemas mixtos
+2,Evidencialidad,5,Quechua Ayacuchano,1,Codificación de la evidencialidad,6,Sistemas mixtos
+2,Evidencialidad,7,Aymara Sureno,1,Codificación de la evidencialidad,6,Sistemas mixtos
+2,Evidencialidad,8,Jaqaru,1,Codificación de la evidencialidad,6,Sistemas mixtos
+2,Evidencialidad,9,Chipaya,1,Codificación de la evidencialidad,2,Afijo o clitico verbal
+2,Evidencialidad,10,Uchumataqu,1,Codificación de la evidencialidad,2,Afijo o clitico verbal
+2,Evidencialidad,11,Cholon,1,Codificación de la evidencialidad,2,Afijo o clitico verbal
+2,Evidencialidad,12,Mochica,1,Codificación de la evidencialidad,1,Sin evidenciales gramaticalizados
+2,Evidencialidad,17,Yagan,1,Codificación de la evidencialidad,1,Sin evidenciales gramaticalizados
+2,Evidencialidad,19,Toba,1,Codificación de la evidencialidad,1,Sin evidenciales gramaticalizados
+2,Evidencialidad,19,Toba,1,Codificación de la evidencialidad,2,Afijo o clitico verbal
+2,Evidencialidad,20,Mocovi,1,Codificación de la evidencialidad,2,Afijo o clitico verbal
+2,Evidencialidad,21,Pilaga,1,Codificación de la evidencialidad,1,Sin evidenciales gramaticalizados
+2,Evidencialidad,22,Nivacle,1,Codificación de la evidencialidad,4,Particula separada
+2,Evidencialidad,23,Wichi,1,Codificación de la evidencialidad,3,Parte del sistema temporal
+2,Evidencialidad,25,Ayoreo,1,Codificación de la evidencialidad,4,Particula separada
+2,Evidencialidad,26,Tapiete,1,Codificación de la evidencialidad,2,Afijo o clitico verbal
+2,Evidencialidad,27,Kawesqar,1,Codificación de la evidencialidad,6,Sistemas mixtos
+2,Evidencialidad,28,Tehuelche,1,Codificación de la evidencialidad,4,Particula separada
+2,Evidencialidad,29,Secoya,1,Codificación de la evidencialidad,2,Afijo o clitico verbal
+2,Evidencialidad,29,Secoya,1,Codificación de la evidencialidad,3,Parte del sistema temporal
+2,Evidencialidad,30,Urarina,1,Codificación de la evidencialidad,6,Sistemas mixtos
+2,Evidencialidad,31,Ocaina,1,Codificación de la evidencialidad,4,Particula separada
+2,Evidencialidad,32,Reyesano,1,Codificación de la evidencialidad,4,Particula separada
+2,Evidencialidad,35,Yanesha,1,Codificación de la evidencialidad,4,Particula separada
+2,Evidencialidad,36,Tariana,1,Codificación de la evidencialidad,6,Sistemas mixtos
+2,Evidencialidad,37,Tucano,1,Codificación de la evidencialidad,6,Sistemas mixtos
+2,Evidencialidad,38,Quechua de Huallaga,1,Codificación de la evidencialidad,6,Sistemas mixtos
+2,Evidencialidad,61,Trumai,1,Codificación de la evidencialidad,4,Particula separada
+3,Estructura Argumental ,1,Mapudungun,3,Alineamiento intransitivo transitivo,6,nom-acc con jerarquía
+3,Estructura Argumental ,1,Mapudungun,4,Alineamiento transitivo ditransitivo,5,secundativo con jerarquía
+3,Estructura Argumental ,1,Mapudungun,5,fusión de argumentos,1,fusión
+3,Estructura Argumental ,1,Mapudungun,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,1,Mapudungun,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,1,Mapudungun,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,1,Mapudungun,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,1,Mapudungun,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,1,Mapudungun,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,1,Mapudungun,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,1,Mapudungun,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,1,Mapudungun,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,1,Mapudungun,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,1,Mapudungun,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,1,Mapudungun,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,1,Mapudungun,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,2,Quechua Ancash,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,2,Quechua Ancash,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,2,Quechua Ancash,5,fusión de argumentos,1,fusión
+3,Estructura Argumental ,2,Quechua Ancash,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,2,Quechua Ancash,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,2,Quechua Ancash,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,2,Quechua Ancash,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,2,Quechua Ancash,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,2,Quechua Ancash,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,2,Quechua Ancash,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,2,Quechua Ancash,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,2,Quechua Ancash,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,2,Quechua Ancash,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,2,Quechua Ancash,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,2,Quechua Ancash,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,2,Quechua Ancash,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,3,Quechua de Cajamarca,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,3,Quechua de Cajamarca,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,3,Quechua de Cajamarca,5,fusión de argumentos,1,fusión
+3,Estructura Argumental ,3,Quechua de Cajamarca,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,3,Quechua de Cajamarca,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,3,Quechua de Cajamarca,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,3,Quechua de Cajamarca,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,3,Quechua de Cajamarca,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,3,Quechua de Cajamarca,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,3,Quechua de Cajamarca,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,3,Quechua de Cajamarca,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,3,Quechua de Cajamarca,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,3,Quechua de Cajamarca,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,3,Quechua de Cajamarca,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,3,Quechua de Cajamarca,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,3,Quechua de Cajamarca,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,4,Quechua Ecuatoriano,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,4,Quechua Ecuatoriano,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,4,Quechua Ecuatoriano,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,4,Quechua Ecuatoriano,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,4,Quechua Ecuatoriano,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,4,Quechua Ecuatoriano,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,4,Quechua Ecuatoriano,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,4,Quechua Ecuatoriano,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,4,Quechua Ecuatoriano,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,4,Quechua Ecuatoriano,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,4,Quechua Ecuatoriano,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,4,Quechua Ecuatoriano,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,4,Quechua Ecuatoriano,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,4,Quechua Ecuatoriano,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,4,Quechua Ecuatoriano,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,4,Quechua Ecuatoriano,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,5,Quechua Ayacuchano,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,5,Quechua Ayacuchano,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,5,Quechua Ayacuchano,5,fusión de argumentos,1,fusión
+3,Estructura Argumental ,5,Quechua Ayacuchano,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,5,Quechua Ayacuchano,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,5,Quechua Ayacuchano,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,5,Quechua Ayacuchano,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,5,Quechua Ayacuchano,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,5,Quechua Ayacuchano,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,5,Quechua Ayacuchano,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,5,Quechua Ayacuchano,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,5,Quechua Ayacuchano,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,5,Quechua Ayacuchano,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,5,Quechua Ayacuchano,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,5,Quechua Ayacuchano,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,5,Quechua Ayacuchano,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,7,Aymara Sureno,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,7,Aymara Sureno,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,7,Aymara Sureno,5,fusión de argumentos,1,fusión
+3,Estructura Argumental ,7,Aymara Sureno,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,7,Aymara Sureno,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,7,Aymara Sureno,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,7,Aymara Sureno,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,7,Aymara Sureno,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,7,Aymara Sureno,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,7,Aymara Sureno,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,7,Aymara Sureno,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,7,Aymara Sureno,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,7,Aymara Sureno,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,7,Aymara Sureno,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,7,Aymara Sureno,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,7,Aymara Sureno,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,8,Jaqaru,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,8,Jaqaru,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,8,Jaqaru,5,fusión de argumentos,1,fusión
+3,Estructura Argumental ,8,Jaqaru,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,8,Jaqaru,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,8,Jaqaru,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,8,Jaqaru,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,8,Jaqaru,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,8,Jaqaru,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,8,Jaqaru,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,8,Jaqaru,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,8,Jaqaru,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,8,Jaqaru,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,8,Jaqaru,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,8,Jaqaru,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,8,Jaqaru,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,9,Chipaya,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,9,Chipaya,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,9,Chipaya,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,9,Chipaya,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,9,Chipaya,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,9,Chipaya,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,9,Chipaya,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,9,Chipaya,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,9,Chipaya,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,9,Chipaya,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,9,Chipaya,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,9,Chipaya,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,9,Chipaya,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,9,Chipaya,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,9,Chipaya,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,9,Chipaya,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,10,Uchumataqu,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,10,Uchumataqu,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,10,Uchumataqu,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,10,Uchumataqu,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,10,Uchumataqu,8,Codificación de A,5,proclitico
+3,Estructura Argumental ,10,Uchumataqu,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,10,Uchumataqu,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,10,Uchumataqu,10,Codificación de T,5,sufijo
+3,Estructura Argumental ,10,Uchumataqu,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,10,Uchumataqu,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,10,Uchumataqu,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,10,Uchumataqu,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,10,Uchumataqu,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,10,Uchumataqu,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,10,Uchumataqu,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,10,Uchumataqu,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,10,Uchumataqu,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,11,Cholon,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,11,Cholon,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,11,Cholon,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,11,Cholon,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,11,Cholon,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,11,Cholon,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,11,Cholon,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,11,Cholon,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,11,Cholon,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,11,Cholon,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,11,Cholon,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,11,Cholon,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,11,Cholon,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,11,Cholon,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,11,Cholon,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,11,Cholon,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,12,Mochica,3,Alineamiento intransitivo transitivo,3,Alineamiento neutro (A=S=P)
+3,Estructura Argumental ,12,Mochica,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,12,Mochica,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,12,Mochica,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,12,Mochica,8,Codificación de A,6,enclitico
+3,Estructura Argumental ,12,Mochica,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,12,Mochica,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,12,Mochica,11,Codificación de R,3,procl?tico
+3,Estructura Argumental ,12,Mochica,12,alineamiento intransitivo-transitivo (flaggi),3,ergativo-absolutivo
+3,Estructura Argumental ,12,Mochica,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,12,Mochica,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,12,Mochica,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,12,Mochica,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,12,Mochica,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,12,Mochica,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,12,Mochica,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,13,Kunza,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,13,Kunza,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,13,Kunza,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,13,Kunza,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,13,Kunza,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,13,Kunza,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,13,Kunza,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,13,Kunza,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,13,Kunza,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,13,Kunza,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,13,Kunza,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,13,Kunza,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,13,Kunza,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,13,Kunza,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,13,Kunza,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,13,Kunza,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,14,Millcayac,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,14,Millcayac,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,14,Millcayac,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,14,Millcayac,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,14,Millcayac,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,14,Millcayac,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,14,Millcayac,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,14,Millcayac,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,14,Millcayac,12,alineamiento intransitivo-transitivo (flaggi),6,Split (neutro y nom-acc)
+3,Estructura Argumental ,14,Millcayac,13,alineamiento transitivo-ditransitivo (flaggi),6,Split (indirectivo y secundativo)
+3,Estructura Argumental ,14,Millcayac,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,14,Millcayac,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,14,Millcayac,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,14,Millcayac,14,Codificación de P en el sustantivo ,3,ambas (caso y sin marca)
+3,Estructura Argumental ,14,Millcayac,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,14,Millcayac,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,15,Allentiac,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,15,Allentiac,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,15,Allentiac,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,15,Allentiac,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,15,Allentiac,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,15,Allentiac,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,15,Allentiac,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,15,Allentiac,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,15,Allentiac,12,alineamiento intransitivo-transitivo (flaggi),6,Split (neutro y nom-acc)
+3,Estructura Argumental ,15,Allentiac,13,alineamiento transitivo-ditransitivo (flaggi),6,Split (indirectivo y secundativo)
+3,Estructura Argumental ,15,Allentiac,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,15,Allentiac,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,15,Allentiac,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,15,Allentiac,14,Codificación de P en el sustantivo ,3,ambas (caso y sin marca)
+3,Estructura Argumental ,15,Allentiac,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,15,Allentiac,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,16,Selknam,3,Alineamiento intransitivo transitivo,2,ergativo absolutivo (A≠S=P)
+3,Estructura Argumental ,16,Selknam,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,16,Selknam,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,16,Selknam,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,16,Selknam,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,16,Selknam,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,16,Selknam,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,16,Selknam,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,16,Selknam,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,16,Selknam,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,16,Selknam,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,16,Selknam,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,16,Selknam,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,16,Selknam,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,16,Selknam,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,16,Selknam,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,17,Yagan,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,17,Yagan,4,Alineamiento transitivo ditransitivo,7,Tripartito
+3,Estructura Argumental ,17,Yagan,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,17,Yagan,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,17,Yagan,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,17,Yagan,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,17,Yagan,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,17,Yagan,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,17,Yagan,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,17,Yagan,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,17,Yagan,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,17,Yagan,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,17,Yagan,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,17,Yagan,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,17,Yagan,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,17,Yagan,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,21,Pilaga,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,21,Pilaga,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,21,Pilaga,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,21,Pilaga,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,21,Pilaga,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,21,Pilaga,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,21,Pilaga,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,21,Pilaga,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,21,Pilaga,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,21,Pilaga,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,21,Pilaga,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,21,Pilaga,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,21,Pilaga,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,21,Pilaga,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,21,Pilaga,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,21,Pilaga,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,23,Wichi,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,23,Wichi,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,23,Wichi,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,23,Wichi,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,23,Wichi,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,23,Wichi,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,23,Wichi,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,23,Wichi,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,23,Wichi,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,23,Wichi,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,23,Wichi,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,23,Wichi,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,23,Wichi,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,23,Wichi,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,23,Wichi,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,23,Wichi,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,25,Ayoreo,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,25,Ayoreo,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,25,Ayoreo,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,25,Ayoreo,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,25,Ayoreo,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,25,Ayoreo,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,25,Ayoreo,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,25,Ayoreo,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,25,Ayoreo,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,25,Ayoreo,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,25,Ayoreo,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,25,Ayoreo,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,25,Ayoreo,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,25,Ayoreo,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,25,Ayoreo,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,25,Ayoreo,16,Marcación de R en el sustantivo ,3,Adposiciones
+3,Estructura Argumental ,26,Tapiete,3,Alineamiento intransitivo transitivo,4,activo/estativo
+3,Estructura Argumental ,26,Tapiete,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,26,Tapiete,5,fusión de argumentos,1,fusión
+3,Estructura Argumental ,26,Tapiete,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,26,Tapiete,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,26,Tapiete,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,26,Tapiete,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,26,Tapiete,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,26,Tapiete,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,26,Tapiete,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,26,Tapiete,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,26,Tapiete,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,26,Tapiete,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,26,Tapiete,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,26,Tapiete,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,26,Tapiete,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,27,Kawesqar,3,Alineamiento intransitivo transitivo,3,Alineamiento neutro (A=S=P)
+3,Estructura Argumental ,27,Kawesqar,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,27,Kawesqar,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,27,Kawesqar,7,Codificación de S,3,sin marca
+3,Estructura Argumental ,27,Kawesqar,8,Codificación de A,3,sin marca
+3,Estructura Argumental ,27,Kawesqar,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,27,Kawesqar,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,27,Kawesqar,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,27,Kawesqar,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,27,Kawesqar,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,27,Kawesqar,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,27,Kawesqar,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,27,Kawesqar,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,27,Kawesqar,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,27,Kawesqar,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,27,Kawesqar,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,28,Tehuelche,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,28,Tehuelche,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,28,Tehuelche,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,28,Tehuelche,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,28,Tehuelche,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,28,Tehuelche,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,28,Tehuelche,10,Codificación de T,3,prefijo
+3,Estructura Argumental ,28,Tehuelche,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,28,Tehuelche,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,28,Tehuelche,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,28,Tehuelche,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,28,Tehuelche,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,28,Tehuelche,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,28,Tehuelche,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,28,Tehuelche,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,28,Tehuelche,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,29,Secoya,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,29,Secoya,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,29,Secoya,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,29,Secoya,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,29,Secoya,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,29,Secoya,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,29,Secoya,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,29,Secoya,11,Codificación de R,3,procl?tico
+3,Estructura Argumental ,29,Secoya,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,29,Secoya,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,29,Secoya,13,alineamiento transitivo-ditransitivo (flaggi),3,secundativo
+3,Estructura Argumental ,29,Secoya,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,29,Secoya,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,29,Secoya,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,29,Secoya,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,29,Secoya,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,29,Secoya,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,30,Urarina,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,30,Urarina,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,30,Urarina,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,30,Urarina,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,30,Urarina,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,30,Urarina,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,30,Urarina,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,30,Urarina,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,30,Urarina,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,30,Urarina,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,30,Urarina,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,30,Urarina,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,30,Urarina,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,30,Urarina,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,30,Urarina,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,30,Urarina,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,35,Yanesha,3,Alineamiento intransitivo transitivo,2,ergativo absolutivo (A≠S=P)
+3,Estructura Argumental ,35,Yanesha,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,35,Yanesha,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,35,Yanesha,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,35,Yanesha,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,35,Yanesha,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,35,Yanesha,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,35,Yanesha,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,35,Yanesha,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,35,Yanesha,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,35,Yanesha,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,35,Yanesha,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,35,Yanesha,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,35,Yanesha,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,35,Yanesha,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,35,Yanesha,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,36,Tariana,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,36,Tariana,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,36,Tariana,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,36,Tariana,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,36,Tariana,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,36,Tariana,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,36,Tariana,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,36,Tariana,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,36,Tariana,12,alineamiento intransitivo-transitivo (flaggi),3,ergativo-absolutivo
+3,Estructura Argumental ,36,Tariana,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,36,Tariana,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,36,Tariana,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,36,Tariana,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,36,Tariana,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,36,Tariana,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,36,Tariana,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,37,Tucano,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,37,Tucano,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,37,Tucano,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,37,Tucano,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,37,Tucano,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,37,Tucano,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,37,Tucano,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,37,Tucano,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,37,Tucano,12,alineamiento intransitivo-transitivo (flaggi),6,Split (neutro y nom-acc)
+3,Estructura Argumental ,37,Tucano,13,alineamiento transitivo-ditransitivo (flaggi),3,secundativo
+3,Estructura Argumental ,37,Tucano,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,37,Tucano,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,37,Tucano,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,37,Tucano,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,37,Tucano,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,37,Tucano,16,Marcación de R en el sustantivo ,4,procl?tico
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,5,fusión de argumentos,1,fusión
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,39,Quechua de Yauyos Sur,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,41,Puquina,3,Alineamiento intransitivo transitivo,6,nom-acc con jerarquía
+3,Estructura Argumental ,41,Puquina,4,Alineamiento transitivo ditransitivo,5,secundativo con jerarquía
+3,Estructura Argumental ,41,Puquina,5,fusión de argumentos,1,fusión
+3,Estructura Argumental ,41,Puquina,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,41,Puquina,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,41,Puquina,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,41,Puquina,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,41,Puquina,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,41,Puquina,12,alineamiento intransitivo-transitivo (flaggi),3,ergativo-absolutivo
+3,Estructura Argumental ,41,Puquina,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,41,Puquina,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,41,Puquina,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,41,Puquina,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,41,Puquina,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,41,Puquina,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,41,Puquina,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,42,Lule,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,42,Lule,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,42,Lule,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,42,Lule,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,42,Lule,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,42,Lule,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,42,Lule,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,42,Lule,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,42,Lule,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,42,Lule,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,42,Lule,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,42,Lule,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,42,Lule,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,42,Lule,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,42,Lule,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,42,Lule,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,43,Vilela,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,43,Vilela,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,43,Vilela,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,43,Vilela,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,43,Vilela,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,43,Vilela,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,43,Vilela,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,43,Vilela,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,43,Vilela,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,43,Vilela,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,43,Vilela,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,43,Vilela,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,43,Vilela,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,43,Vilela,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,43,Vilela,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,43,Vilela,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,44,Quechua de Santiago del Estero,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,45,Quechua Pacaraos,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,45,Quechua Pacaraos,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,45,Quechua Pacaraos,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,45,Quechua Pacaraos,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,45,Quechua Pacaraos,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,45,Quechua Pacaraos,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,45,Quechua Pacaraos,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,45,Quechua Pacaraos,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,45,Quechua Pacaraos,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,45,Quechua Pacaraos,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,45,Quechua Pacaraos,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,45,Quechua Pacaraos,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,45,Quechua Pacaraos,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,45,Quechua Pacaraos,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,45,Quechua Pacaraos,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,45,Quechua Pacaraos,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,46,kokama,3,Alineamiento intransitivo transitivo,3,Alineamiento neutro (A=S=P)
+3,Estructura Argumental ,46,kokama,4,Alineamiento transitivo ditransitivo,8,sin ditransitivas
+3,Estructura Argumental ,46,kokama,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,46,kokama,7,Codificación de S,3,sin marca
+3,Estructura Argumental ,46,kokama,8,Codificación de A,5,proclitico
+3,Estructura Argumental ,46,kokama,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,46,kokama,10,Codificación de T,7,sin ditransitivas
+3,Estructura Argumental ,46,kokama,11,Codificación de R,8,sin ditransitivas
+3,Estructura Argumental ,46,kokama,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,46,kokama,13,alineamiento transitivo-ditransitivo (flaggi),5,sin ditransitivas
+3,Estructura Argumental ,46,kokama,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,46,kokama,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,46,kokama,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,46,kokama,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,46,kokama,15,Marcación de T en el sustantivo ,5,sin ditransitivas
+3,Estructura Argumental ,46,kokama,16,Marcación de R en el sustantivo ,7,sin ditransitivas
+3,Estructura Argumental ,47,Gaviao,3,Alineamiento intransitivo transitivo,2,ergativo absolutivo (A≠S=P)
+3,Estructura Argumental ,47,Gaviao,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,47,Gaviao,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,47,Gaviao,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,47,Gaviao,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,47,Gaviao,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,47,Gaviao,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,47,Gaviao,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,47,Gaviao,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,47,Gaviao,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,47,Gaviao,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,47,Gaviao,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,47,Gaviao,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,47,Gaviao,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,47,Gaviao,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,47,Gaviao,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,48,Tiriyo,3,Alineamiento intransitivo transitivo,8,spllt
+3,Estructura Argumental ,48,Tiriyo,4,Alineamiento transitivo ditransitivo,6,no aplica
+3,Estructura Argumental ,48,Tiriyo,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,48,Tiriyo,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,48,Tiriyo,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,48,Tiriyo,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,48,Tiriyo,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,48,Tiriyo,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,48,Tiriyo,12,alineamiento intransitivo-transitivo (flaggi),7,Split
+3,Estructura Argumental ,48,Tiriyo,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,48,Tiriyo,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,48,Tiriyo,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,48,Tiriyo,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,48,Tiriyo,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,48,Tiriyo,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,48,Tiriyo,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,49,kalapalo,3,Alineamiento intransitivo transitivo,8,spllt
+3,Estructura Argumental ,49,kalapalo,4,Alineamiento transitivo ditransitivo,1,indirectivo o de objeto indirecto (T=P≠
+3,Estructura Argumental ,49,kalapalo,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,49,kalapalo,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,49,kalapalo,8,Codificación de A,3,sin marca
+3,Estructura Argumental ,49,kalapalo,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,49,kalapalo,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,49,kalapalo,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,49,kalapalo,12,alineamiento intransitivo-transitivo (flaggi),3,ergativo-absolutivo
+3,Estructura Argumental ,49,kalapalo,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,49,kalapalo,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,49,kalapalo,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,49,kalapalo,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,49,kalapalo,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,49,kalapalo,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,49,kalapalo,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,50,Karaja,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,50,Karaja,4,Alineamiento transitivo ditransitivo,1,indirectivo o de objeto indirecto (T=P≠
+3,Estructura Argumental ,50,Karaja,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,50,Karaja,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,50,Karaja,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,50,Karaja,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,50,Karaja,10,Codificación de T,3,prefijo
+3,Estructura Argumental ,50,Karaja,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,50,Karaja,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,50,Karaja,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,50,Karaja,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,50,Karaja,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,50,Karaja,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,50,Karaja,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,50,Karaja,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,50,Karaja,16,Marcación de R en el sustantivo ,5,encl?tico
+3,Estructura Argumental ,52,Kashibo-Kakataibo,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,52,Kashibo-Kakataibo,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,52,Kashibo-Kakataibo,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,52,Kashibo-Kakataibo,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,52,Kashibo-Kakataibo,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,52,Kashibo-Kakataibo,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,52,Kashibo-Kakataibo,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,52,Kashibo-Kakataibo,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,52,Kashibo-Kakataibo,12,alineamiento intransitivo-transitivo (flaggi),3,ergativo-absolutivo
+3,Estructura Argumental ,52,Kashibo-Kakataibo,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,52,Kashibo-Kakataibo,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,52,Kashibo-Kakataibo,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,52,Kashibo-Kakataibo,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,52,Kashibo-Kakataibo,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,52,Kashibo-Kakataibo,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,52,Kashibo-Kakataibo,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,53,Matses,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,53,Matses,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,53,Matses,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,53,Matses,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,53,Matses,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,53,Matses,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,53,Matses,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,53,Matses,11,Codificación de R,7,enclitico
+3,Estructura Argumental ,53,Matses,12,alineamiento intransitivo-transitivo (flaggi),3,ergativo-absolutivo
+3,Estructura Argumental ,53,Matses,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,53,Matses,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,53,Matses,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,53,Matses,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,53,Matses,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,53,Matses,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,53,Matses,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,54,Shiwilu,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,54,Shiwilu,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,54,Shiwilu,5,fusión de argumentos,1,fusión
+3,Estructura Argumental ,54,Shiwilu,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,54,Shiwilu,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,54,Shiwilu,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,54,Shiwilu,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,54,Shiwilu,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,54,Shiwilu,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,54,Shiwilu,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,54,Shiwilu,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,54,Shiwilu,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,54,Shiwilu,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,54,Shiwilu,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,54,Shiwilu,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,54,Shiwilu,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,55,Cavineña,3,Alineamiento intransitivo transitivo,7,no aplica
+3,Estructura Argumental ,55,Cavineña,4,Alineamiento transitivo ditransitivo,6,no aplica
+3,Estructura Argumental ,55,Cavineña,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,55,Cavineña,7,Codificación de S,3,sin marca
+3,Estructura Argumental ,55,Cavineña,8,Codificación de A,3,sin marca
+3,Estructura Argumental ,55,Cavineña,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,55,Cavineña,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,55,Cavineña,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,55,Cavineña,12,alineamiento intransitivo-transitivo (flaggi),3,ergativo-absolutivo
+3,Estructura Argumental ,55,Cavineña,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,55,Cavineña,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,55,Cavineña,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,55,Cavineña,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,55,Cavineña,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,55,Cavineña,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,55,Cavineña,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,56,Sanuma,3,Alineamiento intransitivo transitivo,3,Alineamiento neutro (A=S=P)
+3,Estructura Argumental ,56,Sanuma,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,56,Sanuma,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,56,Sanuma,7,Codificación de S,3,sin marca
+3,Estructura Argumental ,56,Sanuma,8,Codificación de A,3,sin marca
+3,Estructura Argumental ,56,Sanuma,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,56,Sanuma,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,56,Sanuma,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,56,Sanuma,12,alineamiento intransitivo-transitivo (flaggi),3,ergativo-absolutivo
+3,Estructura Argumental ,56,Sanuma,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,56,Sanuma,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,56,Sanuma,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,56,Sanuma,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,56,Sanuma,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,56,Sanuma,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,56,Sanuma,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,57,Hup,3,Alineamiento intransitivo transitivo,3,Alineamiento neutro (A=S=P)
+3,Estructura Argumental ,57,Hup,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,57,Hup,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,57,Hup,7,Codificación de S,3,sin marca
+3,Estructura Argumental ,57,Hup,8,Codificación de A,3,sin marca
+3,Estructura Argumental ,57,Hup,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,57,Hup,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,57,Hup,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,57,Hup,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,57,Hup,13,alineamiento transitivo-ditransitivo (flaggi),3,secundativo
+3,Estructura Argumental ,57,Hup,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,57,Hup,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,57,Hup,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,57,Hup,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,57,Hup,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,57,Hup,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,58,kulina,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,58,kulina,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,58,kulina,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,58,kulina,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,58,kulina,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,58,kulina,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,58,kulina,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,58,kulina,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,58,kulina,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,58,kulina,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,58,kulina,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,58,kulina,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,58,kulina,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,58,kulina,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,58,kulina,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,58,kulina,16,Marcación de R en el sustantivo ,5,encl?tico
+3,Estructura Argumental ,59,Bora,3,Alineamiento intransitivo transitivo,3,Alineamiento neutro (A=S=P)
+3,Estructura Argumental ,59,Bora,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,59,Bora,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,59,Bora,7,Codificación de S,5,proclitico
+3,Estructura Argumental ,59,Bora,8,Codificación de A,3,sin marca
+3,Estructura Argumental ,59,Bora,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,59,Bora,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,59,Bora,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,59,Bora,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,59,Bora,13,alineamiento transitivo-ditransitivo (flaggi),3,secundativo
+3,Estructura Argumental ,59,Bora,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,59,Bora,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,59,Bora,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,59,Bora,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,59,Bora,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,59,Bora,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,61,Trumai,3,Alineamiento intransitivo transitivo,2,ergativo absolutivo (A≠S=P)
+3,Estructura Argumental ,61,Trumai,4,Alineamiento transitivo ditransitivo,1,indirectivo o de objeto indirecto (T=P≠
+3,Estructura Argumental ,61,Trumai,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,61,Trumai,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,61,Trumai,8,Codificación de A,3,sin marca
+3,Estructura Argumental ,61,Trumai,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,61,Trumai,10,Codificación de T,5,sufijo
+3,Estructura Argumental ,61,Trumai,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,61,Trumai,12,alineamiento intransitivo-transitivo (flaggi),3,ergativo-absolutivo
+3,Estructura Argumental ,61,Trumai,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,61,Trumai,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,61,Trumai,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,61,Trumai,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,61,Trumai,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,61,Trumai,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,61,Trumai,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,62,Baure,3,Alineamiento intransitivo transitivo,3,Alineamiento neutro (A=S=P)
+3,Estructura Argumental ,62,Baure,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,62,Baure,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,62,Baure,7,Codificación de S,5,proclitico
+3,Estructura Argumental ,62,Baure,8,Codificación de A,5,proclitico
+3,Estructura Argumental ,62,Baure,9,Codificación de P ,7,enclitico
+3,Estructura Argumental ,62,Baure,10,Codificación de T,6,enclitico
+3,Estructura Argumental ,62,Baure,11,Codificación de R,7,enclitico
+3,Estructura Argumental ,62,Baure,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,62,Baure,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,62,Baure,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,62,Baure,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,62,Baure,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,62,Baure,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,62,Baure,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,62,Baure,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,63,Yurakare,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,63,Yurakare,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,63,Yurakare,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,63,Yurakare,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,63,Yurakare,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,63,Yurakare,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,63,Yurakare,10,Codificación de T,3,prefijo
+3,Estructura Argumental ,63,Yurakare,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,63,Yurakare,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,63,Yurakare,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,63,Yurakare,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,63,Yurakare,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,63,Yurakare,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,63,Yurakare,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,63,Yurakare,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,63,Yurakare,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,64,Movima,3,Alineamiento intransitivo transitivo,8,spllt
+3,Estructura Argumental ,64,Movima,4,Alineamiento transitivo ditransitivo,5,secundativo con jerarquía
+3,Estructura Argumental ,64,Movima,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,64,Movima,7,Codificación de S,6,enclitico
+3,Estructura Argumental ,64,Movima,8,Codificación de A,6,enclitico
+3,Estructura Argumental ,64,Movima,9,Codificación de P ,7,enclitico
+3,Estructura Argumental ,64,Movima,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,64,Movima,11,Codificación de R,7,enclitico
+3,Estructura Argumental ,64,Movima,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,64,Movima,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,64,Movima,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,64,Movima,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,64,Movima,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,64,Movima,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,64,Movima,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,64,Movima,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,65,Puinave,3,Alineamiento intransitivo transitivo,3,Alineamiento neutro (A=S=P)
+3,Estructura Argumental ,65,Puinave,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,65,Puinave,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,65,Puinave,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,65,Puinave,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,65,Puinave,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,65,Puinave,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,65,Puinave,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,65,Puinave,12,alineamiento intransitivo-transitivo (flaggi),3,ergativo-absolutivo
+3,Estructura Argumental ,65,Puinave,13,alineamiento transitivo-ditransitivo (flaggi),2,indirectivo
+3,Estructura Argumental ,65,Puinave,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,65,Puinave,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,65,Puinave,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,65,Puinave,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,65,Puinave,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,65,Puinave,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,68,Harakmbut,3,Alineamiento intransitivo transitivo,6,nom-acc con jerarquía
+3,Estructura Argumental ,68,Harakmbut,4,Alineamiento transitivo ditransitivo,5,secundativo con jerarquía
+3,Estructura Argumental ,68,Harakmbut,5,fusión de argumentos,1,fusión
+3,Estructura Argumental ,68,Harakmbut,7,Codificación de S,2,Prefijo verbal
+3,Estructura Argumental ,68,Harakmbut,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,68,Harakmbut,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,68,Harakmbut,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,68,Harakmbut,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,68,Harakmbut,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,68,Harakmbut,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,68,Harakmbut,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,68,Harakmbut,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,68,Harakmbut,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,68,Harakmbut,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,68,Harakmbut,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,68,Harakmbut,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,71,Sabane,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,71,Sabane,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,71,Sabane,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,71,Sabane,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,71,Sabane,8,Codificación de A,2,Prefijo verbal
+3,Estructura Argumental ,71,Sabane,9,Codificación de P ,2,prefijo verbal
+3,Estructura Argumental ,71,Sabane,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,71,Sabane,11,Codificación de R,2,prefijo verbal
+3,Estructura Argumental ,71,Sabane,12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,71,Sabane,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,71,Sabane,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,71,Sabane,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,71,Sabane,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,71,Sabane,14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,71,Sabane,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,71,Sabane,16,Marcación de R en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,72,aguaruna,3,Alineamiento intransitivo transitivo,6,nom-acc con jerarquía
+3,Estructura Argumental ,72,aguaruna,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,72,aguaruna,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,72,aguaruna,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,72,aguaruna,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,72,aguaruna,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,72,aguaruna,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,72,aguaruna,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,72,aguaruna,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,72,aguaruna,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,72,aguaruna,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,72,aguaruna,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,72,aguaruna,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,72,aguaruna,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,72,aguaruna,15,Marcación de T en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,72,aguaruna,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,74,Kwaza,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,74,Kwaza,4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,74,Kwaza,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,74,Kwaza,7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,74,Kwaza,8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,74,Kwaza,9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,74,Kwaza,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,74,Kwaza,11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,74,Kwaza,12,alineamiento intransitivo-transitivo (flaggi),6,Split (neutro y nom-acc)
+3,Estructura Argumental ,74,Kwaza,13,alineamiento transitivo-ditransitivo (flaggi),3,secundativo
+3,Estructura Argumental ,74,Kwaza,6,Codificación de S en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,74,Kwaza,1,Codificación de A en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,74,Kwaza,2,Doble marcación de argumentos ,1,Presencia
+3,Estructura Argumental ,74,Kwaza,14,Codificación de P en el sustantivo ,1,Marca de caso
+3,Estructura Argumental ,74,Kwaza,15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,74,Kwaza,16,Marcación de R en el sustantivo ,1,sufijo nominal
+3,Estructura Argumental ,75,Kakua,3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,75,Kakua,4,Alineamiento transitivo ditransitivo,3,Alineamiento neutral (T=P=R)
+3,Estructura Argumental ,75,Kakua,5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,75,Kakua,7,Codificación de S,5,proclitico
+3,Estructura Argumental ,75,Kakua,8,Codificación de A,5,proclitico
+3,Estructura Argumental ,75,Kakua,9,Codificación de P ,4,sin marca
+3,Estructura Argumental ,75,Kakua,10,Codificación de T,1,sin marca
+3,Estructura Argumental ,75,Kakua,11,Codificación de R,5,sin marca
+3,Estructura Argumental ,75,Kakua,12,alineamiento intransitivo-transitivo (flaggi),2,nom-acc
+3,Estructura Argumental ,75,Kakua,13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,75,Kakua,6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,75,Kakua,1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,75,Kakua,2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,75,Kakua,14,Codificación de P en el sustantivo ,4,encl?tico
+3,Estructura Argumental ,75,Kakua,15,Marcación de T en el sustantivo ,3,encl?tico
+3,Estructura Argumental ,75,Kakua,16,Marcación de R en el sustantivo ,5,encl?tico
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),3,Alineamiento intransitivo transitivo,1,nominativo acusativo (A=S≠P)
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),4,Alineamiento transitivo ditransitivo,2,secundativo o de objeto secundario (T≠P)
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),5,fusión de argumentos,2,no fusión
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),7,Codificación de S,1,Sufijo verbal
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),8,Codificación de A,1,Sufijo verbal
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),9,Codificación de P ,1,Sufijo verbal
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),10,Codificación de T,1,sin marca
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),11,Codificación de R,1,sufijo verbal
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),12,alineamiento intransitivo-transitivo (flaggi),1,neutro
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),13,alineamiento transitivo-ditransitivo (flaggi),1,neutro
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),6,Codificación de S en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),1,Codificación de A en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),2,Doble marcación de argumentos ,2,Ausencia
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),14,Codificación de P en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),15,Marcación de T en el sustantivo ,2,Sin marca
+3,Estructura Argumental ,76,Moseten (tsimane / chimane),16,Marcación de R en el sustantivo ,2,Sin marca
+4,Negación,1,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,1,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,1,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,1,Moseten (tsimane / chimane),5,Tipo de indefinidos negativos,1,Basados en interrogativos
+4,Negación,1,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,2,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,2,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,2,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,2,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,3,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,3,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,3,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,3,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,4,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,4,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,4,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,4,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,5,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,5,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,5,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,5,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,7,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,7,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,7,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,1,2da persona imperativa y negacion estandar
+4,Negación,7,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,8,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,8,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,8,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,8,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,9,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,9,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,9,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,1,2da persona imperativa y negacion estandar
+4,Negación,9,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,10,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,10,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,10,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,0,sin datos
+4,Negación,10,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,11,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,11,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,11,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,11,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,12,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,12,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,12,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,13,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,13,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,13,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,13,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,14,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,14,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,14,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,3,Distinto de 2da P imperativa y neg estandar
+4,Negación,14,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,15,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,15,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,15,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,15,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,16,Moseten (tsimane / chimane),2,Orden de negador y verbo,2,Post-verbal
+4,Negación,16,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,16,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,16,Moseten (tsimane / chimane),1,Estrategia de codificación,3,Verbo auxiliar negativo
+4,Negación,17,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,17,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,17,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,21,Moseten (tsimane / chimane),2,Orden de negador y verbo,3,prefijacion
+4,Negación,21,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,21,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,23,Moseten (tsimane / chimane),2,Orden de negador y verbo,9,doble negacion opcional
+4,Negación,23,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,23,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,3,Distinto de 2da P imperativa y neg estandar
+4,Negación,23,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,25,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,25,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,25,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,1,2da persona imperativa y negacion estandar
+4,Negación,25,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,26,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,26,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,26,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,26,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,27,Moseten (tsimane / chimane),2,Orden de negador y verbo,2,Post-verbal
+4,Negación,27,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,27,Moseten (tsimane / chimane),1,Estrategia de codificación,4,palabra negativa (unclear if particle or verb
+4,Negación,28,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,28,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,28,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,28,Moseten (tsimane / chimane),1,Estrategia de codificación,3,Verbo auxiliar negativo
+4,Negación,29,Moseten (tsimane / chimane),2,Orden de negador y verbo,2,Post-verbal
+4,Negación,29,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,29,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,3,Distinto de 2da P imperativa y neg estandar
+4,Negación,29,Moseten (tsimane / chimane),1,Estrategia de codificación,3,Verbo auxiliar negativo
+4,Negación,30,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,30,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,30,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,30,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,35,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,35,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,35,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,3,Distinto de 2da P imperativa y neg estandar
+4,Negación,35,Moseten (tsimane / chimane),1,Estrategia de codificación,6,doble negacion (negacion bipartita)
+4,Negación,36,Moseten (tsimane / chimane),2,Orden de negador y verbo,9,doble negacion opcional
+4,Negación,36,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,36,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,36,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,37,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,37,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,37,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,37,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,39,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,39,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,39,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,39,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,41,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,41,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,41,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,41,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,42,Moseten (tsimane / chimane),2,Orden de negador y verbo,2,Post-verbal
+4,Negación,42,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,42,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,42,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,43,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,43,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,43,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,43,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,44,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,44,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,44,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,44,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,45,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,45,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,45,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,45,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,46,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,46,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,46,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,46,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,47,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,47,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,47,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,47,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,48,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,48,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,48,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,3,Distinto de 2da P imperativa y neg estandar
+4,Negación,48,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,49,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,49,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,49,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,49,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,50,Moseten (tsimane / chimane),2,Orden de negador y verbo,2,Post-verbal
+4,Negación,50,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,50,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,3,Distinto de 2da P imperativa y neg estandar
+4,Negación,50,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,51,Moseten (tsimane / chimane),2,Orden de negador y verbo,2,Post-verbal
+4,Negación,51,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,51,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,1,2da persona imperativa y negacion estandar
+4,Negación,51,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,52,Moseten (tsimane / chimane),2,Orden de negador y verbo,2,Post-verbal
+4,Negación,52,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,52,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,3,Distinto de 2da P imperativa y neg estandar
+4,Negación,52,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,53,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,53,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,53,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,53,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,54,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,54,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,54,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,54,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,55,Moseten (tsimane / chimane),2,Orden de negador y verbo,2,Post-verbal
+4,Negación,55,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,55,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,55,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,56,Moseten (tsimane / chimane),2,Orden de negador y verbo,2,Post-verbal
+4,Negación,56,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,56,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,2,2da persona imperativa y negacion no-estandar
+4,Negación,56,Moseten (tsimane / chimane),1,Estrategia de codificación,3,Verbo auxiliar negativo
+4,Negación,57,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,57,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,57,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,3,Distinto de 2da P imperativa y neg estandar
+4,Negación,57,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,58,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,58,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,58,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,1,2da persona imperativa y negacion estandar
+4,Negación,58,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,59,Moseten (tsimane / chimane),2,Orden de negador y verbo,9,doble negacion opcional
+4,Negación,59,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,59,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,59,Moseten (tsimane / chimane),1,Estrategia de codificación,5,Variacion entre palabra negativa y afijo
+4,Negación,61,Moseten (tsimane / chimane),2,Orden de negador y verbo,2,Post-verbal
+4,Negación,61,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,61,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,3,Distinto de 2da P imperativa y neg estandar
+4,Negación,61,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,62,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,62,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,63,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,63,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,63,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,63,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,64,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,64,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,64,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,64,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,65,Moseten (tsimane / chimane),2,Orden de negador y verbo,3,prefijacion
+4,Negación,65,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,65,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,65,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,67,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,67,Moseten (tsimane / chimane),1,Estrategia de codificación,3,Verbo auxiliar negativo
+4,Negación,68,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,68,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+4,Negación,71,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,71,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,71,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,1,2da persona imperativa y negacion estandar
+4,Negación,71,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,72,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,72,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,72,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,72,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,74,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,74,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,74,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,3,Distinto de 2da P imperativa y neg estandar
+4,Negación,74,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,75,Moseten (tsimane / chimane),2,Orden de negador y verbo,4,sufijacion
+4,Negación,75,Moseten (tsimane / chimane),3,Simetría,2,Asimetrica
+4,Negación,75,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,4,Distinto de 2da P imperativa y neg noestandar
+4,Negación,75,Moseten (tsimane / chimane),1,Estrategia de codificación,1,afijacion
+4,Negación,76,Moseten (tsimane / chimane),2,Orden de negador y verbo,1,Pre-verbal
+4,Negación,76,Moseten (tsimane / chimane),3,Simetría,1,Simetrica
+4,Negación,76,Moseten (tsimane / chimane),4,Tipo de contrucciones prohibitivas,1,2da persona imperativa y negacion estandar
+4,Negación,76,Moseten (tsimane / chimane),1,Estrategia de codificación,2,particula
+5,Sintaxis Compleja,1,Moseten (tsimane / chimane),1,Desiderativa correferencial,4,Nominalizacion
+5,Sintaxis Compleja,1,Moseten (tsimane / chimane),1,Desiderativa correferencial,5,Raices verbales seriales
+5,Sintaxis Compleja,1,Moseten (tsimane / chimane),2,Manera,4,Nominalizacion
+5,Sintaxis Compleja,1,Moseten (tsimane / chimane),2,Manera,5,Raices verbales seriales
+5,Sintaxis Compleja,2,Moseten (tsimane / chimane),1,Desiderativa correferencial,4,Nominalizacion
+5,Sintaxis Compleja,2,Moseten (tsimane / chimane),1,Desiderativa correferencial,6,Afijo
+5,Sintaxis Compleja,2,Moseten (tsimane / chimane),2,Manera,4,Nominalizacion
+5,Sintaxis Compleja,5,Moseten (tsimane / chimane),1,Desiderativa correferencial,4,Nominalizacion
+5,Sintaxis Compleja,5,Moseten (tsimane / chimane),1,Desiderativa correferencial,6,Afijo
+5,Sintaxis Compleja,5,Moseten (tsimane / chimane),2,Manera,4,Nominalizacion
+5,Sintaxis Compleja,7,Moseten (tsimane / chimane),1,Desiderativa correferencial,4,Nominalizacion
+5,Sintaxis Compleja,7,Moseten (tsimane / chimane),1,Desiderativa correferencial,6,Afijo
+5,Sintaxis Compleja,7,Moseten (tsimane / chimane),2,Manera,4,Nominalizacion
+5,Sintaxis Compleja,9,Moseten (tsimane / chimane),1,Desiderativa correferencial,4,Nominalizacion
+5,Sintaxis Compleja,9,Moseten (tsimane / chimane),1,Desiderativa correferencial,6,Afijo
+5,Sintaxis Compleja,9,Moseten (tsimane / chimane),2,Manera,4,Nominalizacion
+5,Sintaxis Compleja,10,Moseten (tsimane / chimane),1,Desiderativa correferencial,4,Nominalizacion
+5,Sintaxis Compleja,10,Moseten (tsimane / chimane),1,Desiderativa correferencial,5,Raices verbales seriales
+5,Sintaxis Compleja,10,Moseten (tsimane / chimane),2,Manera,4,Nominalizacion
+5,Sintaxis Compleja,11,Moseten (tsimane / chimane),1,Desiderativa correferencial,4,Nominalizacion
+5,Sintaxis Compleja,14,Moseten (tsimane / chimane),1,Desiderativa correferencial,4,Nominalizacion
+5,Sintaxis Compleja,14,Moseten (tsimane / chimane),2,Manera,4,Nominalizacion
+5,Sintaxis Compleja,15,Moseten (tsimane / chimane),1,Desiderativa correferencial,4,Nominalizacion
+5,Sintaxis Compleja,15,Moseten (tsimane / chimane),2,Manera,4,Nominalizacion
+5,Sintaxis Compleja,19,Moseten (tsimane / chimane),1,Desiderativa correferencial,1,Yuxtaposicion
+5,Sintaxis Compleja,19,Moseten (tsimane / chimane),1,Desiderativa correferencial,6,Afijo
+5,Sintaxis Compleja,19,Moseten (tsimane / chimane),2,Manera,1,Yuxtaposicion
+5,Sintaxis Compleja,19,Moseten (tsimane / chimane),4,Tiempo,2,Conjuncion
+5,Sintaxis Compleja,21,Moseten (tsimane / chimane),1,Desiderativa correferencial,1,Yuxtaposicion
+5,Sintaxis Compleja,21,Moseten (tsimane / chimane),1,Desiderativa correferencial,2,Conjuncion
+5,Sintaxis Compleja,21,Moseten (tsimane / chimane),1,Desiderativa correferencial,4,Nominalizacion
+5,Sintaxis Compleja,21,Moseten (tsimane / chimane),1,Desiderativa correferencial,6,Afijo
+5,Sintaxis Compleja,21,Moseten (tsimane / chimane),2,Manera,1,Yuxtaposicion
+5,Sintaxis Compleja,21,Moseten (tsimane / chimane),4,Tiempo,2,Conjuncion
+5,Sintaxis Compleja,22,Moseten (tsimane / chimane),1,Desiderativa correferencial,6,Afijo
+5,Sintaxis Compleja,22,Moseten (tsimane / chimane),2,Manera,2,Conjuncion
+5,Sintaxis Compleja,23,Moseten (tsimane / chimane),1,Desiderativa correferencial,1,Yuxtaposicion
+5,Sintaxis Compleja,23,Moseten (tsimane / chimane),2,Manera,1,Yuxtaposicion
+5,Sintaxis Compleja,23,Moseten (tsimane / chimane),4,Tiempo,2,Conjuncion
+5,Sintaxis Compleja,25,Moseten (tsimane / chimane),1,Desiderativa correferencial,1,Yuxtaposicion
+5,Sintaxis Compleja,25,Moseten (tsimane / chimane),2,Manera,1,Yuxtaposicion
+5,Sintaxis Compleja,25,Moseten (tsimane / chimane),4,Tiempo,2,Conjuncion
+5,Sintaxis Compleja,26,Moseten (tsimane / chimane),1,Desiderativa correferencial,1,Yuxtaposicion
+5,Sintaxis Compleja,26,Moseten (tsimane / chimane),1,Desiderativa correferencial,6,Afijo
+5,Sintaxis Compleja,26,Moseten (tsimane / chimane),2,Manera,3,Subordinacion finita c/afijo
+5,Sintaxis Compleja,41,Moseten (tsimane / chimane),1,Desiderativa correferencial,1,Yuxtaposicion
+5,Sintaxis Compleja,41,Moseten (tsimane / chimane),2,Manera,4,Nominalizacion
+5,Sintaxis Compleja,42,Moseten (tsimane / chimane),1,Desiderativa correferencial,5,Raices verbales seriales
+5,Sintaxis Compleja,42,Moseten (tsimane / chimane),2,Manera,5,Raices verbales seriales
+5,Sintaxis Compleja,42,Moseten (tsimane / chimane),4,Tiempo,3,Subordinacion finita c/afijo
+5,Sintaxis Compleja,42,Moseten (tsimane / chimane),4,Tiempo,4,Nominalizacion
+5,Sintaxis Compleja,43,Moseten (tsimane / chimane),1,Desiderativa correferencial,5,Raices verbales seriales
+5,Sintaxis Compleja,43,Moseten (tsimane / chimane),2,Manera,4,Nominalizacion
+5,Sintaxis Compleja,43,Moseten (tsimane / chimane),4,Tiempo,3,Subordinacion finita c/afijo
+5,Sintaxis Compleja,43,Moseten (tsimane / chimane),4,Tiempo,4,Nominalizacion
+6,Demostrativos,16,Moseten (tsimane / chimane),1,Distancia espacial,3,Tres grados

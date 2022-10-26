@@ -1,0 +1,63 @@
+<html>
+<head>
+<script src="js/param-meta-norob.js" type="text/javascript"></script>
+<title>Consultas Bases de Datos</title>
+<link rel="shortcut icon" href="icono.ico">
+<link rel="stylesheet" type="text/css" href="estilos.css" />
+<link rel="stylesheet" type="text/css" href="pestanas.css" />
+<script src="menu-desplegable1.js"></script><link rel="stylesheet" type="text/css" href="menu-desplegable1.css" />
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<SCRIPT LANGUAGE="JavaScript" SRC="FormatoDatos.js"></SCRIPT>
+</head>
+
+<body  onLoad="grabacionRegistro()">
+<header align="left">
+<div class="menu_bar">
+<a href="#" class="bt-menu"><span class="icon-list2"></span>Menú</a>
+</div>
+<nav>
+<ul>
+<li class="submenu">
+<a href="#"><span class="icon-rocket"></span>Menú<span class="caret icon-arrow-down6"></span></a>
+<ul class="children">
+<li><a href="#">Ingreso:<span class="estilo18"></span></a></li>
+<li><a href="home.asp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Página de Inicio<span class="icon-dot"></span></a></li>
+<li><a href="IngresoValorDominio.asp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ingreso de Dominios<span class="icon-dot"></span></a></li>
+<li><a href="IngresoLenguas.asp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ingreso de Lenguas<span class="icon-dot"></span></a></li>
+<li><a href="IngresoTipoRasgos.asp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ingreso de Rasgos<span class="icon-dot"></span></a></li>
+<li><a href="IngresoValorRasgos.asp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ingreso Valores de Rasgos<span class="icon-dot"></span></a></li>
+<li><a href="IngresoTablaDominio.asp">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ingreso de Datos<span class="icon-dot"></span></a></li>
+<li><a href="cerrar_sesion.asp">Cerrar Sesi&oacute;n<span class="icon-dot"></span></a></li>
+<li><a href="">Usuario:  felipe neira<span class="icon-dot"></span></a></li>											
+</ul>
+</li>
+<li><a href="consultas-bases-datos.asp"><span class="icon-earth"></span>Consultas a Base de Datos</a></li>
+<li><a href="#horarios"><span class="icon-mail"></span>Informes</a></li>
+</ul>
+</nav>
+</header>
+      <div align="center" class="estilo24"><strong class="estilo16">Consultas a las Bases de Datos</div>
+    
+      <p align="left" class="estilo18">Usuario :
+        felipe neira
+        </div>
+<p>&nbsp;</p>
+		  
+		  
+<p align="left" class="estilo16"> 1.- <a href="ExportarTiposRasgos.asp" target="_self">Exportar Tabla Rasgos a Excel</a></p><p>&nbsp;</p>
+<p align="left" class="estilo16"> 2.- <a href="RasgosSepComas.asp">Exportar Tabla Rasgos a .csv, delimitados por coma</a></p><p>&nbsp;</p>
+<p align="left" class="estilo16"> 3.- <a href="ExportarValorRasgos.asp">Exportar Tabla Valores de Rasgos a Excel</a></p><p>&nbsp;</p>
+<p align="left" class="estilo16"> 4.- <a href="ValoresRasgosSepComas.asp">Exportar Tabla Valores de Rasgos a .csv, delimitados por coma</a></p><p>&nbsp;</p>			  
+<p align="left" class="estilo16"> 5.- <a href="ExportarLenguas.asp">Exportar Tabla Lenguas a Excel</a></p><p>&nbsp;</p>
+<p align="left" class="estilo16"> 6.- <a href="LenguasSepComas.asp">Exportar Tabla Lenguas a .csv, delimitados por coma</a></p><p>&nbsp;</p>	  
+<p align="left" class="estilo16"> 7.- <a href="ExportarTablaDominios.asp">Exportar Base de Datos Pricipal a Excel (s&oacute;lo c&oacute;digos)</a></p><p>&nbsp;</p><p>&nbsp;</p>	  
+<p align="left" class="estilo16"> 8.- <a href="ExportarTablaDominios-a-csv.asp">Exportar Base de Datos Pricipal a .csv (s&oacute;lo c&oacute;digos)</a></p><p>&nbsp;</p>
+<p align="left" class="estilo16"> 9.- <a href="BaseDatosSepComasCompleta.asp">Exportar Base de Datos Principal a .csv, (con textos)</a></p><p>&nbsp;</p>
+<p align="left" class="estilo16">10.- <a href="buscarenBasePrincipal.asp">Buscar registros en Base de Datos Principal</a>. (Permite guardar resultado en archivo .csv)</p>
+		 		  
+  <input name="ultimo" type="hidden" value="">
+  <input type="hidden" name="nograbado" value="">
+  <p>&nbsp;</p>
+ 
+</body>
+</html>
