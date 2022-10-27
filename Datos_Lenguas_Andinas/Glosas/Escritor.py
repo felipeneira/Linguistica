@@ -23,6 +23,7 @@ def remover_puntuacion(s):
 # 
 # =============================================================================
 while input("Escribir .W para continuar cualquier otro para salir ") == ".w":    
+    string = ""
     original=[]
     segmentacion =[]
     glosa = []
@@ -44,7 +45,7 @@ while input("Escribir .W para continuar cualquier otro para salir ") == ".w":
         original = original.replace(",","")
         original = original.replace("[","")
         original = original.replace("]","")
-        original = "<tr><th>Orgl</th><th> </th>"+original+"</tr>"
+        original = "<tr class='special_row'><td>Orgl</td><td> </td>"+original+"</tr>"
         print(' ')
         print("segmentacion")
         while ".fin" not in segmentacion:
@@ -56,7 +57,7 @@ while input("Escribir .W para continuar cualquier otro para salir ") == ".w":
         segmentacion = segmentacion.replace(",","")
         segmentacion = segmentacion.replace("[","")
         segmentacion = segmentacion.replace("]","")
-        segmentacion = "<tr><td>Sgmt</td><td> </td>"+segmentacion+"</tr>"
+        segmentacion = "<tr class='special_row'><td>Sgmt</td><td> </td>"+segmentacion+"</tr>"
         print(' ')
         print("glosa")
         while ".fin" not in glosa:
@@ -68,7 +69,7 @@ while input("Escribir .W para continuar cualquier otro para salir ") == ".w":
         glosa = glosa.replace(",","")
         glosa = glosa.replace("[","")
         glosa = glosa.replace("]","")
-        glosa = "<tr><td>Glsa</td><td> </td>"+glosa+"</tr>"
+        glosa = "<tr class='special_row'><td>Glsa</td><td> </td>"+glosa+"</tr>"
         print(' ')
         print("traduccion")
         while ".fin" not in traduccion:
@@ -82,12 +83,12 @@ while input("Escribir .W para continuar cualquier otro para salir ") == ".w":
         traduccion = "<h4>"+traduccion+"</h4>"
     elif prueba == ".cancelar":
         break
-    print("<h2>"+titulo+"</h2>")
-    print("""  <table id="customers">""")    
-    print("    "+original)
-    print("    "+segmentacion)
-    print("    "+glosa)
-    print("  </table>")
-    print("  "+traduccion)
-  
+    string += "<h2>"+titulo+"</h2>\n"
+    string +="""  <table id="customers">\n"""    
+    string +="    "+original+"\n"
+    string +="    "+segmentacion+"\n"
+    string +="    "+glosa+"\n"
+    string +="  </table>\n"
+    string +="  "+traduccion+"\n"
 input("Presiona cualquier tecla para salir")
+
