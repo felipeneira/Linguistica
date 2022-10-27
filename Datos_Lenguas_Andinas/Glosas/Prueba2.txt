@@ -1,0 +1,532 @@
+xml version=1.0 encoding=utf-8
+mso-application  progid=Word.Document
+pkgpackage xmlnspkg=httpschemas.microsoft.comoffice2006xmlPackage xmlns=httpwww.w3.org1999XSLFormat xmlnsv=urnschemas-microsoft-comvml
+  pkgpart pkgname=_rels.rels pkgcontentType=applicationvnd.openxmlformats-package.relationships+xml pkgpadding=512
+    pkgxmlData
+      Relationships xmlns=httpschemas.openxmlformats.orgpackage2006relationships
+        Relationship Id=rId1 Type=httpschemas.openxmlformats.orgofficeDocument2006relationshipsofficeDocument Target=worddocument.xml 
+      Relationships
+    pkgxmlData
+  pkgpart
+  pkgpart pkgname=word_relsdocument.xml.rels pkgcontentType=applicationvnd.openxmlformats-package.relationships+xml pkgpadding=256
+    pkgxmlData
+      Relationships xmlns=httpschemas.openxmlformats.orgpackage2006relationships
+        Relationship Id=rId1 Type=httpschemas.openxmlformats.orgofficeDocument2006relationshipsstyles Target=styles.xml 
+      Relationships
+    pkgxmlData
+  pkgpart
+  pkgpart pkgname=worddocument.xml pkgcontentType=applicationvnd.openxmlformats-officedocument.wordprocessingml.document.main+xml
+    pkgxmlData
+      wdocument xmlnsw=httpschemas.openxmlformats.orgwordprocessingml2006main xmlnsve=httpschemas.openxmlformats.orgmarkup-compatibility2006 xmlnso=urnschemas-microsoft-comofficeoffice xmlnsr=httpschemas.openxmlformats.orgofficeDocument2006relationships xmlnsm=httpschemas.openxmlformats.orgofficeDocument2006math xmlnswp=httpschemas.openxmlformats.orgdrawingml2006wordprocessingDrawing xmlnsw10=urnschemas-microsoft-comofficeword xmlnswne=httpschemas.microsoft.comofficeword2006wordml
+        wbody
+  
+    wpwpPrwpStyle wval=Interlin Title wpPrwrwtAve María (no tocar)wtwrwp
+    wpwpPrwpStyle wval=Interlin Description wpPrwrwt wrwp
+    
+      
+        
+          wpwpPrwpStyle wval=Interlin Words wpPrwrwrPrwrStyle wval=Interlin Phrase Number wrPrwt1wtwrwrwt xmlspace=preserve wtwr
+            
+            
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtlpukaxetampech mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=3 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtlpu mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtkaxetam mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-peche mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtlpumtwrPrwrStyle wval=Interlin Homograph wrPrmt1mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtkaxetammtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-pechemtmt mtmrmemmr
+                    
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtya mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtsalvarmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt1.sg.impmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtMaria mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtMaria mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtMariamtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtMaría mtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtDiosech mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=2 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtDios mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-ech mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtDiosmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-chmtwrPrwrStyle wval=Interlin Homograph wrPrmt1mtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtDiosmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtgenmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtgraciata mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=2 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtgracia mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-ta mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtgraciamtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-tamtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtgraciamtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtaccmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmttopatanpen mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=3 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmttopat mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-a mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-npen mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmttopatmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-amtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-npenmtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtestar llenomtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtv.tmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt2.sg.indmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmt, mtmrmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtseñor mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtseñor mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtseñormtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtseñormtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtDios mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtDios mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtDiosmtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtDiosmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtkaimen mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=2 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtka mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-imen mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtkamtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-imenmtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt2mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtaccmpmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmthena mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=2 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmthe mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-na mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmthemtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-namtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtestarmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt3.indmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmt. mtmrmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+            
+            
+          wp
+            
+            
+            wpwpPrwpStyle wval=Interlin Freeform es wpPrwrwtDios te salve María, de la gracia de Dios estás llena, el señor Dios está contigo (que salve yo a Maraia).wtwrwp
+          
+        
+      
+      
+        
+          wpwpPrwpStyle wval=Interlin Words wpPrwrwrPrwrStyle wval=Interlin Phrase Number wrPrwt2wtwrwrwt xmlspace=preserve wtwr
+            
+            
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtchu mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtchu mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtchumtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmttodomtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtaxeyamta mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=3 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtaxe mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-yam mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-ta mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtaxemtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-yammtwrPrwrStyle wval=Interlin Homograph wrPrmt2mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-tamtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtfmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtplmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtablmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtka mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtka mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtkamtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt2mtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtltap mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtltap mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtltapmtwrPrwrStyle wval=Interlin Homograph wrPrmt1mtmt mtmrmemmr
+                    
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtmás mtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtchotomanpen mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=3 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtchoto mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtma mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-npen mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtchotomtwrPrwrStyle wval=Interlin Homograph wrPrmt1mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtmamtwrPrwrStyle wval=Interlin Homograph wrPrmt1mtwrPrwrStyle wval=Interlin Variant Types wrPrmt+unspec. var. ofmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-npenmtmt mtmrmemmr
+                    
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtbuenomtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtser mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt2.sg.indmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmt. mtmrmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+            
+            
+          wp
+            
+            
+            wpwpPrwpStyle wval=Interlin Freeform es wpPrwrwtDe todas las mujeres tú eres la más buenamejor (bendita). wtwrwp
+          
+        
+      
+      
+        
+          wpwpPrwpStyle wval=Interlin Words wpPrwrwrPrwrStyle wval=Interlin Phrase Number wrPrwt3wtwrwrwt xmlspace=preserve wtwr
+            
+            
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtkach mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=2 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtka mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-ch mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtkamtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-chmtwrPrwrStyle wval=Interlin Homograph wrPrmt1mtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt2mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtgenmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmttartayak mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=3 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmttar mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-ta mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-yak mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmttarumtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-tamtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-yakmtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtvientre mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtablmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtablmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtllawe mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtllawe mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtllawemtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmthijomtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtJesus mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtJesu mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtJesumtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtJesúsmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtichken mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtichken mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtichkenmtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmttambién mtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtltap mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtltap mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtltapmtwrPrwrStyle wval=Interlin Homograph wrPrmt1mtmt mtmrmemmr
+                    
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtmás mtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtchotomana mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=3 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtchoto mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtma mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-na mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtchotomtwrPrwrStyle wval=Interlin Homograph wrPrmt1mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtmamtwrPrwrStyle wval=Interlin Homograph wrPrmt1mtwrPrwrStyle wval=Interlin Variant Types wrPrmt+unspec. var. ofmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-namtmt mtmrmemmr
+                    
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtbuenomtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtser mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt3.indmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmt. mtmrmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+            
+            
+          wp
+            
+            
+            wpwpPrwpStyle wval=Interlin Freeform es wpPrwrwtY de tu vientre el hijo Jesús es el más buenomejor (bendito).wtwrwp
+          
+        
+      
+      
+        
+          wpwpPrwpStyle wval=Interlin Words wpPrwrwrPrwrStyle wval=Interlin Phrase Number wrPrwt4wtwrwrwt xmlspace=preserve wtwr
+            
+            
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmta mtmrmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtsanta mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtsanta mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtsantamtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtsantamtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtMaria mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtMaria mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtMariamtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtMaría mtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtmuñcha mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtmuñcha mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtmuñchamtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtvirgen mtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtDiosech mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=2 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtDios mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-ech mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtDiosmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-chmtwrPrwrStyle wval=Interlin Homograph wrPrmt1mtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtDiosmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtgenmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtpekne mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtpetne mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtpetnemtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtmadre mtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtxamkexltetete mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=5 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtxam mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtke- mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtx- mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtlta mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-te mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtxangmtwrPrwrStyle wval=Interlin Variant Types wrPrmt+unspec. var. ofmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtke-mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtx-mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtltamtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmt-temtmt mtmrmemmr
+                    
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtpalabra mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt1.objmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtpl.objmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtsermtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt3.sg.impmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtDios mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtDios mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtDiosmtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtDiosmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmt, mtmrmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtmaan mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtmaan mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtmaanmtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtahoramtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmt, mtmrmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtxapiakexltanem mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=5 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtxap mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtke- mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtx- mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtlta mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt-nem mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtxapmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtke-mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtx-mtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtltamtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtmorirmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmt1.objmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtpl.objmtmt mtmrmememrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtsermtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtkeme mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtkeme mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtkememtwrPrwrStyle wval=Interlin Homograph wrPrmt1mtmt mtmrmemmr
+                    
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmttambién mtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmt. mtmrmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+            
+            
+          wp
+            
+            
+            wpwpPrwpStyle wval=Interlin Freeform es wpPrwrwtSanta María virgen de Dios madre, sea (tu) palabra (ruega) a nosotros, ahora y también (cuando sea) la muerte para nosotros (nuestra muerte).wtwrwp
+          
+        
+      
+      
+        
+          wpwpPrwpStyle wval=Interlin Words wpPrwrwrPrwrStyle wval=Interlin Phrase Number wrPrwt5wtwrwrwt xmlspace=preserve wtwr
+            
+            
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmtamen mtmrmemmr
+                mmrmemmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtamen mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Cf es wrPrmtamenmtmt mtmrmemmr
+                    mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Morph es wrPrmtamenmtmt mtmrmemmr
+                  mmmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+              moMathmmmmPrmbaseJc mval=top mrSpRule mval=4 mrSp mval=3 mmcsmmcmmcPrmcount mval=1 mmcJc mval=left mmcPrmmcmmcsmmPr
+                mmrmemrmrPrmnor mrPrwrPrwrStyle wval=Interlin Base es wrPrmt. mtmrmemmr
+              mmmoMathwrwt xmlspace=preserve wtwr
+            
+            
+          wp
+            
+            
+            wpwpPrwpStyle wval=Interlin Freeform es wpPrwrwtAmén.wtwrwp
+          
+        
+      
+    
+    
+      
+    
+  
+wbody
+      wdocument
+    pkgxmlData
+  pkgpart
+  pkgpart pkgname=wordstyles.xml pkgcontentType=applicationvnd.openxmlformats-officedocument.wordprocessingml.styles+xml
+    pkgxmlData
+      wstyles xmlnsw=httpschemas.openxmlformats.orgwordprocessingml2006main xmlnsr=httpschemas.openxmlformats.orgofficeDocument2006relationships
+        wstyle wtype=paragraph wstyleId=Interlin Base 
+        wstyle wtype=paragraph wstyleId=Interlin Title
+          wbasedOn wval=Interlin Base 
+          wname wval=Interlin Title 
+          wpPr
+            wspacing wbefore=40 wafter=120 
+            wkeepNext wval=on 
+          wpPr
+          wrPr
+            wb wval=on 
+            wsz wval=32 
+          wrPr
+        wstyle
+        wstyle wtype=paragraph wstyleId=Interlin Source
+          wbasedOn wval=Interlin Base 
+          wname wval=Interlin Source 
+          wpPr
+            wspacing wbefore=40 wafter=40 
+            wkeepNext wval=on 
+          wpPr
+          wrPr
+            wb wval=on 
+            wsz wval=24 
+          wrPr
+        wstyle
+        wstyle wtype=paragraph wstyleId=Interlin Paragraph Marker
+          wname wval=Interlin Paragraph Marker 
+          wbasedOn wval=Interlin Base 
+          wpPr
+            wspacing wbefore=40 wafter=40 
+            wkeepNext wval=on 
+          wpPr
+          wrPr
+            wb wval=on 
+            wkeepNext wval=on 
+          wrPr
+        wstyle
+        wstyle wtype=paragraph wstyleId=Interlin Description
+          wname wval=Interlin Description 
+          wbasedOn wval=Interlin Base 
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Vernacular
+          wname wval=Interlin Vernacular 
+          wrPr
+            wnoProof wval=on 
+            wrFonts wascii=Times New Roman wh-ansi=Times New Roman wcs=Times New Roman wfareast=Times New Roman 
+          wrPr
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Vern es xmlnsm=httpschemas.openxmlformats.orgofficeDocument2006math
+          wname wval=Interlin Vern es 
+          wrPr
+            wrFonts wascii=Times New Roman wh-ansi=Times New Roman wcs=Times New Roman wfareast=Times New Roman 
+          wrPr
+          wbasedOn wval=Interlin Vernacular 
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Base es xmlnsm=httpschemas.openxmlformats.orgofficeDocument2006math
+          wname wval=Interlin Base es 
+          wbasedOn wval=Interlin Vern es 
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Cf es xmlnsm=httpschemas.openxmlformats.orgofficeDocument2006math
+          wname wval=Interlin Cf es 
+          wbasedOn wval=Interlin Vern es 
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Morph es xmlnsm=httpschemas.openxmlformats.orgofficeDocument2006math
+          wname wval=Interlin Morph es 
+          wbasedOn wval=Interlin Vern es 
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Baseline
+          wname wval=Interlin Baseline 
+          wbasedOn wval=Interlin Vernacular 
+          wrPr
+            wb wval=on 
+          wrPr
+        wstyle
+        wstyle wtype=paragraph wstyleId=Interlin Words
+          wname wval=Interlin Words 
+          wbasedOn wval=Interlin Baseline 
+          wbidi 
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Homograph
+          wname wval=Interlin Homograph 
+          wrPr
+            wvertAlign wval=subscript 
+          wrPr
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Variant Types
+          wname wval=Interlin Variant Types 
+          wrPr
+            wsmallCaps wval=on 
+          wrPr
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Analysis
+          wname wval=Interlin Analysis 
+          wrPr
+            wrFonts wascii= wh-ansi= wcs= wfareast= 
+          wrPr
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Phrase Number
+          wname wval=Interlin Phrase Number 
+          wbasedOn wval=Interlin Analysis 
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Morpheme POS
+          wname wval=Interlin Morpheme POS 
+          wbasedOn wval=Interlin Analysis 
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Word POS
+          wname wval=Interlin Word POS 
+          wbasedOn wval=Interlin Analysis 
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Analysis es xmlnsm=httpschemas.openxmlformats.orgofficeDocument2006math
+          wname wval=Interlin Analysis es 
+          wrPr
+            wrFonts wascii=Times New Roman wh-ansi=Times New Roman wcs=Times New Roman wfareast=Times New Roman 
+          wrPr
+          wbasedOn wval=Interlin Base 
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Morpheme Gloss es xmlnsm=httpschemas.openxmlformats.orgofficeDocument2006math
+          wname wval=Interlin Morpheme Gloss es 
+          wbasedOn wval=Interlin Analysis es 
+        wstyle
+        wstyle wtype=character wstyleId=Interlin Word Gloss es xmlnsm=httpschemas.openxmlformats.orgofficeDocument2006math
+          wname wval=Interlin Word Gloss es 
+          wbasedOn wval=Interlin Analysis es 
+        wstyle
+        wstyle wtype=paragraph wstyleId=Interlin Freeform es xmlnsm=httpschemas.openxmlformats.orgofficeDocument2006math
+          wname wval=Interlin Freeform es 
+          wbasedOn wval=Interlin Analysis es 
+          wpPr
+            wspacing wafter=30 
+          wpPr
+        wstyle
+      wstyles
+    pkgxmlData
+  pkgpart
+pkgpackage

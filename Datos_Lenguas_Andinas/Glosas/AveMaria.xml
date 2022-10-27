@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?mso-application  progid="Word.Document"?>
+<pkg:package xmlns:pkg="http://schemas.microsoft.com/office/2006/xmlPackage" xmlns="http://www.w3.org/1999/XSL/Format" xmlns:v="urn:schemas-microsoft-com:vml">
+  <pkg:part pkg:name="/_rels/.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="512">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument" Target="word/document.xml" />
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/_rels/document.xml.rels" pkg:contentType="application/vnd.openxmlformats-package.relationships+xml" pkg:padding="256">
+    <pkg:xmlData>
+      <Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
+        <Relationship Id="rId1" Type="http://schemas.openxmlformats.org/officeDocument/2006/relationships/styles" Target="styles.xml" />
+      </Relationships>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/document.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml">
+    <pkg:xmlData>
+      <w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:ve="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml">
+        <w:body>
+  
+    <w:p><w:pPr><w:pStyle w:val="Interlin Title" /></w:pPr><w:r><w:t>Ave María (no tocar)</w:t></w:r></w:p>
+    <w:p><w:pPr><w:pStyle w:val="Interlin Description" /></w:pPr><w:r><w:t /></w:r></w:p>
+    
+      
+        
+          <w:p><w:pPr><w:pStyle w:val="Interlin Words" /></w:pPr><w:r><w:rPr><w:rStyle w:val="Interlin Phrase Number" /></w:rPr><w:t>1</w:t></w:r><w:r><w:t xml:space="preserve"> </w:t></w:r>
+            
+            
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>lpukaxetampech </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="3" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>lpu </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>kaxetam </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-peche </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>lpu</m:t><w:rPr><w:rStyle w:val="Interlin Homograph" /></w:rPr><m:t>1</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>kaxetam</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-peche</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ya </m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>salvar</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>1.sg.imp</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>Maria </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>Maria </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>Maria</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>María </m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>Diosech </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="2" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>Dios </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-ech </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>Dios</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-ch</m:t><w:rPr><w:rStyle w:val="Interlin Homograph" /></w:rPr><m:t>1</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>Dios</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>gen</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>graciata </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="2" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>gracia </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-ta </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>gracia</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-ta</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>gracia</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>acc</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>topatanpen </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="3" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>topat </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-a </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-npen </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>topat</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-a</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-npen</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>estar lleno</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>v.t</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>2.sg.ind</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>, </m:t></m:r></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>señor </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>señor </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>señor</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>señor</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>Dios </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>Dios </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>Dios</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>Dios</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>kaimen </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="2" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ka </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-imen </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>ka</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-imen</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>2</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>accmp</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>hena </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="2" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>he </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-na </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>he</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-na</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>estar</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>3.ind</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>. </m:t></m:r></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+            
+            
+          </w:p>
+            
+            
+            <w:p><w:pPr><w:pStyle w:val="Interlin Freeform es" /></w:pPr><w:r><w:t>Dios te salve María, de la gracia de Dios estás llena, el señor Dios está contigo (que salve yo a Maraia).</w:t></w:r></w:p>
+          
+        
+      
+      
+        
+          <w:p><w:pPr><w:pStyle w:val="Interlin Words" /></w:pPr><w:r><w:rPr><w:rStyle w:val="Interlin Phrase Number" /></w:rPr><w:t>2</w:t></w:r><w:r><w:t xml:space="preserve"> </w:t></w:r>
+            
+            
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>chu </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>chu </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>chu</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>todo</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>axeyamta </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="3" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>axe </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-yam </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-ta </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>axe</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-yam</m:t><w:rPr><w:rStyle w:val="Interlin Homograph" /></w:rPr><m:t>2</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-ta</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>f</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>pl</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>abl</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>ka </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ka </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>ka</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>2</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>ltap </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ltap </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>ltap</m:t><w:rPr><w:rStyle w:val="Interlin Homograph" /></w:rPr><m:t>1</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>más </m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>chotomanpen </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="3" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>choto </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ma </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-npen </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>choto</m:t><w:rPr><w:rStyle w:val="Interlin Homograph" /></w:rPr><m:t>1</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>ma</m:t><w:rPr><w:rStyle w:val="Interlin Homograph" /></w:rPr><m:t>1</m:t><w:rPr><w:rStyle w:val="Interlin Variant Types" /></w:rPr><m:t>+unspec. var. of</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-npen</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>bueno</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ser </m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>2.sg.ind</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>. </m:t></m:r></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+            
+            
+          </w:p>
+            
+            
+            <w:p><w:pPr><w:pStyle w:val="Interlin Freeform es" /></w:pPr><w:r><w:t>De todas las mujeres tú eres la más buena/mejor (bendita). </w:t></w:r></w:p>
+          
+        
+      
+      
+        
+          <w:p><w:pPr><w:pStyle w:val="Interlin Words" /></w:pPr><w:r><w:rPr><w:rStyle w:val="Interlin Phrase Number" /></w:rPr><w:t>3</w:t></w:r><w:r><w:t xml:space="preserve"> </w:t></w:r>
+            
+            
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>kach </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="2" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ka </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-ch </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>ka</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-ch</m:t><w:rPr><w:rStyle w:val="Interlin Homograph" /></w:rPr><m:t>1</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>2</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>gen</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>tartayak </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="3" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>tar </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-ta </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-yak </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>taru</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-ta</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-yak</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>vientre </m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>abl</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>abl</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>llawe </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>llawe </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>llawe</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>hijo</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>Jesus </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>Jesu </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>Jesu</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>Jesús</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>ichken </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ichken </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>ichken</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>también </m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>ltap </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ltap </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>ltap</m:t><w:rPr><w:rStyle w:val="Interlin Homograph" /></w:rPr><m:t>1</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>más </m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>chotomana </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="3" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>choto </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ma </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-na </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>choto</m:t><w:rPr><w:rStyle w:val="Interlin Homograph" /></w:rPr><m:t>1</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>ma</m:t><w:rPr><w:rStyle w:val="Interlin Homograph" /></w:rPr><m:t>1</m:t><w:rPr><w:rStyle w:val="Interlin Variant Types" /></w:rPr><m:t>+unspec. var. of</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-na</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>bueno</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ser </m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>3.ind</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>. </m:t></m:r></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+            
+            
+          </w:p>
+            
+            
+            <w:p><w:pPr><w:pStyle w:val="Interlin Freeform es" /></w:pPr><w:r><w:t>Y de tu vientre el hijo Jesús es el más bueno/mejor (bendito).</w:t></w:r></w:p>
+          
+        
+      
+      
+        
+          <w:p><w:pPr><w:pStyle w:val="Interlin Words" /></w:pPr><w:r><w:rPr><w:rStyle w:val="Interlin Phrase Number" /></w:rPr><w:t>4</w:t></w:r><w:r><w:t xml:space="preserve"> </w:t></w:r>
+            
+            
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>a </m:t></m:r></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>santa </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>santa </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>santa</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>santa</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>Maria </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>Maria </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>Maria</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>María </m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>muñcha </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>muñcha </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>muñcha</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>virgen </m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>Diosech </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="2" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>Dios </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-ech </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>Dios</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-ch</m:t><w:rPr><w:rStyle w:val="Interlin Homograph" /></w:rPr><m:t>1</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>Dios</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>gen</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>pekne </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>petne </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>petne</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>madre </m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>xamkexltetete </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="5" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>xam </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ke- </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>x- </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>lta </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-te </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>xang</m:t><w:rPr><w:rStyle w:val="Interlin Variant Types" /></w:rPr><m:t>+unspec. var. of</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>ke-</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>x-</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>lta</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>-te</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>palabra </m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>1.obj</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>pl.obj</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ser</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>3.sg.imp</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>Dios </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>Dios </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>Dios</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>Dios</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>, </m:t></m:r></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>maan </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>maan </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>maan</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ahora</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>, </m:t></m:r></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>xapiakexltanem </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="5" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>xap </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ke- </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>x- </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>lta </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>-nem </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>xap</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>ke-</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>x-</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>lta</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>morir</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>1.obj</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>pl.obj</m:t><m:t> </m:t></m:r></m:e><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>ser</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>keme </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>keme </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>keme</m:t><w:rPr><w:rStyle w:val="Interlin Homograph" /></w:rPr><m:t>1</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>también </m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>. </m:t></m:r></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+            
+            
+          </w:p>
+            
+            
+            <w:p><w:pPr><w:pStyle w:val="Interlin Freeform es" /></w:pPr><w:r><w:t>Santa María virgen de Dios madre, sea (tu) palabra (ruega) a nosotros, ahora y también (cuando sea) la muerte para nosotros (nuestra muerte).</w:t></w:r></w:p>
+          
+        
+      
+      
+        
+          <w:p><w:pPr><w:pStyle w:val="Interlin Words" /></w:pPr><w:r><w:rPr><w:rStyle w:val="Interlin Phrase Number" /></w:rPr><w:t>5</w:t></w:r><w:r><w:t xml:space="preserve"> </w:t></w:r>
+            
+            
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>amen </m:t></m:r></m:e></m:mr>
+                <m:mr><m:e><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>amen </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Cf es" /></w:rPr><m:t>amen</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                    <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Morph es" /></w:rPr><m:t>amen</m:t><m:t> </m:t></m:r></m:e></m:mr>
+                  </m:m></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+              <m:oMath><m:m><m:mPr><m:baseJc m:val="top" /><m:rSpRule m:val="4" /><m:rSp m:val="3" /><m:mcs><m:mc><m:mcPr><m:count m:val="1" /><m:mcJc m:val="left" /></m:mcPr></m:mc></m:mcs></m:mPr>
+                <m:mr><m:e><m:r><m:rPr><m:nor /></m:rPr><w:rPr><w:rStyle w:val="Interlin Base es" /></w:rPr><m:t>. </m:t></m:r></m:e></m:mr>
+              </m:m></m:oMath><w:r><w:t xml:space="preserve"> </w:t></w:r>
+            
+            
+          </w:p>
+            
+            
+            <w:p><w:pPr><w:pStyle w:val="Interlin Freeform es" /></w:pPr><w:r><w:t>Amén.</w:t></w:r></w:p>
+          
+        
+      
+    
+    
+      
+    
+  
+</w:body>
+      </w:document>
+    </pkg:xmlData>
+  </pkg:part>
+  <pkg:part pkg:name="/word/styles.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml">
+    <pkg:xmlData>
+      <w:styles xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships">
+        <w:style w:type="paragraph" w:styleId="Interlin Base" />
+        <w:style w:type="paragraph" w:styleId="Interlin Title">
+          <w:basedOn w:val="Interlin Base" />
+          <w:name w:val="Interlin Title" />
+          <w:pPr>
+            <w:spacing w:before="40" w:after="120" />
+            <w:keepNext w:val="on" />
+          </w:pPr>
+          <w:rPr>
+            <w:b w:val="on" />
+            <w:sz w:val="32" />
+          </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Interlin Source">
+          <w:basedOn w:val="Interlin Base" />
+          <w:name w:val="Interlin Source" />
+          <w:pPr>
+            <w:spacing w:before="40" w:after="40" />
+            <w:keepNext w:val="on" />
+          </w:pPr>
+          <w:rPr>
+            <w:b w:val="on" />
+            <w:sz w:val="24" />
+          </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Interlin Paragraph Marker">
+          <w:name w:val="Interlin Paragraph Marker" />
+          <w:basedOn w:val="Interlin Base" />
+          <w:pPr>
+            <w:spacing w:before="40" w:after="40" />
+            <w:keepNext w:val="on" />
+          </w:pPr>
+          <w:rPr>
+            <w:b w:val="on" />
+            <w:keepNext w:val="on" />
+          </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Interlin Description">
+          <w:name w:val="Interlin Description" />
+          <w:basedOn w:val="Interlin Base" />
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Vernacular">
+          <w:name w:val="Interlin Vernacular" />
+          <w:rPr>
+            <w:noProof w:val="on" />
+            <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:fareast="Times New Roman" />
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Vern es" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math">
+          <w:name w:val="Interlin Vern es" />
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:fareast="Times New Roman" />
+          </w:rPr>
+          <w:basedOn w:val="Interlin Vernacular" />
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Base es" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math">
+          <w:name w:val="Interlin Base es" />
+          <w:basedOn w:val="Interlin Vern es" />
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Cf es" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math">
+          <w:name w:val="Interlin Cf es" />
+          <w:basedOn w:val="Interlin Vern es" />
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Morph es" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math">
+          <w:name w:val="Interlin Morph es" />
+          <w:basedOn w:val="Interlin Vern es" />
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Baseline">
+          <w:name w:val="Interlin Baseline" />
+          <w:basedOn w:val="Interlin Vernacular" />
+          <w:rPr>
+            <w:b w:val="on" />
+          </w:rPr>
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Interlin Words">
+          <w:name w:val="Interlin Words" />
+          <w:basedOn w:val="Interlin Baseline" />
+          <w:bidi />
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Homograph">
+          <w:name w:val="Interlin Homograph" />
+          <w:rPr>
+            <w:vertAlign w:val="subscript" />
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Variant Types">
+          <w:name w:val="Interlin Variant Types" />
+          <w:rPr>
+            <w:smallCaps w:val="on" />
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Analysis">
+          <w:name w:val="Interlin Analysis" />
+          <w:rPr>
+            <w:rFonts w:ascii="" w:h-ansi="" w:cs="" w:fareast="" />
+          </w:rPr>
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Phrase Number">
+          <w:name w:val="Interlin Phrase Number" />
+          <w:basedOn w:val="Interlin Analysis" />
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Morpheme POS">
+          <w:name w:val="Interlin Morpheme POS" />
+          <w:basedOn w:val="Interlin Analysis" />
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Word POS">
+          <w:name w:val="Interlin Word POS" />
+          <w:basedOn w:val="Interlin Analysis" />
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Analysis es" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math">
+          <w:name w:val="Interlin Analysis es" />
+          <w:rPr>
+            <w:rFonts w:ascii="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman" w:fareast="Times New Roman" />
+          </w:rPr>
+          <w:basedOn w:val="Interlin Base" />
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Morpheme Gloss es" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math">
+          <w:name w:val="Interlin Morpheme Gloss es" />
+          <w:basedOn w:val="Interlin Analysis es" />
+        </w:style>
+        <w:style w:type="character" w:styleId="Interlin Word Gloss es" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math">
+          <w:name w:val="Interlin Word Gloss es" />
+          <w:basedOn w:val="Interlin Analysis es" />
+        </w:style>
+        <w:style w:type="paragraph" w:styleId="Interlin Freeform es" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math">
+          <w:name w:val="Interlin Freeform es" />
+          <w:basedOn w:val="Interlin Analysis es" />
+          <w:pPr>
+            <w:spacing w:after="30" />
+          </w:pPr>
+        </w:style>
+      </w:styles>
+    </pkg:xmlData>
+  </pkg:part>
+</pkg:package>

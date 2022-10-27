@@ -23,7 +23,7 @@ def remover_puntuacion(s):
 # 
 # =============================================================================
 while input("Escribir .W para continuar cualquier otro para salir ") == ".w":    
-    string = ""
+    string1 = ""
     original=[]
     segmentacion =[]
     glosa = []
@@ -83,12 +83,13 @@ while input("Escribir .W para continuar cualquier otro para salir ") == ".w":
         traduccion = "<h4>"+traduccion+"</h4>"
     elif prueba == ".cancelar":
         break
-    string += "<h2>"+titulo+"</h2>\n"
-    string +="""  <table id="customers">\n"""    
-    string +="    "+original+"\n"
-    string +="    "+segmentacion+"\n"
-    string +="    "+glosa+"\n"
-    string +="  </table>\n"
-    string +="  "+traduccion+"\n"
+    string1 += "<h2>"+titulo+"</h2>\n"
+    string1 +="""  <table id="customers">\n"""    
+    string1 +="    "+original+"\n"
+    string1 +="    "+segmentacion+"\n"
+    string1 +="    "+glosa+"\n"
+    string1 +="  </table>\n"
+    string1 +="  "+traduccion+"\n"
+    print(string1)
 input("Presiona cualquier tecla para salir")
 

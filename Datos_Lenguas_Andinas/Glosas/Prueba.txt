@@ -1,0 +1,351 @@
+32.2
+Iesu
+sus
+iesu
+Jesús
+sus
+kristo
+sus
+kristo
+Cristo
+sus
+uña
+adv
+uña
+mucho , grande
+adv
+kalluzakyana
+v
+kalluzak
+milagros
+<No está seguro>
+-ya
+pendiente
+Se anexa a cualquier categoría
+-na
+3.ind
+v:Flexión de sujeto indicaivo
+Muchos milagros.
+33.1
+wakam
+pro-form
+wakam
+qué
+pro-form
+kalluzakyante
+v
+kalluzak
+milagros
+<No está seguro>
+-ya
+pendiente
+Se anexa a cualquier categoría
+-nte
+3.sg.interog
+v:Flexión de sujeto interrogativo
+?
+Qué milagros
+33.2
+Lepu
+prt
+lepu
+posteridad
+prt
+xapia
+sus
+xapia
+muerte
+sus
+ñuchumye
+sus
+ñuchum
+hombre
+sus
+-ye
+dat
+sus:Caso
+putayexta
+v
+putaye
+resucitar
+v
+xta
+cuando
+adv
+,
+xapia
+sus
+xapia
+muerte
+sus
+ñuchumye
+sus
+ñuchum
+hombre
+sus
+-ye
+dat
+sus:Caso
+pxeyatayta
+v
+pxe-
+3PL.OBJ
+Se anexa a cualquier categoría
+yata
+volver(se)
+v
+-yta
+pendiente
+Se anexa a cualquier categoría
+,
+nameu
+adj
+nameu
+ciego
+adj
+ñochumye
+sus
+ñochum
+gente
+sus
+-ye
+dat
+sus:Caso
+put
+sus
+put
+vista
+sus
+zaylteyta
+v
+zaylte
+volver
+v
+-yta
+pendiente
+Se anexa a cualquier categoría
+,
+xera
+sus
+xera
+sordo
+sus
+ñochumye
+sus
+ñochum
+gente
+sus
+-ye
+dat
+sus:Caso
+zakatax
+v
+zakat
+oir
+v
+-ax
+puelta
+v
+pu-
+3.obj
+v:Flexión de objeto
+elta
+hacer
+v
+.Resucitava los muertos, sanava los enfermos, daba vista a los ciegos, y oydo a los sordos.
+34.1
+Jesu
+sus
+Jesu
+Jesús
+sus
+kristo
+sus
+kristo
+Cristo
+sus
+wentekpetammante
+v
+wentekpetam
+encarcelar
+v
+ma
+ser
+v
+-nte
+3.sg.interog
+v:Flexión de sujeto interrogativo
+wentektamta
+sus
+wentektamta
+cárcel
+sus
+ut
+sus
+ut
+casa
+sus
+ta
+sus
+-ta
+acc
+sus:Caso
+?
+Fue Iesu Christo preso por nosotros
+34.2
+Ati
+adv
+ati
+sí
+<No está seguro>
+.
+sí
+35.1
+Pa
+pro-form
+paa
+alguien
+pro-form
+ñuchum
+sus
+ñuchum
+hombre
+sus
+wentekpetamante
+wentek
+encarcelar
+<No está seguro>
+pe-
+3.obj
+v:Flexión de objeto
+tam
+pendiente
+<No está seguro>
+-a
+v.t
+v:Vocal temática
+-nte
+3.sg.interog
+v:Flexión de sujeto interrogativo
+?
+Qué gente fue la que le prendió
+35.2
+Judio
+sus
+judio
+judío
+sus
+ñochum
+sus
+ñuchum
+hombre
+sus
+,
+epchech
+pro-form
+ep
+3
+pro-form
+-che
+gen
+sus:Caso
+-ch
+gen
+nomprt:Cualquier
+amta
+sus
+amta
+señor
+sus
+Poncio pilato
+sus
+Poncio pilato
+Poncio Pilato
+sus
+mataltailtana
+v
+mata
+palabra
+sus
+lta
+ser
+v
+-ilta
+PAS
+Se anexa a cualquier categoría
+-na
+3.ind
+v:Flexión de sujeto indicaivo
+.
+. Los Iudios cuyo presidente era Ponciopilato (señor de los judios llamado Poncio)
+36.1
+Jesu
+sus
+Jesu
+Jesús
+sus
+kristo
+sus
+kristo
+Cristo
+sus
+yet
+prt
+yet
+pupiante
+v
+pupia
+castigar
+<No está seguro>
+-nte
+3.sg.interog
+v:Flexión de sujeto interrogativo
+,
+yet
+prt
+yet
+tampetawante
+v
+tam-
+hacer
+Se anexa a cualquier categoría
+pe-
+3.obj
+v:Flexión de objeto
+ta
+poner
+v
+-w
+t.v
+v:Tema verbal
+-a
+v.t
+v:Vocal temática
+-nte
+3.sg.interog
+v:Flexión de sujeto interrogativo
+yotota
+sus
+yoto
+cabeza
+sus
+-ta
+acc
+sus:Caso
+chik
+sus
+chik
+espinas
+sus
+chik
+sus
+chik
+espinas
+sus
+ta
+sus
+-ta
+acc
+sus:Caso
+?
+Fue Iesu Christo azotado y coronado de espinas
