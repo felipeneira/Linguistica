@@ -12,7 +12,7 @@
 }
 
 #customers td, #customers th {
-  border: 1px solid #ddd;
+  border: 1px solid black;
   padding: 8px;
   text-align: center;
 }
@@ -20,11 +20,25 @@
 #customers tr:nth-child(even){background-color: #f2f2f2;}
 
 #customers tr:hover {background-color: #ddd;}
-
-#customers th {
+tr.special_row td+td+td {
+    background-color: #fff;
+    color:black;
+    text-shadow: none;
+    font-size: medium;
+}
+tr.special_row td {
+  background-color: rgb(45, 255, 45);
   padding-top: 8px;
   padding-bottom: 8px;
   text-align: center;
+  color:black;
+  font-style: italic;
+
+  font-size: large;
+}
+
+#customers th3 {
+
 }
 </style>
 <title>Textos Allentiac</title>
@@ -34,9 +48,9 @@
 <h1>Textos Allentiac</h1>
 <h2>Ave María</h2>
 <table id="customers">
-    <tr><th>Orgl</th><th> </th><th>lpukaxetampech</th><th>Maria</th><th>Diosech</th><th>graciata</th><th>topatanpen</th><th>señor</th><th>Dios</th><th>kaimen</th><th>hena</th></tr>
-    <tr><td>Sgmt</td><td> </td><td>lpu kaxetam -peche</td><td>Maria</td><td>Dios -ech</td><td>gracia -ta</td><td>topat -a -npen</td><td>señor</td><td>Dios</td><td>ka -imen</td><td>he -na</td></tr>
-    <tr><td>Glsa</td><td> </td><td>ya salvar 1.SG.IMP</td><td>Maria</td><td>Dios GEN</td><td>gracia ACC</td><td>estar lleno V.T 2.SG.IND</td><td>señor</td><td>Dios</td><td>2 ACCMP</td><td>estar 3.ind</td></tr>
+    <tr class="special_row"><td>Orgl</td><td> </td><th>lpukaxetampech</th><th>Maria</th><th>Diosech</th><th>graciata</th><th>topatanpen</th><th>señor</th><th>Dios</th><th>kaimen</th><th>hena</th></tr>
+    <tr class="special_row"><td>Sgmt</td><td> </td><td>lpu kaxetam -peche</td><td>Maria</td><td>Dios -ech</td><td>gracia -ta</td><td>topat -a -npen</td><td>señor</td><td>Dios</td><td>ka -imen</td><td>he -na</td></tr>
+    <tr class="special_row"><td>Glsa</td><td> </td><td>ya salvar 1.SG.IMP</td><td>Maria</td><td>Dios GEN</td><td>gracia ACC</td><td>estar lleno V.T 2.SG.IND</td><td>señor</td><td>Dios</td><td>2 ACCMP</td><td>estar 3.ind</td></tr>
   </table>
   <h4>Dios te salve María, de la gracia de Dios estás llena, el señor Dios está contigo (que salve yo a María)</h4>
 <h2></h2>

@@ -113,5 +113,5 @@ nlp = stanza.Pipeline("es")
 lista_tweets = []
 for tweet in tweets:
     doc = nlp(tweet)
-    lista_tweetx = [str(doc)]
+    print(doc)
 
