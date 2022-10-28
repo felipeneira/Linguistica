@@ -1,0 +1,2537 @@
+
+ 
+ <h1 lang="es">Mandamientos de la santa madre iglesia (no tocar)</h1>
+ 
+ 
+ 
+ <p class="itx_Words">
+ <span class="itx_Frame_Number" lang="es">1</span>
+ 
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">kuchach </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ku </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ku<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">1 </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">pro-form </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-cha </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-cha<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">pl </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">nomprt:Cualquier </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-ch </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-ch<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">gen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">nomprt:Cualquier </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">1-pl-gen <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">pro-form <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">pekne </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">petne </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">petne </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">madre </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">madre <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">santa </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">santa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">santa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">santa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">adj </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">santa <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">adj <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">iglesiaech </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">iglesia </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">iglesia </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">iglesia </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-ech </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-ch<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">gen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">nomprt:Cualquier </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">xam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">xam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">xang<span class="itx_VariantTypes">+unspec. var. of</span> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">ley </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ley <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">horok </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">horok </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">horok </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">cinco </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">cardnum </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">cinco <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">cardnum <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">mapamna </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">mapa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">mapa<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">ser </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">&lt;No está seguro&gt; </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">v.t </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Vocal temática </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-m </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-m<sub class="itx_Homograph">2</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">pl </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Cualquier </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-na </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-na </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">3.ind </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de sujeto indicaivo </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ser-acc-v.t-pl-3.ind <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">. </td>
+ </tr>
+ </table></span>
+ 
+ <div class="itx_Freeform_gls">De nuestra madre santa iglesia son cinco leyes.</div>
+ </p>
+ 
+ 
+ 
+ 
+ <p class="itx_Words">
+ <span class="itx_Frame_Number" lang="es">2</span>
+ 
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">neuyam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">neu </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">neu<sub class="itx_Homograph">2</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">antes </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">adv </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-yam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-yam<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">nmlz1 </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">???&gt;sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">antes-nmlz1 <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">adj <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">xam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">xam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">xang<span class="itx_VariantTypes">+unspec. var. of</span> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">ley </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ley <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">mana </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ma<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">ser </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">v.t </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Vocal temática </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-na </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-na </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">3.ind </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de sujeto indicaivo </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ser-v.t-3.ind <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">chu </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">chu </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">chu </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">todo </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">adv </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">todo <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">domingo </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">domingo </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">domingo </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">domingo </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">domingo <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">tektayo </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">tekta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">tekta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">día </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-ye </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-ye </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">dat </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus:Caso </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">día-dat <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">uñum tayam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">uñum </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">huñum </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">respetar </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-tayam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-tayang<sub class="itx_Homograph">2</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">purp </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v&gt;sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">respetar <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">fiesta ye </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">fiesta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">fiesta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">fiesta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-ye </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-ye </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">dat </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus:Caso </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">fiesta-dat <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">ache </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ache </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ache </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">y copulativa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">coordconn </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">y copulativa <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">coordconn <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">lka </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">lkaa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">lkaa<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">uno </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">cardnum </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">de uno en uno <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">adv <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">kliam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">kliam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">kliam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">entero </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">adj </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">entero <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">adj <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">misa </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">misa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">misa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">misa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">misa <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">zakatultaatma </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">zakatu </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">zakatu </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">escuchar </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">&lt;No está seguro&gt; </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">lta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">lta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">ser </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">v.t </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Vocal temática </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-tma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-etma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">imp.neg </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de sujeto imperativo </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">escuchar <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">. </td>
+ </tr>
+ </table></span>
+ 
+ <div class="itx_Freeform_gls">La primera ley es todos los días domingo y de fiesta debe ser oida cada misa entera. [El primero oír misa entera los domingos y fiestas de guardar.]</div>
+ </p>
+ 
+ 
+ 
+ 
+ <p class="itx_Words">
+ <span class="itx_Frame_Number" lang="es">3</span>
+ 
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">yemennayam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">yemen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">yemen<sub class="itx_Homograph">2</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">dos </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">cardnum </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-na </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-yam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-yam<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">nmlz1 </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">???&gt;sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">dos <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">xam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">xam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">xang<span class="itx_VariantTypes">+unspec. var. of</span> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">ley </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ley <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">mana </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ma<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">ser </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">v.t </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Vocal temática </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-na </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-na </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">3.ind </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de sujeto indicaivo </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ser-v.t-3.ind <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">tautat </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">tautat </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">tautat </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">año </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">año <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">lopi </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">lopi </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">lopi </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">cada </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">adv </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">cada <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">adv <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">konfesa </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">konfesa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">konfesion<span class="itx_VariantTypes">+unspec. var. of</span> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">confesión </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">confesión <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">iltaatma </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">lta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">lta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">ser </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-etma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-etma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">imp.neg </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de sujeto imperativo </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ser-imp.neg <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">xapia </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">xapia </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">xapia<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">muerte </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">muerte <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">ati </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ati </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ati </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">sí </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">&lt;No está seguro&gt; </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">sí <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">adv <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">, </td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">komulgaya </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">komulga </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">komulga </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">comulgar </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-ya </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">comulgar-sbjv <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">ati </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ati </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ati </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">sí </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">&lt;No está seguro&gt; </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">sí <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">adv <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">ache </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ache </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ache </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">y copulativa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">coordconn </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">y copulativa <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">coordconn <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">cha </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">cha </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">cha </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">otra vez </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">adv </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">otra vez <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">adv <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">lay </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">lay </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">lau </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">otra vez/ite </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">adv </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">otra vez/ite <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">adv <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">konfesaetma </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">konfesa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">konfesion<span class="itx_VariantTypes">+unspec. var. of</span> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">confesión </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-etma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-etma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">imp.neg </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de sujeto imperativo </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">confesar-imp.neg <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">. </td>
+ </tr>
+ </table></span>
+ 
+ <div class="itx_Freeform_gls">La segunda ley es realizar la confesión cada año y si muere y si debe comulgar. [El segundo confesar una vez en la cuaresma, o antes si ha o espera de haber peligro de muerte, o si ha de comulgar.]</div>
+ </p>
+ 
+ 
+ 
+ 
+ <p class="itx_Words">
+ <span class="itx_Frame_Number" lang="es">4</span>
+ 
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">ltunyam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ltun </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ltun </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">tres </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">cardnum </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-yam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-yam<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">nmlz1 </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">???&gt;sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">tres-nmlz11 <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">xam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">xam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">xang<span class="itx_VariantTypes">+unspec. var. of</span> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">ley </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ley <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">mana </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ma<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">ser </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">v.t </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Vocal temática </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-na </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-na </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">3.ind </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de sujeto indicaivo </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ser-v.t-3.ind <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">Jesu </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">Jesu </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">Jesu </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">Jesús </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">Jesús <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">kristo </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">kristo </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">kristo </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">Cristo </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">Cristo <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">anayma altichan </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">anayma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">anayma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">sanar </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-altichan </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-altichan </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">nmlz.act </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v&gt;ptcp </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">sanar-nmlz.pas <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">ptcp <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">paskuaye </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">paskua </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">paskua </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">pascua </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-ye </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-ye </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">dat </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus:Caso </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">pascua-dat <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">komulgaetma </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">komulga </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">komulga </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">comulgar </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-etma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-etma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">imp.neg </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de sujeto imperativo </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">comulgar-imp.neg <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">. </td>
+ </tr>
+ </table></span>
+ 
+ <div class="itx_Freeform_gls">La tercera ley es (de) comulgar para la pascua (que es) la sanación/resurrección de Jesucristo. [El tercero, comulgar de necesidad de pascua florida.]</div>
+ </p>
+ 
+ 
+ 
+ 
+ <p class="itx_Words">
+ <span class="itx_Frame_Number" lang="es">5</span>
+ 
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">tutyam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">tut </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">tut </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">cuatro </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">cardnum </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-yam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-yam<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">nmlz1 </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">???&gt;sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">cuatro-nmlz1 <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">xam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">xam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">xang<span class="itx_VariantTypes">+unspec. var. of</span> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">ley </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ley <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">mana </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ma<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">ser </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">v.t </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Vocal temática </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-na </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-na </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">3.ind </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de sujeto indicaivo </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ser-v.t-3.ind <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">, </td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">kuchach </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ku </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ku<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">1 </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">pro-form </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-cha </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-cha<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">pl </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">nomprt:Cualquier </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-ch </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-ch<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">gen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">nomprt:Cualquier </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">1.pl.gen <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">pro-form <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">pekne </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">petne </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">petne </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">madre </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">madre <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">santa </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">santa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">santa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">santa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">adj </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">santa <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">adj <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">iglesia </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">iglesia </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">iglesia </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">iglesia </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">iglesia <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">ayunaetayam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ayuna </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ayuna </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">ayuno </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-eta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-eta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">cont.acc </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Cualquier </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-yam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-yam<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">nmlz1 </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">???&gt;sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ayunar-cont.acc-nmlz11 <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">tekta </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">tekta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">tekta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">día </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">hoy <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">peltaypia </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">pe- </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">pu-<span class="itx_VariantTypes">+unspec. var. of</span> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">3.obj </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de objeto </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ltay </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ltaye </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">levantar </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">pia </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">pia </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">padre </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">3.obj-ser-padre <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">ayunaetma </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ayuna </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ayuna </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">ayuno </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-etma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-etma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">imp.neg </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de sujeto imperativo </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ayuna-imp.neg <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">. </td>
+ </tr>
+ </table></span>
+ 
+ <div class="itx_Freeform_gls">La cuarta ley es ayunar cuando nuestra madre santa iglesia nos lo ordene el padre. [El cuarto, ayunar cuando lo manda la santa madre iglesia.]</div>
+ </p>
+ 
+ 
+ 
+ 
+ <p class="itx_Words">
+ <span class="itx_Frame_Number" lang="es">6</span>
+ 
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">orok yam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">horok </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">horok </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">cinco </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">cardnum </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-yam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-yam<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">nmlz1 </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">???&gt;sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">cinco-nmlz1 <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">xam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">xam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">xang<span class="itx_VariantTypes">+unspec. var. of</span> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">ley </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ley <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">mana </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ma<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">ser </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-a </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">v.t </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Vocal temática </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-na </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-na </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">3.ind </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de sujeto indicaivo </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">ser-v.t-3.ind <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">, </td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">diezmos </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">diezmos </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">diezmos </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">diezmos </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">diezmos <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">primicias </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">primicias </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">primicias </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">primicias </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">primicias <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">imen </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">imen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">imen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">y copulativa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">coordconn </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">y copulativa <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">coordconn <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">toltomltaatma </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">toltom </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">toltom </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">pagar </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">lta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">lta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">ser </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-etma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-etma </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">imp.neg </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de sujeto imperativo </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">pagar-ser-imp.neg <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">. </td>
+ </tr>
+ </table></span>
+ 
+ <div class="itx_Freeform_gls">La quinta ley es pagar (cuando se deba) diezmos y primicias. [El quinto, pagar diezmos y primicias.]</div>
+ </p>
+ 
+ 
+ 
+ 
+ <p class="itx_Words">
+ <span class="itx_Frame_Number" lang="es">7</span>
+ 
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">amen </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">amen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">amen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">amen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">amen <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">. </td>
+ </tr>
+ </table></span>
+ 
+ <div class="itx_Freeform_gls">Amén.</div>
+ </p>
+ 
+ 
+ 
+ 
+ 

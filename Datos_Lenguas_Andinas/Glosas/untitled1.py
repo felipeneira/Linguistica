@@ -36,14 +36,17 @@ def glosa_automatica(Y):
             glosa1 += re.findall('td class="itx_morph_gls">([1-9a-zA-Z\-\.áéíóú]*)\s*<\/td>',linea)
         if re.findall('td class="itx_txt">([\da-zA-Záéíóú]*)\s*</td>', linea):##este if busca el original sin segmentar
             original += re.findall('td class="itx_txt">([\da-zA-Záéíóú]*)\s*</td>',linea)
+            cuenta = cuenta + 1
+            
+            
             segmento += [remover_puntuacion1(str(segmento1))]
             segmento1 = []
             glosa += [remover_puntuacion1(str(glosa1))]
             glosa1=[]
 
             continue
-        if re.findall('<div class="itx_Freeform_gls">([1-9a-zA-Z\(\)áéíóú\,\.\s]*)\s*</div>', linea):##este if busca el original sin segmentar
-            traduccion += re.findall('<div class="itx_Freeform_gls">([1-9a-zA-Z\(\)áéíóú\,\.\s]*)\s*</div>',linea)
+        if re.findall('<div class="itx_Freeform_gls">([1-9a-zA-Z\(\)áéíóú\/\,\-\?\¿\[\]\.\s]*)\s*</div>', linea):##este if busca el original sin segmentar
+            traduccion += re.findall('<div class="itx_Freeform_gls">([1-9a-zA-Z\/\-\?\¿\[\]\(\)áéíóú\,\.\s]*)\s*</div>',linea)
             glosa.pop(0)
             glosa.append("CAMBIAR")
             segmento.pop(0)
@@ -88,7 +91,8 @@ def glosa_automatica(Y):
             string1 +="  </table>\n"
             string1 +="  "+traduccion+"\n"
             break
-    return print(string1)
-
-
-glosa_automatica("htm_txt/AveMaria.txt")
+    return string1
+        
+texto_final = ""
+print(glosa_automatica("htm_txt/Allentiac/HTML/catecismo.txt"))
+texto_final += glosa_automatica("htm_txt/Allentiac/HTML/catecismo.txt")

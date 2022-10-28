@@ -1,0 +1,774 @@
+
+ 
+ 
+ 
+ <h1 lang="es">Persignar (no tocar)</h1>
+ 
+ 
+ 
+ <p class="itx_Words">
+ <span class="itx_Frame_Number" lang="es">1</span>
+ 
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">Santa </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">santa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">santa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">santa </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">adj </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">santa <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">adj <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">kruz </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">kruz </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">kruz </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">cruz </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">cruz <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">ka </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ka </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ka </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">2 </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">pro-form </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">2 <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">pro-form <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">haniam </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">haniam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">haniam </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">señal </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">señal <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">ta </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-ta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-ta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">abl </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus:Caso </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">abl <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">, </td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">kuchach </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ku </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ku<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">1 </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">pro-form </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-cha </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-cha<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">pl </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">nomprt:Cualquier </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-ch </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-ch<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">gen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">nomprt:Cualquier </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">1.pl.gen <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">pro-form <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">ayna </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ayna </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ayna </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">enemigo </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">enemigo <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">chaxta </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">cha </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">cha </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">otra vez </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">adv </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-xta </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">abl <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">kextaynemte </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ke- </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ke- </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">1.obj </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de objeto </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">x- </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">x- </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">pl.obj </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Número objeto </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">taynem </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">taynem </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">librar a otro </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-te </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-te </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">3.sg.imp </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v:Flexión de sujeto imperativo </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">1.obj-pl.obj-librar-imp <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">kuchach </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ku </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ku<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">1 </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">pro-form </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-cha </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-cha<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">pl </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">nomprt:Cualquier </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-ch </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-ch<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">gen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">nomprt:Cualquier </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">1.pl.gen <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">pro-form <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">señor </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">señor </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">señor </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">señor </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">señor <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">Dios </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">Dios </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">Dios </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">Dios </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">Dios <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">. </td>
+ </tr>
+ </table></span>
+ 
+ <div class="itx_Freeform_gls">Por señal (de) tu Santa Cruz, de nuestros enemigos líbranos señor Dios nuestro. (chaxta &gt; aynachanem = deudores)</div>
+ </p>
+ 
+ 
+ 
+ 
+ <p class="itx_Words">
+ <span class="itx_Frame_Number" lang="es">2</span>
+ 
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">Pia </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">pia </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">pia </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">padre </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">padre <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">, </td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">llawe </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">llawe </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">llawe </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">hijo </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">hijo <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">, </td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">Espíritu </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">espiritu </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">espiritu </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">espíritu </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">espíritu <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">Santo </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">santo </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">santo </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">santo </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">adj </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">santo <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">adj <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">, </td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">epchach </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">ep </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">ep </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">3 </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">pro-form </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-cha </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-cha<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">pl </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">nomprt:Cualquier </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-ch </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-ch<sub class="itx_Homograph">1</sub> </td>
+ </tr>
+ 
+ <tr>
+ <td class="itx_morph_gls">gen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">nomprt:Cualquier </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">3.pl.gen <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">pro-form <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">henta </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">hene </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">hene </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">nombre </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus </td>
+ </tr>
+ </table></span>
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">-ta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">-ta </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">abl </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">sus:Caso </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">nombre-abl <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">sus <br></td>
+ </tr>
+ </table></span>
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_punct">. </td>
+ </tr>
+ </table></span>
+ 
+ <div class="itx_Freeform_gls">Padre, hijo, espíritu santo, por el nombre de ellos.</div>
+ </p>
+ 
+ 
+ 
+ 
+ <p class="itx_Words">
+ <span class="itx_Frame_Number" lang="es">3</span>
+ 
+ <span class="itx_Frame_Word"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_txt">Amen </td>
+ </tr>
+ <tr>
+ <td class="itx_morphemes">
+ <span class="itx_morph"><table cellpadding="0" cellspacing="0">
+ <tr>
+ <td class="itx_morph_txt">amen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_cf">amen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_gls">amen </td>
+ </tr>
+ <tr>
+ <td class="itx_morph_msa">v </td>
+ </tr>
+ </table></span>
+ </td>
+ </tr>
+ <tr>
+ <td class="itx_gls">amen <br></td>
+ </tr>
+ <tr>
+ <td class="itx_pos">v <br></td>
+ </tr>
+ </table></span>
+ 
+ <div class="itx_Freeform_gls">Amén</div>
+ </p>
+ 
+ 
+ 
+ 
+ 
+ 
