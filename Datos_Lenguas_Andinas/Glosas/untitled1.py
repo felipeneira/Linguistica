@@ -28,15 +28,13 @@ def glosa_automatica(Y):
     glosa1= []
     original = []
     traduccion = []
-    cuenta = 0
     for linea in lista:   
-        if re.findall('td class="itx_morph_txt">([1-9a-zA-Záéíóú\-]*)\s</td>',linea):##Este busca el valor segmentado
-            segmento1 += re.findall('td class="itx_morph_txt">([1-9a-zA-Záéíóú\.\-]*)\s*</td>', linea)
-        if re.findall('td class="itx_morph_gls">([1-9a-zA-Z\-\.áéíóú]*)\s<\/td>',linea):##Este busca la glosa
-            glosa1 += re.findall('td class="itx_morph_gls">([1-9a-zA-Z\-\.áéíóú]*)\s*<\/td>',linea)
-        if re.findall('td class="itx_txt">([\da-zA-Záéíóú]*)\s*</td>', linea):##este if busca el original sin segmentar
-            original += re.findall('td class="itx_txt">([\da-zA-Záéíóú]*)\s*</td>',linea)
-            cuenta = cuenta + 1
+        if re.findall('td class="itx_morph_txt">([1-9a-zA-Záéíóú\-ñ]*)\s</td>',linea):##Este busca el valor segmentado
+            segmento1 += re.findall('td class="itx_morph_txt">([1-9ña-zA-Záéíóú\.\-]*)\s*</td>', linea)
+        if re.findall('td class="itx_morph_gls">([1-9a-zA-Z\-\.áéíóúñ]*)\s<\/td>',linea):##Este busca la glosa
+            glosa1 += re.findall('td class="itx_morph_gls">([1-9a-zñA-Zñ\-\.áéíóú]*)\s*<\/td>',linea)
+        if re.findall('td class="itx_txt">([\da-zA-Záéíóúñ]*)\s*</td>', linea):##este if busca el original sin segmentar
+            original += re.findall('td class="itx_txt">([\da-zA-Záéíóúñ]*)\s*</td>',linea)
             
             
             segmento += [remover_puntuacion1(str(segmento1))]
@@ -45,8 +43,8 @@ def glosa_automatica(Y):
             glosa1=[]
 
             continue
-        if re.findall('<div class="itx_Freeform_gls">([1-9a-zA-Z\(\)áéíóú\/\,\-\?\¿\[\]\.\s]*)\s*</div>', linea):##este if busca el original sin segmentar
-            traduccion += re.findall('<div class="itx_Freeform_gls">([1-9a-zA-Z\/\-\?\¿\[\]\(\)áéíóú\,\.\s]*)\s*</div>',linea)
+        if re.findall('<div class="itx_Freeform_gls">([1-9a-zA-Z\(\)ñáéíóú\/\,\-\?\¿\[\]\.\s]*)\s*</div>', linea):##este if busca el original sin segmentar
+            traduccion += re.findall('<div class="itx_Freeform_gls">([ñ1-9a-zA-Z\/\-\?\¿\[\]\(\)áéíóú\,\.\s]*)\s*</div>',linea)
             glosa.pop(0)
             glosa.append("CAMBIAR")
             segmento.pop(0)
@@ -94,5 +92,5 @@ def glosa_automatica(Y):
     return string1
         
 texto_final = ""
-print(glosa_automatica("htm_txt/Allentiac/HTML/catecismo.txt"))
-texto_final += glosa_automatica("htm_txt/Allentiac/HTML/catecismo.txt")
+print(glosa_automatica("htm_txt/Allentiac/Txt/catecismo.txt"))
+texto_final += glosa_automatica("htm_txt/Allentiac/Txt/catecismo.txt")
