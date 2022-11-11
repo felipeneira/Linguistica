@@ -92,5 +92,5 @@ def glosa_automatica(Y):
     return string1
         
 texto_final = ""
-print(glosa_automatica("htm_txt/Allentiac/Txt/catecismo.txt"))
-texto_final += glosa_automatica("htm_txt/Allentiac/Txt/catecismo.txt")
+print(glosa_automatica("htm_txt/Allentiac/Txt/Credo.txt"))
+texto_final += glosa_automatica("htm_txt/Allentiac/Txt/Credo.txt")
