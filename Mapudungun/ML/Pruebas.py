@@ -93,7 +93,7 @@ palabras = [item.replace('-','') for item in palabras]
 segmentacion = df["segmentacion"].to_list()
 segmentacion = [remover_puntuacion(str(item)) for item in segmentacion]
 segmentacion = [item.replace('-',' ') for item in segmentacion]
-AF1 = dict(zip(palabras, segmentacion))
+AF1 = dict(zip(palabras, segmentacion))s
 # =============================================================================
 # pasar datos al modelo requerido por morfessor
 # =============================================================================
@@ -123,4 +123,5 @@ model_tokens.train_batch()
 
 prueba = list(model_tokens.get_segmentations())
 
-print(model_tokens.viterbi_segment(""))
+print(model_tokens.viterbi_segment(input()))
+ 
