@@ -14,6 +14,7 @@ import pandas as pd
 import morfessor
 io = morfessor.MorfessorIO(encoding="utf-8",construction_separator=' ',comment_start= '#', compound_separator="\\s", atom_separator=None, lowercase= False)
 cost = morfessor.baseline.AnnotatedCorpusEncoding("utf-8")
+
 # =============================================================================
 # defs limpieza
 # =============================================================================
@@ -84,7 +85,7 @@ for item in f:
 # =============================================================================
 # Datos limpios
 # =============================================================================
-df = pd.read_csv("NO_BORRAR.csv")
+df = pd.read_csv("NO_BORRAR.csv",sep = ";")
 df = df[["palabra","segmentacion"]]
 palabras = df["palabra"].to_list()
 palabras = [remover_puntuacion(str(item)) for item in palabras]
@@ -96,9 +97,9 @@ AF1 = dict(zip(palabras, segmentacion))
 # =============================================================================
 # pasar datos al modelo requerido por morfessor
 # =============================================================================
-# with open("AF.txt", "w") as text_file:
-#    for i,j in AF1.items():
-#        text_file.write(i + " " + j + "\n")
+#with open("AF2.txt", "w") as text_file:
+#   for i,j in AF1.items():
+#       text_file.write(i + " " + j + "\n")
 # =============================================================================
 # eliminar variables
 # =============================================================================
@@ -109,38 +110,26 @@ del separacion, item, lista_files
 # =============================================================================
 # =============================================================================
 # 
-# train_data1 = list(io.read_corpus_file('AF.txt'))#palabras+segmentos
+train_data1 = list(io.read_corpus_file('AF.txt'))#palabras+segmentos
 # TCF = list(io.read_corpus_file("WLF.txt"))#palabras texto plano
 # WLF = io.read_segmentation_file("WLF.txt", has_counts=False)#lista palabras
 # 
 # 
-# model_tokens = morfessor.BaselineModel()
+ model_tokens = morfessor.BaselineModel()
 # 
 # 
 # model_tokens = morfessor.BaselineModel()
 # 
-# model_tokens.load_data(train_data1)
-# model_tokens.train_batch()
+ model_tokens.load_data(train_data1)
+ model_tokens.train_batch()
 # 
-# prueba = list(model_tokens.get_segmentations())
+prueba = list(model_tokens.get_segmentations())
 # 
 # print(model_tokens.viterbi_segment(input("Escribe la palabra: ")))
-#  
-# =============================================================================
-# =============================================================================
-# Corpus sintético
-# =============================================================================
-AF2 = {k: v.split(" ") for k, v in AF1.items()}
-mapu_construcciones = {"1": {k:v for k,v in AF2.items() if len(v) == 2},
-                       "2":{k:v for k,v in AF2.items() if len(v) == 3},
-                       "3":{k:v for k,v in AF2.items() if len(v) == 4},
-                       "4":{k:v for k,v in AF2.items() if len(v) == 5}
-                       }
 
-terminaciones = ["n","ymi","ymün","nge","y","ymü"]
-acordaniekefuy = ['acorda', 'nie', 'ke', 'fu', 'y']
+ev = morfessor.MorfessorEvaluation(AF1)
+WSR = morfessor.evaluation.WilcoxonSignedRank()
+resultados = [ev.evaluate_model(model_tokens)]
+r = WSR.significance_test(resultados)
 
-nuevos = []
-for terminacion in terminaciones:
-  nuevo = acordaniekefuy[:-1] + [terminacion]
-  nuevos.append(nuevo) 
+# =============================================================================
