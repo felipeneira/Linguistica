@@ -110,18 +110,19 @@ del separacion, item, lista_files
 # =============================================================================
 # =============================================================================
 # 
-train_data1 = list(io.read_corpus_file('AF.txt'))#palabras+segmentos
+train_data1 = io.read_annotations_file('AF.txt', construction_separator=' ', analysis_sep=',')#palabras+segmentos
+train_data = [(i,j) for i,j in train_data1.items()]
 # TCF = list(io.read_corpus_file("WLF.txt"))#palabras texto plano
 # WLF = io.read_segmentation_file("WLF.txt", has_counts=False)#lista palabras
 # 
 # 
- model_tokens = morfessor.BaselineModel()
+model_tokens = morfessor.BaselineModel()
 # 
 # 
 # model_tokens = morfessor.BaselineModel()
 # 
- model_tokens.load_data(train_data1)
- model_tokens.train_batch()
+model_tokens.load_segmentations()
+model_tokens.train_batch('AF2.txt')
 # 
 prueba = list(model_tokens.get_segmentations())
 # 
