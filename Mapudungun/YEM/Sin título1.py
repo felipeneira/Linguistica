@@ -11,7 +11,7 @@ import re
 import glob
 ## se define que lista_files es una lista con los nombres de los archivos 
 ##los cuales están seleccionados como los txt que se encuentran dentro de primer periodo
-lista_files = glob.glob('entrevistas_hasler/*.txt')
+lista_files = glob.glob('Textos/entrevistas_hasler/*.txt')
 ##se define un diccionario donde en los keys se encuentran los nombres y en los values el texto
 corpus = {}
 ##por cada archivo en la lista de archivos
@@ -81,7 +81,7 @@ for oracion in vacio:
 ##Tomamos el string_corpus_misional y limpiamos una serie de impurezas típicas de la escritura en mapudungun y el trabajo con txt
 ##Esto lo hacemos para que las redes y los resultados del contexto sean más limpios y no dependan de la segmentación arbitraria por oraciones propuesta por el autor
 ##En primer lugar eliminamos los saltos de página marcados con "\n" y los marcados con "\t"
-string_corpus_contextos = str(corpus_preparado).replace('\n', ' ')
+pastring_corpus_contextos = str(corpus_preparado).replace('\n', ' ')
 corpus_preparado = str(corpus_preparado).replace('\t', ' ')
 ##luego eliminamos [r], que simboliza la duda del escritor sobre la existencia de una "r" en esa posición
 corpus_preparado = str(corpus_preparado).replace('[r]', 'r')
