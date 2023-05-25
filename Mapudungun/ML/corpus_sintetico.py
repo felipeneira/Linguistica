@@ -37,7 +37,7 @@ def remover_numeros(k):
 # =============================================================================
 # 
 # =============================================================================
-df = pd.read_csv("NO_BORRAR.csv", sep=";")
+df = pd.read_csv("Morfessor/NO_BORRAR.csv", sep=";")
 df = df[["palabra","segmentacion"]]
 palabras = df["palabra"].to_list()
 palabras = [remover_puntuacion(str(item)) for item in palabras]
@@ -222,7 +222,7 @@ del inversas_invertidas, transitivas, verbos_negados, verbos_nuevos, verbos_segm
 # AF final (descomentar solo para ingresar las palabras)
 # =============================================================================
 
-corpus_natural = pd.read_csv("NO_BORRAR.csv",sep = ";")
+corpus_natural = pd.read_csv("Morfessor/NO_BORRAR.csv",sep = ";")
 corpus_natural = corpus_natural[["palabra","segmentacion"]]
 palabras_natural = corpus_natural["palabra"].to_list()
 palabras_natural = [remover_puntuacion(str(item)) for item in palabras_natural]
@@ -243,7 +243,7 @@ segmentacion_sintetico = [item.replace('-',' ') for item in segmentacion_sinteti
 AF2 = dict(zip(palabras_sintetico, segmentacion_sintetico))
 AF1.update(AF2)
 
-#with open("AF2.txt", "w") as text_file:
+#with open(Morfessor/"AF2.txt", "w") as text_file:
 #   for i,j in AF1.items():
 #       text_file.write(i + " " + j + "\n")
 # =============================================================================
