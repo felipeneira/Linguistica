@@ -1,0 +1,9 @@
+
+
+flask==2.2.2
+flask-cors==3.0.10
+joblib==1.2.0
+pandas==1.4.3
+pyopenssl==20.0.1
+setuptools
+wheel

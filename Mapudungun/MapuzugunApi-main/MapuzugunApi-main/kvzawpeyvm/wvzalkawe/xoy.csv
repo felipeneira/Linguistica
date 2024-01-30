@@ -1,0 +1,72 @@
+"sI0","konv{0,1}", False,1,False, "entrar/empezar" ,True,1
+"sI1","n{0,1}entu", False,1,False, "sacar",True,1
+"sI2","n{0,1}tuku", False,1,False, "poner/con",True,1
+"sI3","[nñ]{0,1}ma", False,1,False, "afectar algo de alguien/algo / 'quita'/ ''caerle algo'",True,1
+"sI30",ye, False,1,False, "llevar; constante",True,1
+"sI6","v{0,1}l", False,1,False,"hacer hacer algo, hacerle algo ",True,2
+"sI7",tu, False,1,False, "verbalizador; comer en caso de comidas; tocar en caso de instrumentos",True,3
+"sI8",ka, False,1,False, "acción que se repite o intensa;sirve para  generar verbos Ej: nütxam a  nütxamkan",True,3
+"sI9","ni{0,1}e", False,1,False, "tener; también sirve como el 'presente o el estar' para verbos que afectan otras personas/cosas",True,4
+"sI9","n[iy][iy]{0,1}", False,1,False, "tener; tamién sirve como el 'presente o el estar' para verbos que afectan otras personas/cosas",True,4
+"sI10","kvn[ou]", False,1,False, "dejar",True,4
+"sI11","u{0,1}w", False,1,False, "hacer algo a si mismo",True,5
+"sI12","kiy{0,1}aw", False,1,False, "andar",True,6
+"sI12","[yi]aw", False,1,False, "andar",True,6
+"sI15","kvtiy{0,1}e", False,1,False, "con intensidad o vehemencia",True,6
+"sI15","tiy{0,1}e", False,1,False, "con intensidad o vehemencia",True,6
+"sI6","v{0,1}l", False,1,False, "hacer 'hacer algo' a otro; hacerle algo ",True,7
+"sI17","kvlew", False,1,False, "quedar",True,8
+"sI21","kvle", False,1,False, "estar",True,8
+"sI19","meke{0,1}", False,1,False, "estar haciendo algo / ocupado en ",True,8
+"sI17","lew", False,1,False, "quedar",True,8
+"sI21","le", False,1,False, "estar",True,8
+"sI21","l(?=[iy][iy]{0,1})", False,1,False, "estar",True,8
+"sI22","falvñma", False,1,False, "encargo o deber en hablando de un objeto de alguien",True,9
+"sI23","falel", False,1,False, "se considera en un deber peroen beneficio de alguien*",True,9
+"sI24","fal", False,1,False, "deber de hacer algo| encargar | simular ",True,9
+"sI25","v{0,1}ñma", False,1,False, "afectar algo de alguien/algo / 'quita'/ 'caerle algo'",True,9
+"sI26","v{0,1}ñmu", False,1,False, "hacer aglo en beneficio propio",True,9
+"sI27","el", False,1,False, "agrega una persona al verbo 'en su beneficio'",True,9
+"sI75","yekvme", False,1,False, "ir haciendo la acción",True,10
+"sI76","yekvpa", False,1,False, "venir haciendo",True,10
+"sI30","ye", False,1,False, "llevar; constante",True,10
+"sI33","ge", False,1,False, "la acción es sobre la persona del verbo 'me dijeron' 'te escucharon'",True,11
+"sI33","g(?=[iy][iy]{0,1})", False,1,False, "la acción es sobre la persona del verbo 'me dijeron' 'te escucharon'",True,11
+"sI11","u{0,1}w", False,1,False, "hacerse algo a si mismo; transformarse en algo",True,11
+"sI35","m[uo]", False,1,False, "acciones de tu o uds a nosotros o yo [la terminación indica sobre quien es la acción]",True,11
+"sI36","femuw", False,1,False, "<*metuno*>",True,12
+"sI37","femge", False,1,False, "<*metuno*>",True,12
+"sI38","rumeñma", False,1,False, "<*metuno*>",True,12
+"sI39","faluwkvle", False,1,False, "<*metuno*>",True,12
+"sI40","faluw", False,1,False, "fingirse",True,12
+"sI41","fem", False,1,False, "hacer la acción rapido",True,12
+"sI42","rume", False,1,False, "acción repentina",True,12
+"sI43","kantu", False,1,False, "de mentira / de practica",True,12
+"sI77","v{0,1}[ir]pa", False,1,False, "accion mientras se viene",True,13
+"sI50","pa", False,1,False, "venir o llegar a hacer algo ",True,13
+"sI78","v{0,1}rp[uo]", False,1,False, "acción mientras se llega a cierto punto",True,13
+"sI51","p[uo]", False,1,False, "llegar a hacer algo ",True,13
+"sI52","we", False,1,False, "indica lo que queda. Si se niega en la misma palabra indica 'ya no'",True,13
+"sI53","me", False,1,False, "ir a hacer la acción",True,13
+"sI7","tu", False,1,False, "verbalizador; comer en caso de comidas; tocar en caso de instrumentos; etc. Puede indicar cambios",True,14
+"sI8","ka", False,1,False, "acción que se repite o intensa; sirve para  generar verbos  Ej: nütxam a  nütxamkan",True,14
+"sI56","ke", False,1,False, "habitualmente",True,15
+"sI56","k(?=[iy])", False,1,False, "habitualmente",True,15
+"sI57","pe", False,1,False, "'pasado' habia; hace poco; está",True,15
+"sI58","p(?=[iy])", False,1,False, "'pasado' habia; hace poco; está",True,15
+"sI59","wye", False,1,False, "indica que algo ya se hizo",True,15
+"sI60","petu", False,1,False, "'pasado no tan pasado' habia; hace poco; está indicando un cambio",True,15
+"sI61","ketu", False,1,False, "habitual 'nuevo hábito'",True,15
+"sI62","rk(?=[iy])", False,1,False, "para hablar con sorpresa del asunto; o como diciendo 'dicen que'(porque no es testigo directo o lo sabe 100%)",True,16
+"sI63","ik(?=[iy])", False,1,False,  "para hablar con sorpresa del asunto; o como diciendo 'dicen que'(porque no es testigo directo o lo sabe 100%)",True,16
+"sI64","v{0,1}rke", False,1,False,  "para hablar con sorpresa del asunto; o como diciendo 'dicen que'(porque no es testigo directo o lo sabe 100%)",True,16
+"sI65","ike", False,1,False,  "para hablar con sorpresa del asunto; o como diciendo 'dicen que'(porque no es testigo directo o lo sabe 100%)",True,16
+"sI66","la", False,3,False, "negación modo 'normal'(indicativo)",True,17
+"sI67","k[ei]l", False,4,False, "negación modo 'órdenes'(imperativo) o también mezclado con condicional (si es que)",True,17
+"sI68","je", False,1,False, "indica mucha seguridad en lo que se dice",True,17
+"sI69","n[uo]", False,2,False, "negación para lo condicional y otros modos (el; ael; etew;etc)",True,17
+"sI70","y{0,1}a", False,1,False, "futuro",True,18
+"sI71","fu", False,1,False, "pasado o algo que ya no sigue siendo válido ahora",True,18
+"sI72","f(?=[e])", False,1,False, "pasado o algo que ya no sigue siendo válido ahora (Viene de FU)",True,18
+"sI73","fi", False,1,False, "indica un objeto al que se le hace la acción (Lo; La; Le)[si es terminación indica que lo hace una 3ra persona( el/ella 'lo'))]",True,18
+"sI79","kifil", False,4,False,"negación en modo 'órdenes' (imperativo) con el FI incluido",True,18
