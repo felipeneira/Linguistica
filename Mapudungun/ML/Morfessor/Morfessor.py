@@ -3,9 +3,6 @@
 # =============================================================================
 # librerias
 # =============================================================================
-import glob
-import re
-import string
 import pandas as pd
 
 # =============================================================================
@@ -17,15 +14,7 @@ cost = morfessor.baseline.AnnotatedCorpusEncoding("utf-8")
 # =============================================================================
 # Datos limpios
 # =============================================================================
-df = pd.read_csv("NO_BORRAR.csv",sep = ";")
-df = df[["palabra","segmentacion"]]
-palabras = df["palabra"].to_list()
-palabras = [remover_puntuacion(str(item)) for item in palabras]
-palabras = [item.replace('-','') for item in palabras]
-segmentacion = df["segmentacion"].to_list()
-segmentacion = [remover_puntuacion(str(item)) for item in segmentacion]
-segmentacion = [item.replace('-',' ') for item in segmentacion]
-AF1 = dict(zip(palabras, segmentacion))
+df = pd.read_csv("C:/Users/fneir/Documents/GitHub/Linguistica/Mapudungun/ML/Datos/datos_revisados.csv",sep = ";")
 # =============================================================================
 # pasar datos al modelo requerido por morfessor
 # =============================================================================

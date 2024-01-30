@@ -1,7 +1,7 @@
 from Limpieza import Limpieza
 import re
 import glob
-# import pandas as pd
+import pandas as pd
 # =============================================================================
 # Apertura
 # =============================================================================
@@ -40,9 +40,9 @@ del corpus
 # =============================================================================
 # Planilla
 # =============================================================================
-# lexema = [item.replace('-','') for item in set(glosa)]
-# planilla = pd.DataFrame(zip(lexema, set(glosa)), columns=["Palabra", "Glosa"])
-# planilla.to_csv("Datos/datos_revisados.csv", sep=";")
+lexema = [item.replace('-','') for item in set(glosa)]
+planilla = pd.DataFrame(zip(lexema, set(glosa)), columns=["Palabra", "Glosa"])
+planilla.to_csv("Datos/datos_revisados.csv", sep=";")
 # =============================================================================
 # Borrar datos
 # =============================================================================}
