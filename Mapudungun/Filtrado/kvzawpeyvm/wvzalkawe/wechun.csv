@@ -1,0 +1,83 @@
+dI0,"[yi][\s]+egvn$", True,3,False, "ellxs (mas de 2 personas) ",True,100
+dI0,"[iy]gvn$", True,3,False, "ellxs (mas de 2 personas) ",True,100
+dI1,"[yi][\s]+egu$|[iy]gu$", True,3,False, "ellxs ( 2  personas)",True,100
+dI1,"[iy]gu$", True,3,False, "ellxs ( 2  personas)",True,100
+dI2,"i{0,1}y{0,1}iñ$", True,3,False, "Nosotros (mas de 2 personas)",True,100
+dI3,"[iy]mvn$", True,3,False, "Ustedes (mas de 2 personas)",True,100
+dI4,"[iy]mu$", True,3,False, "Ustedes (2 personas)",True,100
+dI5,"[yi]mi$", True,3,False, "Tú",True,100
+dI6,"i{0,1}yu$", True,3,False, "Nosotros (2 personas)",True,100
+dI7,"v{0,1}n$", True,3,False, "Yo",True,100
+dI8,"[yi]$", True,3,False, "El/Ella  ",True,100
+tI0,"ey{0,1}iñmew$|ey{0,1}iñmeu$|ey{0,1}iñmu$|ey{0,1}iñmo$", True,3,False, "de el/ella/ellxs a nosotros mas de 2 'nos'",True,100
+tI1,"eymvnmew$|eymvnmeu$|eymvnmu$|eymvnmo$", True,3,False, "de el/ella/ellxs a ustedes mas de 2 'les'",True,100
+tI2,"eymumew$|eymumeu$|eymumu$|eymumo$", True,3,False, "de el/ella/ellxs a ustedes 2 'les' ",True,100
+tI3,"eyumew$|eyumeu$|eyumu$|eyumo$", True,3,False, "de el/ella/ellxs a nosotros 2 'nos' ",True,100
+tI4,"enew$|eneu$|enu$|eno$", True,3,False, "de el/ella/ellxs a mi 'me'",True,100
+tI5,"eymew$|eymu$|eymo$", True,3,False, "de el/ella/ellxs a ti 'te'",True,100
+tI6,"eymvn$", True,3,False, "a ustedes 'les'",True,100
+tI7,"eyew$|eyu$|eyo$", True,3,False, "de el/ella/ellxs a el/ella/ellxs 'les'",True,100
+tI8,"eymu$", True,3,False, "a ustedes 2 'les'",True,100
+tI9,"eymi$", True,3,False, "a ti 'te'",True,100
+tI10,"fiñ$", True,3,False, "de yo a el/ella/ellxs 'les'",True,100
+tI15,"fimu$", True,3,False, "de Ustedes 2  a el/ella/ellxs 'les'",True,100
+tI13,"fimi$", True,3,False, "de Tú a el/ella/ellxs 'les'",True,100
+tI14,"fimvn$", True,3,False, "de Ustedes a el/ella/ellxs 'les'",True,100
+tI11,"eyu$", True,3,False, "yo a ti 'te'",True,100
+tI12,"en$", True,3,False, "tu a mi 'me'[también se podría entender como una orden]",True,100
+dC0,"li[y\-]{0,1}iñ$", True,2,False, "Si/cuando(futuro) nosotros mas de 2 ...",True,100
+dC1,"le[\s]*egvn$", True,2,False, "Si/cuando(futuro) ellxs mas de 2 ...",True,100
+dC2,"v{0,1}lmvn$", True,2,False, "Si/cuando(futuro) ustedes mas de 2",True,100
+dC3,"le[\s]*egu$", True,2,False, "Si/cuando(futuro) ellxs 2",True,100
+dC4,"v{0,1}lmu$", True,2,False, "Si/cuando(futuro) ustedes 2",True,100
+dC5,"v{0,1}lmi$", True,2,False, "Si/cuando(futuro) tu ",True,100
+dC6,"liyu$", True,2,False, "Si/cuando(futuro) nosotros 2",True,100
+dC7,"le$", True,2,False, "Si/cuando(futuro) el/ella",True,100
+dC8,"li$", True,2,False, "si yo",True,100
+tC0,"eliy{0,1}iñmew$|eliy{0,1}iñmeu$|eliy{0,1}iñmu$|eliy{0,1}iñmo$", True,2,False,  "de el/ella/ellxs a nosotros mas de 2 'si nos'",True,100
+tC1,"eliyumew$|eliyumeu$|eliyumu$|eliyumo]$", True,2,False, "de el/ella/ellxs a nosotros 2 'si nos'",True,100
+tC2,"elmvnmew$|elmvnmeu$|elmvnmu$|elmvnmo$", True,2,False, "de el/ella/ellxs a uds mas de 2 'si les'",True,100
+tC3,"eliyumew$|eliyumeu$|eliyumu$|eliyumo$", True,2,False, "de el/ella/ellxs a nosotros 2 'si nos'",True,100
+tC4,"elmumew$|elmumeu$|elmumu$|elmumo$", True,2,False, "de el/ella/ellxs a ustedes 2 'si les'",True,100
+tC5,"elimew$|elimeu$|elimu$|elimo$", True,2,False, "de el/ella/ellxs a mi 2 'si me'",True,100
+tC13,"elmew$|elmeu$|elmu$|elmo$", True,2,False, "de el/ella/ellxs a mi 2 'si te'",True,100
+tC7,"eliyew$|eliyu$", True,2,False, "de el/ella/ellxs a  el/ella/ellxs 'si les'",True,100
+tC8,"elmvn$", True,2,False, "a ustedes mas de 2 'si les'",True,100
+tC9,"eliyu$", True,2,False, "si yo a ti 'si yo te'",True,100
+tC10,"elmu$", True,2,False, "a ustedes 2",True,100
+tC11,"elmi$", True,2,False, "a ti 'si te' ",True,100
+tC12,"eli$", True,2,False, "tu a mi 'si me'",True,100
+di0,"pe[\s]*egu$", True,4,False, " que ellxs 2 hagan",True,100
+di1,"pe[\s]*egvn$", True,4,False, "que ellxs hagan",True,100
+di2,"mvn$", True,4,False, "que ustedes hagan",True,100
+di3,"mu$", True,4,False, " que ustedes 2 hagan",True,100
+di4,"yu$", True,4,False, "que nosostros 2 hagamos",True,100
+di8,"yiñ$", True,4,False, "que nosostros hagamos",True,100
+di5,"pe$", True,4,False, "que el/ella haga ",True,100
+di6,"ge$", True,4,False, "tu hazlo ",True,100
+di7,"ci$", True,4,False, "que yo haga",True,100
+ti1,"emvnmew$|emvnmeu$|emvnmu$|emvnmo$", True,4,False, "de el/ella/ellxs a ustedes 'orden'",True,100
+ti2,"emumew$|emumeu$|emumu$|emumo]$", True,4,False, "de  el/ella/ellxs a ustedes 2 'orden'",True,100
+ti3,"ecimecimew$|ecimeu$|ecimu$|ecimo$", True,4,False, "de el/ella/ellxs a yo 'orden'",True,100
+ti8,"fici$", True,4,False, "de yo a el/ella/ellxs 'orden'",True,100
+ti4,"fe$", True,4,False, "'hazlo a el/ella/es@'  'orden'",True,100
+dO0,"etew|etu|eto$", True,2,False, "se refiere a lo que hicieron o quien lo hizo (3ras personas a cualquiera; se usa con posesivos para ser más claro, con futuro se puede hablar de propósito)",True,100
+dO1,"y{0,1}[ve]m$", True,2,False, "sirve para hablar de 'cada vez que'",True,100
+dO2,"e{0,1}ntu$", True,2,False, "sirve para hacer conjuntos de cosas",True,100
+dO3,"y{0,1}em$", True,2,False, "puede servir para expresar algo que ya no corre",True,100
+dO4,"pey[ve]m$", True,2,False, "Herramienta o lugar para hacer una acción",True,100
+dO5,"wem[uo]m$", True,2,False, "con números expresa cantida de días hacia atrás",True,100
+dO6,"y{0,1}al$", True,2,False, "sirve para expresar propósito o una acción sin conjugar",True,100
+dO7,"[uw]ma$", True,2,False, "indica una persona o cosa que ya hizo la acción del verbo",True,100
+dO8,"m[uo]m$", True,2,False, "forma sustantivo que indica que un hecho ya ha sucedido",True,100
+dO10,"fiel$", True,2,False, "sirve para las transiciones indica una acción hecha sobre otrx(s)",True,100
+dO11,"wen$", True,2,False, "sirve para expresar relaciones entre personas ",True,100
+dO12,"fel$", True,2,False, "puede servir para expresar un deseo. también acción en el pasado",True,100
+dO13,"ke$", True,2,False, "con adjetivos 'pluraliza'",True,100
+dO14,"ci$", True,2,False, "sirve para hacer adjetivos",True,100
+dO15,"we$", True,2,False, "Herramienta o lugar para hacer una acción o donde resalta un elemento",True,100
+dO16,"fe$", True,2,False, "alguien que suele hacer esta acción como oficio por ejemplo",True,100
+dO17,"el$", True,2,False, "expresa acciones o resultados de esta en el pasado",True,100
+dO18,"lu$", True,2,False, "se puede referir a una persona o a una característica de esta, también sirve para decir 'cuando'",True,100
+dO19,"am$", True,2,False, "sirve para expresar propósito",True,100
+dO20,"v{0,1}n$", True,2,False, "verbo sin conjugar",True,100

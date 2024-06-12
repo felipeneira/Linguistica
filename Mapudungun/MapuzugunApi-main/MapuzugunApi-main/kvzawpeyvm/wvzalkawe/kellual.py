@@ -85,12 +85,10 @@ def kintuxokin(koyam,n=0,a=''):
     return koyam,None,None
 
 
-def pepikaam_hemvl(hemvla, mvlica=True):
-    xipaalu = dict()    
+def pepikaam_hemvl(hemvla, mvlica=True): 
     hemvla=[hemvl.strip().lower() for hemvl in hemvla.split()]
-    xipaalu['puhemvl'] = []
     for hemvl in hemvla:
-        prexipaalu = dict()
+        xipaalu = dict()
         wirintukun= chuchiWirintukun(hemvl)
         Nm=0
         koyam=None
@@ -104,8 +102,8 @@ def pepikaam_hemvl(hemvla, mvlica=True):
                 wirina = wirin
         
         if mvlica and len(wirintukun)>0 and type(koyam)!= type(None) and Nm>0:
-            prexipaalu['vy'] = hemvl
-            prexipaalu['wirintukun'] = wirintukunVy[wirina[0]][0]
+            xipaalu['vy'] = hemvl
+            xipaalu['wirintukun'] = wirintukunVy[wirina[0]][0]
             rr = len(koyam.kom_row)
             
             while True:
@@ -137,19 +135,62 @@ def pepikaam_hemvl(hemvla, mvlica=True):
             del aux
             del aux2
             xapvmal = []
-            prexipaalu['eypial'] = 1
             if rr==0:
-                prexipaalu['xipai'] = False
+                xipaalu['xipai'] = False
             else:
-                prexipaalu['xipai'] = True
+                xipaalu['xipai'] = True
             if len(hemvlkawe) > 0:
                 for i in range(len(hemvlkawe)):
                     xapvmal.append((hemvlkawe[i], regexkawe[i],wzkawe[i],hemvlkawew[i]))
-                prexipaalu['hemvlkawe'] = xapvmal
+                xipaalu['hemvlkawe'] = xapvmal
+                
+
+    return xipaalu
+
+
+def prueba(hemvla, mvlica=True):
+    hemvla=[hemvl.strip().lower() for hemvl in hemvla.split()]
+    for hemvl in hemvla:
+        xipaalu = dict()
+
+        xipaalu['vy'] = hemvl
+        rr = len(koyam.kom_row)
+            
+        while True:
+            koyam.kaxvrowvn()
+            if rr == len(koyam.kom_row):
+                break
+            else:
+                rr = len(koyam.kom_row)
 
         
-
-        xipaalu['puhemvl'].append(prexipaalu)
-            
-
+        koyam = kintuxokin(koyam,0)[0]            
+        hemvlkawe = koyam.wirintuku_hemvl2()
+        hemvlkawe =  [wirintukunVy[wirina[0]][1](h) for h in hemvlkawe]
+        hemvlkawew = [h.split('-')[1:] for h in hemvlkawe]
+        regexkawe = koyam.wirintuku_regex()
+        wzkawe = koyam.wirintuku_wz()
+        wzkawe = [h.split('-')[1:] for h in wzkawe]
+        aux = []
+        aux2 = []
+        for item in regexkawe:
+            if item != '^':
+                aux2.append(item)
+            else:
+                aux.append(aux2)
+                aux2 = []
+        aux.append(aux2)
+        regexkawe = aux
+        regexkawe.pop(0)
+        del aux
+        del aux2
+        xapvmal = []
+        if rr==0:
+            xipaalu['xipai'] = False
+        else:
+            xipaalu['xipai'] = True
+        if len(hemvlkawe) > 0:
+            for i in range(len(hemvlkawe)):
+                xapvmal.append((hemvlkawe[i], regexkawe[i],wzkawe[i],hemvlkawew[i]))
+            xipaalu['hemvlkawe'] = xapvmal
     return xipaalu
